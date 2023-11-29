@@ -1,0 +1,37 @@
+[
+    {
+        "version": "2.8.1",
+        "release_date": "31.10.2022",
+        "criticality_score": "0.32539",
+        "scorecard": 4.1,
+        "cve_details": [
+            {
+                "Year": 2020,
+                "No_of_Vulnerabilities": 1,
+                "DoS": "",
+                "Code_Execution": "",
+                "Overflow": "",
+                "Memory_Corruption": "",
+                "Sql_Injection": "",
+                "XSS": 1,
+                "Directory_Traversal": "",
+                "Http_Response_Splitting": "",
+                "Bypass_something": "",
+                "Gain_Information": "",
+                "Gain_Privileges": "",
+                "CSRF": "",
+                "File_Inclusion": "",
+                "No_of_exploits": ""
+            }
+        ]
+    }
+    ,
+    {
+        "version": "2.10.0",
+        "release_date": "28-Apr-2023",
+        "criticality_score": 0.33839,
+        "scorecard": 4.3,
+        "cve_details": "Not Available"
+
+    }
+]

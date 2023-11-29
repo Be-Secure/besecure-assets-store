@@ -1,0 +1,17 @@
+[
+    {
+        "version": "v6.0.0",
+        "release_date": "9-Jan-2022",
+        "criticality_score": 0.35046,
+        "scorecard": 3.8,
+        "cve_details": "Not Available" 
+    }
+    ,
+    {
+        "version": "v6.1.0",
+        "release_date": "03-May-2023",
+        "criticality_score": 0.38304,
+        "scorecard": 3.7,
+        "cve_details": "Not Available" 
+    }
+]

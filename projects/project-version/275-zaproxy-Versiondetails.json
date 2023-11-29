@@ -1,0 +1,30 @@
+[
+    {
+        "version": "w2023-02-27",
+        "release_date": "27-Feb-2023",
+        "criticality_score": "0.43748",
+        "scorecard": "4.1",
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "v2.11.1",
+        "release_date": "10-Dec-2021",
+        "criticality_score": 0.41143,
+        "scorecard": 4.1,
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "v2.12.0",
+        "release_date": "27-Oct-2022",
+        "criticality_score": "0.42651",
+        "scorecard": "4.1",
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "w2023-07-24",
+        "release_date": "24-Jul-2023",
+        "criticality_score": 0.43607,
+        "scorecard": 4.9,
+        "cve_details": "Not Available"
+    }
+]

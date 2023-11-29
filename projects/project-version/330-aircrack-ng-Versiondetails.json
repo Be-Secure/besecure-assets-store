@@ -1,0 +1,72 @@
+[
+    {
+        "version": "1.6",
+        "release_date": "26-Jan-2020",
+        "criticality_score": "0.40115",
+        "scorecard": "5.2",
+        "cve_details": 
+        [
+            {
+                "Year": "2013",
+                "# of Vulnerabilities": 1,
+                "DoS": 1,
+                "Code Execution": 1,
+                "Overflow": 1,
+                "Memory Corruption": null,
+                "Sql Injection": null,
+                "XSS": null,
+                "Directory Traversal": null,
+                "Http Response Splitting": null,
+                "Bypass something": null,
+                "Gain Information": null,
+                "Gain Privileges": null,
+                "CSRF": null,
+                "File Inclusion": null,
+                "# of exploits": null
+            },
+            {
+                "Year": "2020",
+                "# of Vulnerabilities": 2,
+                "DoS": null,
+                "Code Execution": 2,
+                "Overflow": 2,
+                "Memory Corruption": null,
+                "Sql Injection": null,
+                "XSS": null,
+                "Directory Traversal": null,
+                "Http Response Splitting": null,
+                "Bypass something": null,
+                "Gain Information": null,
+                "Gain Privileges": 1,
+                "CSRF": null,
+                "File Inclusion": null,
+                "# of exploits": 1
+            },
+            {
+                "Year": "Total",
+                "# of Vulnerabilities": 3,
+                "DoS": 1,
+                "Code Execution": 3,
+                "Overflow": 3,
+                "Memory Corruption": null,
+                "Sql Injection": null,
+                "XSS": null,
+                "Directory Traversal": null,
+                "Http Response Splitting": null,
+                "Bypass something": null,
+                "Gain Information": null,
+                "Gain Privileges": 1,
+                "CSRF": null,
+                "File Inclusion": null,
+                "# of exploits": 1
+            }
+        ]
+    },
+    {
+        "version": "1.7",
+        "release_date": "11-May-2022",
+        "criticality_score": 0.362,
+        "scorecard": 4.3,
+        "cve_details": "Not Available"
+    }
+]

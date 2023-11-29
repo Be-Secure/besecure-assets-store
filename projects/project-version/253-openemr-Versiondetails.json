@@ -1,0 +1,72 @@
+[
+  {
+    "version": "v7_0_0_1",
+    "release_date": "07-Aug-2022",
+    "criticality_score": 0.42806,
+    "scorecard": 3.6,
+    "cve_details": [
+      {
+        "Year": 2022,
+        "No_of_Vulnerabilities": 25,
+        "DoS": "",
+        "Code_Execution": "",
+        "Overflow": "",
+        "Memory_Corruption": "",
+        "Sql_Injection": "",
+        "XSS": 13,
+        "Directory_Traversal": "",
+        "Http_Response_Splitting": "",
+        "Bypass_something": 1,
+        "Gain_Information": "",
+        "Gain_Privileges": "",
+        "CSRF": "",
+        "File_Inclusion": "",
+        "No_of_exploits": ""
+      },
+      {
+        "Year": 2023,
+        "No_of_Vulnerabilities": 3,
+        "DoS": "",
+        "Code_Execution": 1,
+        "Overflow": "",
+        "Memory_Corruption": "",
+        "Sql_Injection": "",
+        "XSS": 1,
+        "Directory_Traversal": 1,
+        "Http_Response_Splitting": "",
+        "Bypass_something": "",
+        "Gain_Information": "",
+        "Gain_Privileges": "",
+        "CSRF": "",
+        "File_Inclusion": 1,
+        "No_of_exploits": ""
+      },
+      {
+        "Year": "Total",
+        "No_of_Vulnerabilities": 28,
+        "DoS": "",
+        "Code_Execution": "1",
+        "Overflow": "",
+        "Memory_Corruption": "",
+        "Sql_Injection": "",
+        "XSS": 14,
+        "Directory_Traversal": 1,
+        "Http_Response_Splitting": "",
+        "Bypass_something": 1,
+        "Gain_Information": "",
+        "Gain_Privileges": "",
+        "CSRF": "",
+        "File_Inclusion": 1,
+        "No_of_exploits": ""
+      }
+    ]
+  }
+  ,
+  {
+    "version": "v7_0_1_1",
+    "release_date": "30-May-2023",
+    "criticality_score": 0.4391,
+    "scorecard": 5.4,
+    "cve_details": "Not Available"
+  }
+]

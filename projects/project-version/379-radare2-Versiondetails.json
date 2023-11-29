@@ -1,0 +1,18 @@
+[
+    {
+        "version": "5.8.2",
+        "release_date": "23-Jan-2023",
+        "criticality_score": 0.46571,
+        "scorecard": 4.2,
+        "cve_details": "Not Available"
+    }
+    ,
+    {
+
+        "version": "5.8.8",
+        "release_date": "08-Jun-2023",
+        "criticality_score": 0.49996,
+        "scorecard": 5,
+        "cve_details": "Not Available"
+    }
+]

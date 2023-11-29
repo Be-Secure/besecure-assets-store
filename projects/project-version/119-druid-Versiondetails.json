@@ -1,0 +1,85 @@
+[
+    {
+        "version": "druid-0.22.0",
+        "release_date": "16-sep-2021",
+        "criticality_score": "Not Available",
+        "scorecard": "5",
+        "cve_details": [
+            {
+                "Year": "2021",
+                "of_Vulnerabilities": 4,
+                "DoS": null,
+                "Code Execution": 2,
+                "Overflow": null,
+                "Memory Corruption": null,
+                "Sql Injection": null,
+                "XSS": null,
+                "Directory_Traversal": null,
+                "Http_Response_Splitting": null,
+                "Bypass_something": 2,
+                "Gain_Information": null,
+                "Gain_Privileges": null,
+                "CSRF": null,
+                "File_Inclusion": null,
+                "of_exploits": ""
+            },
+            {
+                "Year": "2022",
+                "of_Vulnerabilities": 2,
+                "DoS": null,
+                "Code_Execution": null,
+                "Overflow": null,
+                "Memory_Corruption": null,
+                "Sql_Injection": null,
+                "XSS": 1,
+                "Directory_Traversal": null,
+                "Http_Response_Splitting": null,
+                "Bypass_something": null,
+                "Gain_Information": null,
+                "Gain_Privileges": null,
+                "CSRF": null,
+                "File_Inclusion": null,
+                "of_exploits": ""
+            },
+            {
+                "Year": "Total",
+                "of_Vulnerabilities": 6,
+                "DoS": null,
+                "Code_Execution": 2,
+                "Overflow": null,
+                "Memory_Corruption": null,
+                "Sql_Injection": null,
+                "XSS": 1,
+                "Directory_Traversal": null,
+                "Http_Response_Splitting": null,
+                "Bypass_something": 2,
+                "Gain_Information": null,
+                "Gain_Privileges": null,
+                "CSRF": null,
+                "File_Inclusion": null,
+                "of_exploits": ""
+            }
+        ]
+    },
+    {
+        "version": "druid-24.0.1",
+        "release_date": "06-Nov-2022",
+        "criticality_score": "Not Available",
+        "scorecard": "5",
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "druid-26.0.0",
+        "release_date": "24-May-2023",
+        "criticality_score": 0.48036,
+        "scorecard": 5,
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "druid-27.0.0",
+        "release_date": "4-Aug-2023",
+        "criticality_score": 0.48067,
+        "scorecard": 4.4,
+        "cve_details": "Not Available"
+    }
+]

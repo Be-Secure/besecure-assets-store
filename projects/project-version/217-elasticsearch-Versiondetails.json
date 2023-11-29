@@ -1,0 +1,67 @@
+[
+    {
+        "version": "v8.6.1",
+        "release_date": "26-Jan-2023",
+        "criticality_score": "0.50867",
+        "scorecard": "3.9",
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "v7.6.0",
+        "release_date": "11-Feb-2020",
+        "criticality_score": "0.46681",
+        "scorecard": "3.9",
+        "cve_details": [
+            {
+                "Year": 2021,
+                "No_of_Vulnerabilities": 2,
+                "DoS": "",
+                "Code_Execution": "",
+                "Overflow": "",
+                "Memory_Corruption": "",
+                "Sql_Injection": "",
+                "XSS": "",
+                "Directory_Traversal": "",
+                "Http_Response_Splitting": "",
+                "Bypass_something": "",
+                "Gain_Information": 2,
+                "Gain_Privileges": "",
+                "CSRF": "",
+                "File_Inclusion": "",
+                "No_of_exploits": ""
+            },
+            {
+                "Year": "Total",
+                "No_of_Vulnerabilities": 2,
+                "DoS": "",
+                "Code_Execution": "",
+                "Overflow": "",
+                "Memory_Corruption": "",
+                "Sql_Injection": "",
+                "XSS": "",
+                "Directory_Traversal": "",
+                "Http_Response_Splitting": "",
+                "Bypass_something": "",
+                "Gain_Information": 2,
+                "Gain_Privileges": "",
+                "CSRF": "",
+                "File_Inclusion": "",
+                "No_of_exploits": ""
+            }
+        ]
+    },
+    {
+        "version": "v8.8.2",
+        "release_date": "29-Jun-2023",
+        "criticality_score": 0.54746,
+        "scorecard": 4.7,
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "v8.10.4",
+        "release_date": "11-Oct-2023",
+        "criticality_score": 0.54027,
+        "scorecard": 4.7,
+        "cve_details": "Not Available"
+    }
+]

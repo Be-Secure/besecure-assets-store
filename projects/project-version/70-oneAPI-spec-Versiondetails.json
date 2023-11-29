@@ -1,0 +1,16 @@
+[
+    {
+        "version": "oneVPL-v2.8",
+        "release_date": "28-Jan-2023",
+        "criticality_score": "0.34493",
+        "scorecard": "4.4",
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "oneVPL-v2.9",
+        "release_date": "01-Apr-2023",
+        "criticality_score": 0.30894,
+        "scorecard": 3.8,
+        "cve_details": "Not Available"
+    }
+]

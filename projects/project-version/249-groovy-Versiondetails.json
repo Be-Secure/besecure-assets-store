@@ -1,0 +1,16 @@
+[
+    {
+        "version": "GROOVY_4_0_4",
+        "release_date": "20-Jul-2022",
+        "criticality_score": 0.51556,
+        "scorecard": 5,
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "GROOVY_4_0_13",
+        "release_date": "26-Jun-2023",
+        "criticality_score": 0.46895,
+        "scorecard": 4.9,
+        "cve_details": "Not Available"
+    }
+]
