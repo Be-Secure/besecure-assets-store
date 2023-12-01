@@ -11474,6 +11474,390 @@
         "Dockerfile": 341
       },
       "tags": ["COM - C", "IND-ALL", "SD-AS", "S", "TD-U-AI/ML", "Tracked"]
-    }
+    },
+    {
+      "id": 465,
+      "bes_tracking_id": 465,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/465",
+      "name": "spring-kafka",
+      "full_name": "Be-Secure/spring-kafka",
+      "description": "Provides Familiar Spring Abstractions for Apache Kafka",
+      "bes_technology_stack": "L&F",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 11678,
+      "open_issues": 0,
+      "created_at": "2023-11-17T03:02:18Z",
+      "updated_at": "2023-11-27T09:17:22Z",
+      "pushed_at": "2023-11-29T03:49:30Z",
+      "git_url": "git://github.com/Be-Secure/spring-kafka.git",
+      "clone_url": "https://github.com/Be-Secure/spring-kafka.git",
+      "html_url": "https://github.com/Be-Secure/spring-kafka",
+      "homepage": "https://projects.spring.io/spring-kafka",
+      "owner": {
+          "login": "Be-Secure",
+          "id": 44028837,
+          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+          "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Be-Secure",
+          "html_url": "https://github.com/Be-Secure",
+          "followers_url": "https://api.github.com/users/Be-Secure/followers",
+          "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+          "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+          "repos_url": "https://api.github.com/users/Be-Secure/repos",
+          "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+          "type": "Organization",
+          "site_admin": false
+      },
+      "project_repos": {
+          "main_github_url": "https://github.com/spring-projects/spring-kafka",
+          "main_bes_url": "https://github.com/Be-Secure/spring-kafka",
+          "all_projects": [
+              {
+                  "id": 52980493,
+                  "name": "spring-projects/spring-kafka",
+                  "url": "https://github.com/spring-projects/spring-kafka"
+              }
+          ],
+          "all_bes_repos": [
+              {
+                  "id": 719850561,
+                  "name": "Be-Secure/spring-kafka",
+                  "url": "https://github.com/Be-Secure/spring-kafka"
+              }
+          ]
+      },
+      "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+          "Java": 3624577,
+          "Kotlin": 29831,
+          "HTML": 773
+      },
+      "tags": [
+          "L&F",
+          "Untracked"
+      ]
+  },
+  {
+      "id": 464,
+      "bes_tracking_id": 464,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/464",
+      "name": "spring-data-redis",
+      "full_name": "Be-Secure/spring-data-redis",
+      "description": "Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.",
+      "bes_technology_stack": "L&F",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 26170,
+      "open_issues": 0,
+      "created_at": "2023-11-15T04:00:23Z",
+      "updated_at": "2023-11-27T09:13:56Z",
+      "pushed_at": "2023-11-29T04:26:16Z",
+      "git_url": "git://github.com/Be-Secure/spring-data-redis.git",
+      "clone_url": "https://github.com/Be-Secure/spring-data-redis.git",
+      "html_url": "https://github.com/Be-Secure/spring-data-redis",
+      "homepage": "https://spring.io/projects/spring-data-redis/",
+      "owner": {
+          "login": "Be-Secure",
+          "id": 44028837,
+          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+          "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Be-Secure",
+          "html_url": "https://github.com/Be-Secure",
+          "followers_url": "https://api.github.com/users/Be-Secure/followers",
+          "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+          "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+          "repos_url": "https://api.github.com/users/Be-Secure/repos",
+          "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+          "type": "Organization",
+          "site_admin": false
+      },
+      "project_repos": {
+          "main_github_url": "https://github.com/spring-projects/spring-data-redis",
+          "main_bes_url": "https://github.com/Be-Secure/spring-data-redis",
+          "all_projects": [
+              {
+                  "id": 1983092,
+                  "name": "spring-projects/spring-data-redis",
+                  "url": "https://github.com/spring-projects/spring-data-redis"
+              }
+          ],
+          "all_bes_repos": [
+              {
+                  "id": 718921515,
+                  "name": "Be-Secure/spring-data-redis",
+                  "url": "https://github.com/Be-Secure/spring-data-redis"
+              }
+          ]
+      },
+      "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+          "Java": 6607303,
+          "Kotlin": 158013,
+          "Makefile": 6483,
+          "Dockerfile": 880,
+          "Shell": 832,
+          "Lua": 509
+      },
+      "tags": [
+          "L&F",
+          "Untracked"
+      ]
+  },
+  {
+      "id": 463,
+      "bes_tracking_id": 463,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/463",
+      "name": "spring-data-mongodb",
+      "full_name": "Be-Secure/spring-data-mongodb",
+      "description": "Provides support to increase developer productivity in Java when using MongoDB. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.",
+      "bes_technology_stack": "L&F",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 31923,
+      "open_issues": 0,
+      "created_at": "2023-11-15T03:56:03Z",
+      "updated_at": "2023-11-27T09:13:01Z",
+      "pushed_at": "2023-11-29T04:34:02Z",
+      "git_url": "git://github.com/Be-Secure/spring-data-mongodb.git",
+      "clone_url": "https://github.com/Be-Secure/spring-data-mongodb.git",
+      "html_url": "https://github.com/Be-Secure/spring-data-mongodb",
+      "homepage": "https://spring.io/projects/spring-data-mongodb/",
+      "owner": {
+          "login": "Be-Secure",
+          "id": 44028837,
+          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+          "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Be-Secure",
+          "html_url": "https://github.com/Be-Secure",
+          "followers_url": "https://api.github.com/users/Be-Secure/followers",
+          "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+          "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+          "repos_url": "https://api.github.com/users/Be-Secure/repos",
+          "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+          "type": "Organization",
+          "site_admin": false
+      },
+      "project_repos": {
+          "main_github_url": "https://github.com/spring-projects/spring-data-mongodb",
+          "main_bes_url": "https://github.com/Be-Secure/spring-data-mongodb",
+          "all_projects": [
+              {
+                  "id": 2566570,
+                  "name": "spring-projects/spring-data-mongodb",
+                  "url": "https://github.com/spring-projects/spring-data-mongodb"
+              }
+          ],
+          "all_bes_repos": [
+              {
+                  "id": 718920513,
+                  "name": "Be-Secure/spring-data-mongodb",
+                  "url": "https://github.com/Be-Secure/spring-data-mongodb"
+              }
+          ]
+      },
+      "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+          "Java": 7581588,
+          "Kotlin": 146192,
+          "Dockerfile": 4410,
+          "JavaScript": 303
+      },
+      "tags": [
+          "L&F",
+          "Untracked"
+      ]
+  },
+  {
+      "id": 460,
+      "bes_tracking_id": 460,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/460",
+      "name": "spring-session",
+      "full_name": "Be-Secure/spring-session",
+      "description": "Spring Session",
+      "bes_technology_stack": "L&F",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 23727,
+      "open_issues": 0,
+      "created_at": "2023-11-10T08:27:46Z",
+      "updated_at": "2023-11-27T09:19:20Z",
+      "pushed_at": "2023-11-29T04:39:17Z",
+      "git_url": "git://github.com/Be-Secure/spring-session.git",
+      "clone_url": "https://github.com/Be-Secure/spring-session.git",
+      "html_url": "https://github.com/Be-Secure/spring-session",
+      "homepage": "https://spring.io/projects/spring-session",
+      "owner": {
+          "login": "Be-Secure",
+          "id": 44028837,
+          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+          "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Be-Secure",
+          "html_url": "https://github.com/Be-Secure",
+          "followers_url": "https://api.github.com/users/Be-Secure/followers",
+          "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+          "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+          "repos_url": "https://api.github.com/users/Be-Secure/repos",
+          "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+          "type": "Organization",
+          "site_admin": false
+      },
+      "project_repos": {
+          "main_github_url": "https://github.com/spring-projects/spring-session",
+          "main_bes_url": "https://github.com/Be-Secure/spring-session",
+          "all_projects": [
+              {
+                  "id": 21052744,
+                  "name": "spring-projects/spring-session",
+                  "url": "https://github.com/spring-projects/spring-session"
+              }
+          ],
+          "all_bes_repos": [
+              {
+                  "id": 716956432,
+                  "name": "Be-Secure/spring-session",
+                  "url": "https://github.com/Be-Secure/spring-session"
+              }
+          ]
+      },
+      "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+          "Java": 1661576,
+          "Groovy": 56798,
+          "HTML": 36763,
+          "JavaScript": 12662,
+          "Ruby": 7007,
+          "Shell": 213
+      },
+      "tags": [
+          "L&F",
+          "Untracked"
+      ]
+  },
+  {
+      "id": 459,
+      "bes_tracking_id": 459,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/459",
+      "name": "spring-data-jpa",
+      "full_name": "Be-Secure/spring-data-jpa",
+      "description": "Simplifies the development of creating a JPA-based data access layer. ",
+      "bes_technology_stack": "L&F",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 12373,
+      "open_issues": 0,
+      "created_at": "2023-11-09T09:55:37Z",
+      "updated_at": "2023-11-27T09:12:10Z",
+      "pushed_at": "2023-11-29T04:09:49Z",
+      "git_url": "git://github.com/Be-Secure/spring-data-jpa.git",
+      "clone_url": "https://github.com/Be-Secure/spring-data-jpa.git",
+      "html_url": "https://github.com/Be-Secure/spring-data-jpa",
+      "homepage": "https://spring.io/projects/spring-data-jpa/",
+      "owner": {
+          "login": "Be-Secure",
+          "id": 44028837,
+          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+          "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Be-Secure",
+          "html_url": "https://github.com/Be-Secure",
+          "followers_url": "https://api.github.com/users/Be-Secure/followers",
+          "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+          "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+          "repos_url": "https://api.github.com/users/Be-Secure/repos",
+          "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+          "type": "Organization",
+          "site_admin": false
+      },
+      "project_repos": {
+          "main_github_url": "https://github.com/spring-projects/spring-data-jpa",
+          "main_bes_url": "https://github.com/Be-Secure/spring-data-jpa",
+          "all_projects": [
+              {
+                  "id": 1072845,
+                  "name": "spring-projects/spring-data-jpa",
+                  "url": "https://github.com/spring-projects/spring-data-jpa"
+              }
+          ],
+          "all_bes_repos": [
+              {
+                  "id": 716516499,
+                  "name": "Be-Secure/spring-data-jpa",
+                  "url": "https://github.com/Be-Secure/spring-data-jpa"
+              }
+          ]
+      },
+      "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+          "Java": 2264427,
+          "ANTLR": 51102,
+          "PLpgSQL": 1573,
+          "Shell": 496,
+          "HTML": 172
+      },
+      "tags": [
+          "L&F",
+          "Untracked"
+      ]
+  }
   ]
 }
