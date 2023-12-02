@@ -487,5 +487,31 @@
     "prohibited_uses": "",
     "monitoring": "",
     "feedback": "https://huggingface.co/moro23/ml-generation-failure-prediction/discussions"
+  },
+  {
+    "type": "model",
+    "name": "beS-image-classification",
+    "organization": "Be-Secure",
+    "description": "ML classification model for images",
+    "created_date": "2023-11-30",
+    "model_url": "https://github.com/asa1997/ml-evasion/raw/main/model.zip",
+    "data_url": "https://github.com/asa1997/ml-evasion/raw/main/data.zip",
+    "label_url": "https://github.com/asa1997/ml-evasion/raw/main/label.zip",
+    "url": "unknown",
+    "model_card": "",
+    "modality": "image; image",
+    "analysis": "",
+    "size": "",
+    "dependencies": [""],
+    "training_emissions": "",
+    "training_time": "",
+    "training_hardware": "",
+    "quality_control": "",
+    "access": "open",
+    "license": "unknown",
+    "intended_uses": "This model is not ready to be used in production.",
+    "prohibited_uses": "",
+    "monitoring": "",
+    "feedback": ""
   }
 ]
