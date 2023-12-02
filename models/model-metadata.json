@@ -490,7 +490,7 @@
   },
   {
     "type": "model",
-    "name": "beS-image-classification",
+    "name": "bes-image-classification",
     "organization": "Be-Secure",
     "description": "ML classification model for images",
     "created_date": "2023-11-30",
