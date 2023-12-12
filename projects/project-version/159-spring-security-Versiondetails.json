@@ -11,6 +11,13 @@
         "release_date": "18-Jul-2023",
         "criticality_score": 0.50281,
         "scorecard": 5.2,
-        "cve_details": "Not Available"  
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "6.2.0",
+        "release_date": "20-Nov-2023",
+        "criticality_score": "Not Available",
+        "scorecard": "Not Available",
+        "cve_details": "Not Available"
     }
 ]
