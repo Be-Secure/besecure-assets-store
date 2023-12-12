@@ -11476,7 +11476,6 @@
       "tags": ["COM - C", "IND-ALL", "SD-AS", "S", "TD-U-AI/ML", "Tracked"]
     },
     {
-<<<<<<< HEAD
       "id": 462,
       "bes_tracking_id": 462,
       "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/462",
@@ -11565,8 +11564,8 @@
         "IND-ALL",
         "L&F"
       ]
-    }
-=======
+    },
+    {
       "id": 465,
       "bes_tracking_id": 465,
       "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/465",
@@ -11950,6 +11949,5 @@
           "Untracked"
       ]
   }
->>>>>>> c6f6e8c (added - spring-boot new projects and version details)
   ]
 }
