@@ -11435,11 +11435,11 @@
         "Shell": 4736,
         "Dockerfile": 341
       },
-<<<<<<< HEAD
+
       "tags": ["COM-C", "ALL", "SD-AS", "S", "TD-U-AI/ML", "Tracked"]
     },
     {
-<<<<<<< HEAD
+
       "id": 462,
       "bes_tracking_id": 462,
       "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/462",
@@ -11896,7 +11896,6 @@
           "L&F",
           "Untracked"
       ]
-<<<<<<< HEAD
   },
   {
     "id": 475,
@@ -11975,15 +11974,8 @@
         "IND-ALL",
         "Untracked"
     ]
-}
-=======
-    }
-=======
-=======
-      "tags": ["COM - C", "IND-ALL", "SD-AS", "S", "TD-U-AI/ML", "Tracked"]
-    },
+},
     {
->>>>>>> c6f6e8c (added - spring-boot new projects and version details)
       "id": 465,
       "bes_tracking_id": 465,
       "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/465",
@@ -12366,14 +12358,7 @@
           "L&F",
           "Untracked"
       ]
-<<<<<<< HEAD
-  }
-<<<<<<< HEAD
->>>>>>> c6f6e8c (added - spring-boot new projects and version details)
->>>>>>> 2f91690 (resolved merge conflict from upstream)
-=======
->>>>>>> c6f6e8c (added - spring-boot new projects and version details)
-=======
+
   },
   {
     "id": 475,
@@ -12453,6 +12438,5 @@
         "Untracked"
     ]
 }
->>>>>>> a2281a1 (added newrelic-java-agent for tracking)
   ]
 }
