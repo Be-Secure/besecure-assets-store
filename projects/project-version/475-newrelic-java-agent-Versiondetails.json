@@ -1,9 +1,9 @@
 [
     {
-        "version": "8.7.0",
+        "version": "v8.7.0",
         "release_date": "24-Oct-2023",
         "criticality_score": "Not Available",
-        "scorecard": "Not Available",
+        "scorecard": 2.9,
         "cve_details": "Not Available"
     }
 ]
