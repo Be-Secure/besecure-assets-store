@@ -12366,11 +12366,93 @@
           "L&F",
           "Untracked"
       ]
+<<<<<<< HEAD
   }
 <<<<<<< HEAD
 >>>>>>> c6f6e8c (added - spring-boot new projects and version details)
 >>>>>>> 2f91690 (resolved merge conflict from upstream)
 =======
 >>>>>>> c6f6e8c (added - spring-boot new projects and version details)
+=======
+  },
+  {
+    "id": 475,
+    "bes_tracking_id": 475,
+    "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/475",
+    "name": "newrelic-java-agent",
+    "full_name": "Be-Secure/newrelic-java-agent",
+    "description": "The New Relic Java agent",
+    "bes_technology_stack": "A",
+    "watchers_count": 0,
+    "forks_count": 0,
+    "stargazers_count": 0,
+    "size": 59771,
+    "open_issues": 0,
+    "created_at": "2023-12-11T11:23:52Z",
+    "updated_at": "2023-12-11T11:30:03Z",
+    "pushed_at": "2023-12-13T09:22:47Z",
+    "git_url": "git://github.com/Be-Secure/newrelic-java-agent.git",
+    "clone_url": "https://github.com/Be-Secure/newrelic-java-agent.git",
+    "html_url": "https://github.com/Be-Secure/newrelic-java-agent",
+    "homepage": "",
+    "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+    },
+    "project_repos": {
+        "main_github_url": "https://github.com/newrelic/newrelic-java-agent",
+        "main_bes_url": "https://github.com/Be-Secure/newrelic-java-agent",
+        "all_projects": [
+            {
+                "id": 275016355,
+                "name": "newrelic/newrelic-java-agent",
+                "url": "https://github.com/newrelic/newrelic-java-agent"
+            }
+        ],
+        "all_bes_repos": [
+            {
+                "id": 730179673,
+                "name": "Be-Secure/newrelic-java-agent",
+                "url": "https://github.com/Be-Secure/newrelic-java-agent"
+            }
+        ]
+    },
+    "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+    },
+    "language": {
+        "Java": 17097088,
+        "Scala": 728478,
+        "HTML": 62037,
+        "Shell": 9932,
+        "Groovy": 5230,
+        "Kotlin": 2400
+    },
+    "tags": [
+        "IND-ALL",
+        "Untracked"
+    ]
+}
+>>>>>>> a2281a1 (added newrelic-java-agent for tracking)
   ]
 }
