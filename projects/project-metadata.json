@@ -2471,11 +2471,11 @@
         ]
       },
       "license": {
-        "key": "bsd-3-clause",
-        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
-        "spdx_id": "BSD-3-Clause",
-        "url": "https://api.github.com/licenses/bsd-3-clause",
-        "node_id": "MDc6TGljZW5zZTU="
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
       },
       "language": [
         {
@@ -5862,11 +5862,11 @@
         ]
       },
       "license": {
-        "key": "bsd-3-clause",
-        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
-        "spdx_id": "BSD-3-Clause",
-        "url": "https://api.github.com/licenses/bsd-3-clause",
-        "node_id": "MDc6TGljZW5zZTU="
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
       },
       "language": {
         "Shell": 10236,
@@ -6090,7 +6090,7 @@
       },
       "license": {
         "key": "bsd-3-clause",
-        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "name": "BSD 3-Clause",
         "spdx_id": "BSD-3-Clause",
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
