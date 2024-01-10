@@ -2470,7 +2470,13 @@
           }
         ]
       },
-      "license": null,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
       "language": [
         {
           "Kotlin": 11198575,
@@ -5855,7 +5861,13 @@
           }
         ]
       },
-      "license": null,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
       "language": {
         "Shell": 10236,
         "Batchfile": 4030,
@@ -6076,7 +6088,13 @@
           }
         ]
       },
-      "license": null,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
       "language": {
         "C++": 330211,
         "CMake": 10490
