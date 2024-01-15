@@ -12044,6 +12044,87 @@
         "IND-ALL",
         "Untracked"
     ]
-}
+},
+    {
+      "id": 461,
+      "bes_tracking_id": 461,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/461",
+      "name": "watchtower",
+      "full_name": "Be-Secure/watchtower",
+      "description": "AIShield Watchtower: Dive Deep into AI's Secrets! \ud83d\udd0d Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! \u2699\ufe0f\ud83d\udee1\ufe0f",
+      "bes_technology_stack": "A",
+      "watchers_count": 0,
+      "forks_count": 1,
+      "stargazers_count": 0,
+      "size": 21095,
+      "open_issues": 0,
+      "created_at": "2023-11-10T08:26:53Z",
+      "updated_at": "2024-01-15T07:31:15Z",
+      "pushed_at": "2024-01-15T07:54:46Z",
+      "git_url": "git://github.com/Be-Secure/watchtower.git",
+      "clone_url": "https://github.com/Be-Secure/watchtower.git",
+      "html_url": "https://github.com/Be-Secure/watchtower",
+      "homepage": "https://www.boschaishield.com/",
+      "owner": {
+          "login": "Be-Secure",
+          "id": 44028837,
+          "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+          "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Be-Secure",
+          "html_url": "https://github.com/Be-Secure",
+          "followers_url": "https://api.github.com/users/Be-Secure/followers",
+          "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+          "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+          "repos_url": "https://api.github.com/users/Be-Secure/repos",
+          "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+          "type": "Organization",
+          "site_admin": false
+      },
+      "project_repos": {
+          "main_github_url": "https://github.com/bosch-aisecurity-aishield/watchtower",
+          "main_bes_url": "https://github.com/Be-Secure/watchtower",
+          "all_projects": [
+              {
+                  "id": 694725955,
+                  "name": "bosch-aisecurity-aishield/watchtower",
+                  "url": "https://github.com/bosch-aisecurity-aishield/watchtower"
+              }
+          ],
+          "all_bes_repos": [
+              {
+                  "id": 716956129,
+                  "name": "Be-Secure/watchtower",
+                  "url": "https://github.com/Be-Secure/watchtower"
+              }
+          ]
+      },
+      "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+          "PureBasic": 217954,
+          "Python": 116227,
+          "HTML": 50550,
+          "Jupyter Notebook": 22983,
+          "Dockerfile": 637
+      },
+      "tags": [
+          "COM - C",
+          "A",
+          "IND-CyS",
+          "TD-C-WA",
+          "TD-U-AI/ML",
+          "Untracked"
+      ]
+    }
   ]
 }
