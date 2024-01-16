@@ -1,6 +1,6 @@
 [
     {
-        "version": "humble/2022-05-23",
+        "version": "humble-2022-05-23",
         "release_date": "23-May-2022",
         "criticality_score": 0.54543,
         "scorecard": 5.4,
@@ -8,7 +8,7 @@
     }
     ,
     {
-        "version": "iron/2023-07-28",
+        "version": "iron-2023-07-28",
         "release_date": "15-Feb-2023",
         "criticality_score": 0.54619,
         "scorecard": 5.1,
