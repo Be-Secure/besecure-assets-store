@@ -520,7 +520,12 @@
         "HTML": 21556,
         "Shell": 7652
       },
-      "tags": ["A", "IND-AM", "COM-C", "TD-U-IoT"]
+      "tags": [
+        "A",
+        "IND-AM",
+        "COM-C",
+        "TD-U-IoT"
+      ]
     },
     {
       "id": 281,
@@ -579,7 +584,12 @@
         "Makefile": 1762,
         "Batchfile": 463
       },
-      "tags": ["A", "IND-AM", "COM-C", "TD-U-IoT"]
+      "tags": [
+        "A",
+        "IND-AM",
+        "COM-C",
+        "TD-U-IoT"
+      ]
     },
     {
       "id": 222,
@@ -639,7 +649,12 @@
         "C++": 1765,
         "Clojure": 959
       },
-      "tags": ["A", "IND-AM", "COM-C", "TD-U-IoT"]
+      "tags": [
+        "A",
+        "IND-AM",
+        "COM-C",
+        "TD-U-IoT"
+      ]
     },
     {
       "id": 136,
@@ -2789,7 +2804,13 @@
         "Python": 1169,
         "Vim Snippet": 32
       },
-      "tags": ["COM-C", "COM-F", "L&F", "TD-C-S", "TD-U-AI/ML"]
+      "tags": [
+        "COM-C",
+        "COM-F",
+        "L&F",
+        "TD-C-S",
+        "TD-U-AI/ML"
+      ]
     },
     {
       "id": 232,
@@ -6969,7 +6990,11 @@
       "language": {
         "C": 2599098
       },
-      "tags": ["IND-CyS", "SD-NS", "S"]
+      "tags": [
+        "IND-CyS",
+        "SD-NS",
+        "S"
+      ]
     },
     {
       "id": 377,
@@ -7512,7 +7537,12 @@
         "Python": 59285,
         "PowerShell": 10431
       },
-      "tags": ["IND-CyS", "SD-DS", "SD-AS", "S"]
+      "tags": [
+        "IND-CyS",
+        "SD-DS",
+        "SD-AS",
+        "S"
+      ]
     },
     {
       "id": 366,
@@ -7672,7 +7702,10 @@
         "Logos": 112845,
         "Shell": 264
       },
-      "tags": ["IND-CyS", "S"]
+      "tags": [
+        "IND-CyS",
+        "S"
+      ]
     },
     {
       "id": 172,
@@ -7750,7 +7783,13 @@
         "Dockerfile": 2041,
         "Makefile": 1438
       },
-      "tags": ["A", "IND-CON", "COM-C", "TD-U-W", "Tracked"]
+      "tags": [
+        "A",
+        "IND-CON",
+        "COM-C",
+        "TD-U-W",
+        "Tracked"
+      ]
     },
     {
       "id": 407,
