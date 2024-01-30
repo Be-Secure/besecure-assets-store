@@ -1977,12 +1977,10 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
       },
-      "language": [
-        {
-          "JavaScript": 754789,
-          "Shell": 58
-        }
-      ],
+      "language": {
+        "JavaScript": 754789,
+        "Shell": 58
+      },
       "tags": ["L&F", "ALL", "COM-C"]
     },
     {
@@ -2032,23 +2030,21 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
       },
-      "language": [
-        {
-          "TypeScript": 3501550,
-          "JavaScript": 2959974,
-          "HTML": 130183,
-          "CSS": 101881,
-          "Mustache": 48814,
-          "Handlebars": 31635,
-          "Shell": 22781,
-          "Java": 20784,
-          "Objective-C": 16633,
-          "Ruby": 2194,
-          "Starlark": 1920,
-          "C": 419,
-          "Batchfile": 140
-        }
-      ],
+      "language": {
+        "TypeScript": 3501550,
+        "JavaScript": 2959974,
+        "HTML": 130183,
+        "CSS": 101881,
+        "Mustache": 48814,
+        "Handlebars": 31635,
+        "Shell": 22781,
+        "Java": 20784,
+        "Objective-C": 16633,
+        "Ruby": 2194,
+        "Starlark": 1920,
+        "C": 419,
+        "Batchfile": 140
+      },
       "tags": ["A", "ALL", "COM-C", "TD-U-W", "TD-U-DkA", "TD-U-MoA"]
     },
     {
@@ -2098,21 +2094,19 @@
         "url": "https://api.github.com/licenses/lgpl-3.0",
         "node_id": "MDc6TGljZW5zZTEy"
       },
-      "language": [
-        {
-          "C": 3279350,
-          "Python": 218858,
-          "Meson": 69516,
-          "Assembly": 61849,
-          "Makefile": 46362,
-          "Shell": 25234,
-          "C++": 10515,
-          "Dockerfile": 6210,
-          "GDB": 4927,
-          "Rust": 970,
-          "Emacs Lisp": 478
-        }
-      ],
+      "language": {
+        "C": 3279350,
+        "Python": 218858,
+        "Meson": 69516,
+        "Assembly": 61849,
+        "Makefile": 46362,
+        "Shell": 25234,
+        "C++": 10515,
+        "Dockerfile": 6210,
+        "GDB": 4927,
+        "Rust": 970,
+        "Emacs Lisp": 478
+      },
       "tags": ["L&F", "SD-AS", "ALL", "COM-C"]
     },
     {
@@ -2162,24 +2156,22 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
       },
-      "language": [
-        {
-          "Java": 2457732,
-          "Ruby": 2456269,
-          "Shell": 76820,
-          "HTML": 60726,
-          "Python": 17531,
-          "CSS": 14421,
-          "Makefile": 10506,
-          "Groovy": 10043,
-          "PowerShell": 9805,
-          "Batchfile": 8625,
-          "Jinja": 7440,
-          "Go": 6056,
-          "C": 3338,
-          "Dockerfile": 2644
-        }
-      ],
+      "language": {
+        "Java": 2457732,
+        "Ruby": 2456269,
+        "Shell": 76820,
+        "HTML": 60726,
+        "Python": 17531,
+        "CSS": 14421,
+        "Makefile": 10506,
+        "Groovy": 10043,
+        "PowerShell": 9805,
+        "Batchfile": 8625,
+        "Jinja": 7440,
+        "Go": 6056,
+        "C": 3338,
+        "Dockerfile": 2644
+      },
       "tags": [
         "L&F",
         "TD-C-s",
@@ -2239,16 +2231,14 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
       },
-      "language": [
-        {
-          "Java": 12478304,
-          "HTML": 1292369,
-          "FreeMarker": 296744,
-          "JavaScript": 33058,
-          "CSS": 22949,
-          "XSLT": 11725
-        }
-      ],
+      "language": {
+        "Java": 12478304,
+        "HTML": 1292369,
+        "FreeMarker": 296744,
+        "JavaScript": 33058,
+        "CSS": 22949,
+        "XSLT": 11725
+      },
       "tags": [
         "L&F",
         "TD-C-WA",
@@ -2309,11 +2299,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
       },
-      "language": [
-        {
-          "Python": 66777
-        }
-      ],
+      "language": {
+        "Python": 66777
+      },
       "tags": ["L&F", "SD-AS", "IND-CyS"]
     },
     {
@@ -2363,25 +2351,23 @@
         "url": "https://api.github.com/licenses/agpl-3.0",
         "node_id": "MDc6TGljZW5zZTE="
       },
-      "language": [
-        {
-          "Ruby": 41012247,
-          "JavaScript": 27907513,
-          "TypeScript": 2694796,
-          "HTML": 2124037,
-          "SCSS": 1146950,
-          "CoffeeScript": 736995,
-          "Handlebars": 486324,
-          "Groovy": 148710,
-          "Shell": 137358,
-          "CSS": 107061,
-          "Dockerfile": 7951,
-          "Python": 3832,
-          "Lua": 3825,
-          "Kotlin": 1322,
-          "Makefile": 313
-        }
-      ],
+      "language": {
+        "Ruby": 41012247,
+        "JavaScript": 27907513,
+        "TypeScript": 2694796,
+        "HTML": 2124037,
+        "SCSS": 1146950,
+        "CoffeeScript": 736995,
+        "Handlebars": 486324,
+        "Groovy": 148710,
+        "Shell": 137358,
+        "CSS": 107061,
+        "Dockerfile": 7951,
+        "Python": 3832,
+        "Lua": 3825,
+        "Kotlin": 1322,
+        "Makefile": 313
+      },
       "tags": ["A", "IND-ED", "COM-C", "TD-C-A"]
     },
     {
@@ -2431,23 +2417,21 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
       },
-      "language": [
-        {
-          "Kotlin": 11198575,
-          "Dart": 4964930,
-          "HTML": 184971,
-          "Java": 79793,
-          "Ruby": 36778,
-          "Shell": 27604,
-          "JavaScript": 9505,
-          "Objective-C": 7431,
-          "Groovy": 7123,
-          "Python": 2438,
-          "CSS": 1356,
-          "Swift": 807,
-          "Dockerfile": 112
-        }
-      ],
+      "language": {
+        "Kotlin": 11198575,
+        "Dart": 4964930,
+        "HTML": 184971,
+        "Java": 79793,
+        "Ruby": 36778,
+        "Shell": 27604,
+        "JavaScript": 9505,
+        "Objective-C": 7431,
+        "Groovy": 7123,
+        "Python": 2438,
+        "CSS": 1356,
+        "Swift": 807,
+        "Dockerfile": 112
+      },
       "tags": ["A", "ALL", "COM-C", "TD-C-A"]
     },
     {
@@ -2497,18 +2481,16 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
       },
-      "language": [
-        {
-          "Python": 501993,
-          "CMake": 105676,
-          "C++": 18111,
-          "Makefile": 10138,
-          "Batchfile": 7640,
-          "Shell": 6723,
-          "EmberScript": 4202,
-          "Awk": 639
-        }
-      ],
+      "language": {
+        "Python": 501993,
+        "CMake": 105676,
+        "C++": 18111,
+        "Makefile": 10138,
+        "Batchfile": 7640,
+        "Shell": 6723,
+        "EmberScript": 4202,
+        "Awk": 639
+      },
       "tags": ["A", "IND-AM", "COM-C", "TD-C-A"]
     },
     {
