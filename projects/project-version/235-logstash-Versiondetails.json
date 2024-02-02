@@ -18,7 +18,7 @@
     {
         "version": "v8.10.2",
         "release_date": "21-Sep-2023",
-        "criticality_score": ,
+        "criticality_score": 0.45052,
         "scorecard": 3.6,
         "cve_details": "Not Available"
     },
@@ -28,5 +28,5 @@
         "criticality_score": 0.41816,
         "scorecard": 4.3,
         "cve_details": "Not Available"
-    },
+    }
 ]
