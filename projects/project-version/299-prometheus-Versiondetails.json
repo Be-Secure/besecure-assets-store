@@ -1,11 +1,23 @@
 [
-
     {
         "version": "v0.47.1",
         "release_date": "04-Oct-2023",
-        "criticality_score": 0.57674,
+        "criticality_score": 0.59297,
+        "scorecard": 4.5,
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "v2.40.2",
+        "release_date": "17-Nov-2022",
+        "criticality_score": 0.55863,
+        "scorecard": 4.8,
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "v2.49.1",
+        "release_date": "15-Jan-2024",
+        "criticality_score": 0.55247,
         "scorecard": 5.4,
         "cve_details": "Not Available"
     }
-
 ]
