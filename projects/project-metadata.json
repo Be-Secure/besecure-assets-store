@@ -75,7 +75,12 @@
         "JavaScript": 422,
         "Dockerfile": 239
       },
-      "tags": ["COM-F", "ALL", "L&F", "DO"]
+      "tags": [
+        "COM-F",
+        "ALL",
+        "L&F",
+        "DO"
+      ]
     },
     {
       "id": 471,
@@ -153,7 +158,12 @@
         "JavaScript": 3016,
         "Smarty": 560
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-U-DkA"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-U-DkA"
+      ]
     },
     {
       "id": 470,
@@ -232,7 +242,12 @@
         "Tex": 2242,
         "Javascript": 157
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-U-AI/ML"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-U-AI/ML"
+      ]
     },
     {
       "id": 469,
@@ -312,7 +327,13 @@
         "Emacs Lisp": 420,
         "Vim Script": 309
       },
-      "tags": ["COM-C", "ALL", "DO", "TD-C-S", "TD-U-DkA"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "DO",
+        "TD-C-S",
+        "TD-U-DkA"
+      ]
     },
     {
       "id": 445,
@@ -386,7 +407,12 @@
         "JavaScript": 3895,
         "HTML": 1124
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-U-AI/ML"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-U-AI/ML"
+      ]
     },
     {
       "id": 290,
@@ -463,7 +489,12 @@
         "Shell": 717,
         "Batchfile": 645
       },
-      "tags": ["L&F", "ALL", "COM-C", "Tracked"]
+      "tags": [
+        "L&F",
+        "ALL",
+        "COM-C",
+        "Tracked"
+      ]
     },
     {
       "id": 278,
@@ -709,7 +740,11 @@
         "JavaScript": 3661,
         "Shell": 414
       },
-      "tags": ["ALL", "COM-C", "TD-U-W"]
+      "tags": [
+        "ALL",
+        "COM-C",
+        "TD-U-W"
+      ]
     },
     {
       "id": 94,
@@ -769,7 +804,10 @@
         "JavaScript": 2146,
         "Makefile": 1052
       },
-      "tags": ["ALL", "COM-C"]
+      "tags": [
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 86,
@@ -822,7 +860,12 @@
         "Python": 13917,
         "Go": 11557
       },
-      "tags": ["TEL", "SD-NS", "COM-C", "TD-C-CA"]
+      "tags": [
+        "TEL",
+        "SD-NS",
+        "COM-C",
+        "TD-C-CA"
+      ]
     },
     {
       "id": 84,
@@ -892,7 +935,13 @@
         "Python": 416,
         "Makefile": 198
       },
-      "tags": ["ALL", "COM-F", "TD-C-WA", "TD-C-A", "TD-U-W"]
+      "tags": [
+        "ALL",
+        "COM-F",
+        "TD-C-WA",
+        "TD-C-A",
+        "TD-U-W"
+      ]
     },
     {
       "id": 85,
@@ -956,7 +1005,13 @@
         "Mustache": 449,
         "Vim Snippet": 135
       },
-      "tags": ["ALL", "COM-F", "TD-C-Ms", "TD-U-ApD", "COM-C"]
+      "tags": [
+        "ALL",
+        "COM-F",
+        "TD-C-Ms",
+        "TD-U-ApD",
+        "COM-C"
+      ]
     },
     {
       "id": 247,
@@ -1024,7 +1079,11 @@
         "Pike": 583,
         "Ruby": 234
       },
-      "tags": ["AM", "COM-C", "TD-U-IoT"]
+      "tags": [
+        "AM",
+        "COM-C",
+        "TD-U-IoT"
+      ]
     },
     {
       "id": 218,
@@ -1072,7 +1131,11 @@
         "Python": 68622,
         "CMake": 9556
       },
-      "tags": ["AM", "COM-C", "TD-U-IoT"]
+      "tags": [
+        "AM",
+        "COM-C",
+        "TD-U-IoT"
+      ]
     },
     {
       "id": 252,
@@ -1125,7 +1188,11 @@
         "Python": 169319,
         "Shell": 373
       },
-      "tags": ["AM", "COM-C", "TD-U-IoT"]
+      "tags": [
+        "AM",
+        "COM-C",
+        "TD-U-IoT"
+      ]
     },
     {
       "id": 76,
@@ -1202,7 +1269,12 @@
         "Starlark": 25499,
         "Dockerfile": 3669
       },
-      "tags": ["L&F", "ALL", "COM-C", "Tracked"]
+      "tags": [
+        "L&F",
+        "ALL",
+        "COM-C",
+        "Tracked"
+      ]
     },
     {
       "id": 274,
@@ -1259,7 +1331,11 @@
         "C++": 2915,
         "Makefile": 331
       },
-      "tags": ["AM", "COM-C", "TD-U-IoT"]
+      "tags": [
+        "AM",
+        "COM-C",
+        "TD-U-IoT"
+      ]
     },
     {
       "id": 75,
@@ -1333,7 +1409,14 @@
         "Makefile": 11998,
         "Shell": 8352
       },
-      "tags": ["L&F", "ALL", "COM-C", "TD-U-AI/ML", "TD-C-DA", "Tracked"]
+      "tags": [
+        "L&F",
+        "ALL",
+        "COM-C",
+        "TD-U-AI/ML",
+        "TD-C-DA",
+        "Tracked"
+      ]
     },
     {
       "id": 233,
@@ -1393,7 +1476,11 @@
         "GDB": 603,
         "Assembly": 47
       },
-      "tags": ["A", "IND-AM", "COM-C"]
+      "tags": [
+        "A",
+        "IND-AM",
+        "COM-C"
+      ]
     },
     {
       "id": 74,
@@ -1468,7 +1555,13 @@
         "CMake": 25087,
         "Dockerfile": 319
       },
-      "tags": ["A", "ALL", "COM-C", "TD-U-ApD", "Tracked"]
+      "tags": [
+        "A",
+        "ALL",
+        "COM-C",
+        "TD-U-ApD",
+        "Tracked"
+      ]
     },
     {
       "id": 186,
@@ -1530,7 +1623,12 @@
         "Ruby": 879,
         "Hack": 383
       },
-      "tags": ["A", "IND-ED", "COM-C", "TD-C-WA"]
+      "tags": [
+        "A",
+        "IND-ED",
+        "COM-C",
+        "TD-C-WA"
+      ]
     },
     {
       "id": 73,
@@ -1604,7 +1702,12 @@
         "HTML": 137,
         "CSS": 59
       },
-      "tags": ["A", "ALL", "COM-C", "TD-U-ApD"]
+      "tags": [
+        "A",
+        "ALL",
+        "COM-C",
+        "TD-U-ApD"
+      ]
     },
     {
       "id": 139,
@@ -1675,7 +1778,12 @@
         "Prolog": 843,
         "Dockerfile": 309
       },
-      "tags": ["L&F", "COM-C", "TD-U-AI/ML", "TD-C-CA"]
+      "tags": [
+        "L&F",
+        "COM-C",
+        "TD-U-AI/ML",
+        "TD-C-CA"
+      ]
     },
     {
       "id": 72,
@@ -1752,7 +1860,12 @@
         "HTML": 137,
         "CSS": 59
       },
-      "tags": ["A", "ALL", "COM-C", "TD-U-ApD"]
+      "tags": [
+        "A",
+        "ALL",
+        "COM-C",
+        "TD-U-ApD"
+      ]
     },
     {
       "id": 187,
@@ -1816,7 +1929,12 @@
         "Vim Script": 406,
         "Ruby": 220
       },
-      "tags": ["A", "ALL", "COM-C", "TD-U-DkA"]
+      "tags": [
+        "A",
+        "ALL",
+        "COM-C",
+        "TD-U-DkA"
+      ]
     },
     {
       "id": 71,
@@ -1886,7 +2004,12 @@
       "language": {
         "Python": 56176
       },
-      "tags": ["L&F", "ALL", "COM-C", "TD-U-AI/ML"]
+      "tags": [
+        "L&F",
+        "ALL",
+        "COM-C",
+        "TD-U-AI/ML"
+      ]
     },
     {
       "id": 188,
@@ -1943,7 +2066,13 @@
         "CSS": 623503,
         "VCL": 26002
       },
-      "tags": ["A", "IND-RT", "COM-C", "TD-U-DkA", "TD-C-CA"]
+      "tags": [
+        "A",
+        "IND-RT",
+        "COM-C",
+        "TD-U-DkA",
+        "TD-C-CA"
+      ]
     },
     {
       "id": 242,
@@ -1996,7 +2125,11 @@
         "JavaScript": 754789,
         "Shell": 58
       },
-      "tags": ["L&F", "ALL", "COM-C"]
+      "tags": [
+        "L&F",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 198,
@@ -2060,7 +2193,14 @@
         "C": 419,
         "Batchfile": 140
       },
-      "tags": ["A", "ALL", "COM-C", "TD-U-W", "TD-U-DkA", "TD-U-MoA"]
+      "tags": [
+        "A",
+        "ALL",
+        "COM-C",
+        "TD-U-W",
+        "TD-U-DkA",
+        "TD-U-MoA"
+      ]
     },
     {
       "id": 82,
@@ -2122,7 +2262,12 @@
         "Rust": 970,
         "Emacs Lisp": 478
       },
-      "tags": ["L&F", "SD-AS", "ALL", "COM-C"]
+      "tags": [
+        "L&F",
+        "SD-AS",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 235,
@@ -2317,7 +2462,11 @@
       "language": {
         "Python": 66777
       },
-      "tags": ["L&F", "SD-AS", "IND-CyS"]
+      "tags": [
+        "L&F",
+        "SD-AS",
+        "IND-CyS"
+      ]
     },
     {
       "id": 189,
@@ -2383,7 +2532,12 @@
         "Kotlin": 1322,
         "Makefile": 313
       },
-      "tags": ["A", "IND-ED", "COM-C", "TD-C-A"]
+      "tags": [
+        "A",
+        "IND-ED",
+        "COM-C",
+        "TD-C-A"
+      ]
     },
     {
       "id": 191,
@@ -2447,7 +2601,12 @@
         "Swift": 807,
         "Dockerfile": 112
       },
-      "tags": ["A", "ALL", "COM-C", "TD-C-A"]
+      "tags": [
+        "A",
+        "ALL",
+        "COM-C",
+        "TD-C-A"
+      ]
     },
     {
       "id": 145,
@@ -2506,7 +2665,12 @@
         "EmberScript": 4202,
         "Awk": 639
       },
-      "tags": ["A", "IND-AM", "COM-C", "TD-C-A"]
+      "tags": [
+        "A",
+        "IND-AM",
+        "COM-C",
+        "TD-C-A"
+      ]
     },
     {
       "id": 192,
@@ -2556,7 +2720,12 @@
         "node_id": "MDc6TGljZW5zZTU="
       },
       "language": {},
-      "tags": ["A", "IND-AM", "COM-C", "TD-C-A"]
+      "tags": [
+        "A",
+        "IND-AM",
+        "COM-C",
+        "TD-C-A"
+      ]
     },
     {
       "id": 194,
@@ -2614,7 +2783,12 @@
         "HTML": 5274,
         "Shell": 4538
       },
-      "tags": ["A", "IND-AM", "COM-C", "TD-C-A"]
+      "tags": [
+        "A",
+        "IND-AM",
+        "COM-C",
+        "TD-C-A"
+      ]
     },
     {
       "id": 96,
@@ -2689,7 +2863,13 @@
         "C": 42335,
         "Makefile": 1644
       },
-      "tags": ["L&F", "IND-ED", "COM-C", "TD-U-AI/ML", "TD-C-A"]
+      "tags": [
+        "L&F",
+        "IND-ED",
+        "COM-C",
+        "TD-U-AI/ML",
+        "TD-C-A"
+      ]
     },
     {
       "id": 229,
@@ -2746,7 +2926,15 @@
         "Dockerfile": 2779,
         "Shell": 1464
       },
-      "tags": ["A", "ALL", "IND-Cys", "SD-IoTS", "SD-NS", "SD-SRM", "TD-U-DAA"]
+      "tags": [
+        "A",
+        "ALL",
+        "IND-Cys",
+        "SD-IoTS",
+        "SD-NS",
+        "SD-SRM",
+        "TD-U-DAA"
+      ]
     },
     {
       "id": 230,
@@ -2867,7 +3055,13 @@
         "JavaScript": 3483,
         "PHP": 86
       },
-      "tags": ["A", "ALL", "SD-AS", "TD-C-WA", "TD-U-W"]
+      "tags": [
+        "A",
+        "ALL",
+        "SD-AS",
+        "TD-C-WA",
+        "TD-U-W"
+      ]
     },
     {
       "id": 202,
@@ -2938,7 +3132,11 @@
         "JavaScript": 754789,
         "Shell": 58
       },
-      "tags": ["L&F", "ALL", "COM-C"]
+      "tags": [
+        "L&F",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 169,
@@ -3013,7 +3211,11 @@
         "VimSnippet": 1990,
         "Shell": 337
       },
-      "tags": ["TD-U-ApD", "ALL", "COM-C"]
+      "tags": [
+        "TD-U-ApD",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 159,
@@ -3093,7 +3295,11 @@
         "HTML": 80,
         "JavaScript": 10
       },
-      "tags": ["TD-C-WA", "ALL", "COM-C"]
+      "tags": [
+        "TD-C-WA",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 161,
@@ -3169,7 +3375,11 @@
         "Shell": 1668,
         "Dockerfile": 1088
       },
-      "tags": ["TD-U-W", "ALL", "COM-C"]
+      "tags": [
+        "TD-U-W",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 171,
@@ -3242,7 +3452,11 @@
         "Dockerfile": 2169,
         "Shell": 439
       },
-      "tags": ["TD-U-W", "IND-RT", "COM-C"]
+      "tags": [
+        "TD-U-W",
+        "IND-RT",
+        "COM-C"
+      ]
     },
     {
       "id": 150,
@@ -3300,7 +3514,11 @@
         "Dockerfile": 2468,
         "Makefile": 1839
       },
-      "tags": ["A", "ALL", "COM-C"]
+      "tags": [
+        "A",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 200,
@@ -3355,7 +3573,11 @@
         "Vue": 432140,
         "Shell": 636
       },
-      "tags": ["A", "IND-BFSI", "COM-C"]
+      "tags": [
+        "A",
+        "IND-BFSI",
+        "COM-C"
+      ]
     },
     {
       "id": 154,
@@ -3411,7 +3633,11 @@
         "Logos": 831,
         "JavaScript": 234
       },
-      "tags": ["A", "ALL", "COM-C"]
+      "tags": [
+        "A",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 156,
@@ -3464,7 +3690,10 @@
         "PHP": 124320,
         "Shell": 2366
       },
-      "tags": ["A", "ALL"]
+      "tags": [
+        "A",
+        "ALL"
+      ]
     },
     {
       "id": 158,
@@ -3522,7 +3751,11 @@
         "CSS": 23374,
         "Dockerfile": 3250
       },
-      "tags": ["A", "ALL", "TD-U-IoT"]
+      "tags": [
+        "A",
+        "ALL",
+        "TD-U-IoT"
+      ]
     },
     {
       "id": 197,
@@ -3586,7 +3819,10 @@
         "Less": 56,
         "Sass": 13
       },
-      "tags": ["DO", "ALL"]
+      "tags": [
+        "DO",
+        "ALL"
+      ]
     },
     {
       "id": 148,
@@ -3657,7 +3893,11 @@
         "CoffeeScript": 3009,
         "Makefile": 879
       },
-      "tags": ["L&F", "IND-ED", "COM-C"]
+      "tags": [
+        "L&F",
+        "IND-ED",
+        "COM-C"
+      ]
     },
     {
       "id": 195,
@@ -3714,7 +3954,11 @@
         "CSS": 78728,
         "HTML": 2173
       },
-      "tags": ["A", "ALL", "COM-C"]
+      "tags": [
+        "A",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 221,
@@ -3788,7 +4032,13 @@
         "Mustache": 9273,
         "Dockerfile": 2946
       },
-      "tags": ["COM-C", "A", "ALL", "TD-C-CA", "Tracked"]
+      "tags": [
+        "COM-C",
+        "A",
+        "ALL",
+        "TD-C-CA",
+        "Tracked"
+      ]
     },
     {
       "id": 91,
@@ -3863,7 +4113,12 @@
         "JavaScript": 7167,
         "CSS": 1322
       },
-      "tags": ["COM-C", "A", "ALL", "Tracked"]
+      "tags": [
+        "COM-C",
+        "A",
+        "ALL",
+        "Tracked"
+      ]
     },
     {
       "id": 92,
@@ -3943,7 +4198,11 @@
         "AMPL": 11309,
         "Dockerfile": 2442
       },
-      "tags": ["A", "ALL", "Tracked"]
+      "tags": [
+        "A",
+        "ALL",
+        "Tracked"
+      ]
     },
     {
       "id": 95,
@@ -4016,7 +4275,13 @@
         "Shell": 2016,
         "Java": 1685
       },
-      "tags": ["COM-C", "DO", "ALL", "SD-AS", "Tracked"]
+      "tags": [
+        "COM-C",
+        "DO",
+        "ALL",
+        "SD-AS",
+        "Tracked"
+      ]
     },
     {
       "id": 217,
@@ -4185,7 +4450,12 @@
         "JavaScript": 44193,
         "Dockerfile": 346
       },
-      "tags": ["s", "ALL", "COM-C", "Tracked"]
+      "tags": [
+        "s",
+        "ALL",
+        "COM-C",
+        "Tracked"
+      ]
     },
     {
       "id": 238,
@@ -4265,7 +4535,12 @@
         "AMPL": 509,
         "EmacsLisp": 73
       },
-      "tags": ["COM-C", "A", "ALL", "Tracked"]
+      "tags": [
+        "COM-C",
+        "A",
+        "ALL",
+        "Tracked"
+      ]
     },
     {
       "id": 240,
@@ -4352,7 +4627,12 @@
         "Batchfile": 1863,
         "C": 847
       },
-      "tags": ["COM-C", "ALL", "L&F", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "Tracked"
+      ]
     },
     {
       "id": 224,
@@ -4420,7 +4700,12 @@
         "Batchfile": 335,
         "Makefile": 156
       },
-      "tags": ["A", "ALL", "COM-C", "TD-U-DkA"]
+      "tags": [
+        "A",
+        "ALL",
+        "COM-C",
+        "TD-U-DkA"
+      ]
     },
     {
       "id": 228,
@@ -4476,7 +4761,12 @@
         "Makefile": 1809,
         "Dockerfile": 914
       },
-      "tags": ["S", "ALL", "COM-C", "SD-AS"]
+      "tags": [
+        "S",
+        "ALL",
+        "COM-C",
+        "SD-AS"
+      ]
     },
     {
       "id": 226,
@@ -4530,7 +4820,12 @@
         "CSS": 8352,
         "JavaScript": 5720
       },
-      "tags": ["DO", "ALL", "COM-C", "TD-U-W"]
+      "tags": [
+        "DO",
+        "ALL",
+        "COM-C",
+        "TD-U-W"
+      ]
     },
     {
       "id": 80,
@@ -4599,7 +4894,13 @@
         "Rust": 280,
         "Emacs_Lisp": 191
       },
-      "tags": ["COM-F", "IND-CyS", "SD-SRM", "TD-C-WA", "S"]
+      "tags": [
+        "COM-F",
+        "IND-CyS",
+        "SD-SRM",
+        "TD-C-WA",
+        "S"
+      ]
     },
     {
       "id": 185,
@@ -4657,7 +4958,12 @@
         "Dockerfile": 2168,
         "Shell": 638
       },
-      "tags": ["S", "IND-CyS", "COM-C", "TD-C-WA"]
+      "tags": [
+        "S",
+        "IND-CyS",
+        "COM-C",
+        "TD-C-WA"
+      ]
     },
     {
       "id": 90,
@@ -4712,7 +5018,11 @@
         "Dockerfile": 11698,
         "Makefile": 6565
       },
-      "tags": ["S", "ALL", "COM-C"]
+      "tags": [
+        "S",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 275,
@@ -4772,7 +5082,12 @@
         "Perl": 3832,
         "XSLT": 3054
       },
-      "tags": ["S", "IND-CyS", "COM-C", "TD-C-WA"]
+      "tags": [
+        "S",
+        "IND-CyS",
+        "COM-C",
+        "TD-C-WA"
+      ]
     },
     {
       "id": 89,
@@ -4833,7 +5148,11 @@
         "PLpgSQL": 1235,
         "HTML": 626
       },
-      "tags": ["S", "ALL", "COM-C"]
+      "tags": [
+        "S",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 68,
@@ -4902,7 +5221,12 @@
         "Pug": 319,
         "Procfile": 45
       },
-      "tags": ["DO", "COM-F", "IND-NG", "TD-C-WA"]
+      "tags": [
+        "DO",
+        "COM-F",
+        "IND-NG",
+        "TD-C-WA"
+      ]
     },
     {
       "id": 69,
@@ -4971,7 +5295,12 @@
         "Batchfile": 1388,
         "Vue": 563
       },
-      "tags": ["A", "COM-C", "IND-HLS", "TD-U-W"]
+      "tags": [
+        "A",
+        "COM-C",
+        "IND-HLS",
+        "TD-U-W"
+      ]
     },
     {
       "id": 249,
@@ -5049,7 +5378,13 @@
         "Smarty": 7825,
         "JavaScript": 1191
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-C-CA", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-C-CA",
+        "Tracked"
+      ]
     },
     {
       "id": 318,
@@ -5118,7 +5453,13 @@
         "Makefile": 4534,
         "Shell": 914
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-U-AI/ML", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-U-AI/ML",
+        "Tracked"
+      ]
     },
     {
       "id": 317,
@@ -5193,7 +5534,13 @@
         "Assembly": 22181,
         "Shell": 1241
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-U-AI/ML", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-U-AI/ML",
+        "Tracked"
+      ]
     },
     {
       "id": 319,
@@ -5270,7 +5617,11 @@
         "Batchfile": 24179,
         "SCSS": 56
       },
-      "tags": ["COM-C", "ALL", "L&F"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F"
+      ]
     },
     {
       "id": 320,
@@ -5344,7 +5695,12 @@
         "Roff": 198068,
         "CMake": 125035
       },
-      "tags": ["COM-C", "ALL", "L&F", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "Tracked"
+      ]
     },
     {
       "id": 70,
@@ -5423,7 +5779,12 @@
         "Shell": 380,
         "Dockerfile": 193
       },
-      "tags": ["COM-C", "A", "ALL", "TD-U-AI/ML"]
+      "tags": [
+        "COM-C",
+        "A",
+        "ALL",
+        "TD-U-AI/ML"
+      ]
     },
     {
       "id": 253,
@@ -5488,7 +5849,12 @@
         "Makefile": 1915,
         "Roff": 911
       },
-      "tags": ["A", "COM-C", "IND-HLS", "TD-U-W"]
+      "tags": [
+        "A",
+        "COM-C",
+        "IND-HLS",
+        "TD-U-W"
+      ]
     },
     {
       "id": 330,
@@ -5750,7 +6116,13 @@
         "Dockerfile": 511,
         "Shell": 495
       },
-      "tags": ["COM-C", "A", "ALL", "TD-U-ApD", "Tracked"]
+      "tags": [
+        "COM-C",
+        "A",
+        "ALL",
+        "TD-U-ApD",
+        "Tracked"
+      ]
     },
     {
       "id": 371,
@@ -5825,7 +6197,12 @@
         "C++": 753,
         "Fortran": 112
       },
-      "tags": ["COM-C", "A", "ALL", "Tracked"]
+      "tags": [
+        "COM-C",
+        "A",
+        "ALL",
+        "Tracked"
+      ]
     },
     {
       "id": 372,
@@ -5897,7 +6274,13 @@
         "CMake": 34496,
         "Python": 9887
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-C-DA", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-C-DA",
+        "Tracked"
+      ]
     },
     {
       "id": 373,
@@ -5977,7 +6360,13 @@
         "Cuda": 15397,
         "Verilog": 366
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-C-CA", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-C-CA",
+        "Tracked"
+      ]
     },
     {
       "id": 374,
@@ -6048,7 +6437,13 @@
         "C++": 330211,
         "CMake": 10490
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-C-DA", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-C-DA",
+        "Tracked"
+      ]
     },
     {
       "id": 375,
@@ -6116,7 +6511,12 @@
         "node_id": "MDc6TGljZW5zZTA="
       },
       "language": {},
-      "tags": ["COM-C", "ALL", "L&F", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "Tracked"
+      ]
     },
     {
       "id": 376,
@@ -6191,7 +6591,12 @@
         "Makefile": 2234,
         "Shell": 2028
       },
-      "tags": ["COM-C", "ALL", "L&F", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "Tracked"
+      ]
     },
     {
       "id": 418,
@@ -6263,7 +6668,13 @@
         "Logos": 112845,
         "Shell": 264
       },
-      "tags": ["A", "TD-C-WA", "ALL", "L&F", "Tracked"]
+      "tags": [
+        "A",
+        "TD-C-WA",
+        "ALL",
+        "L&F",
+        "Tracked"
+      ]
     },
     {
       "id": 417,
@@ -6336,7 +6747,14 @@
         "SCSS": 7510,
         "JavaScript": 2871
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-C-WA", "TD-U-W", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-C-WA",
+        "TD-U-W",
+        "Tracked"
+      ]
     },
     {
       "id": 419,
@@ -6408,7 +6826,13 @@
         "Shell": 2281,
         "Makefile": 1084
       },
-      "tags": ["COM-C", "ALL", "SD-CS", "S", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "SD-CS",
+        "S",
+        "Tracked"
+      ]
     },
     {
       "id": 88,
@@ -6466,7 +6890,11 @@
         "Batchfile": 1959,
         "Dockerfile": 1421
       },
-      "tags": ["A", "ALL", "COM-C"]
+      "tags": [
+        "A",
+        "ALL",
+        "COM-C"
+      ]
     },
     {
       "id": 119,
@@ -6535,7 +6963,13 @@
         "Makefile": 659,
         "PostScript": 5
       },
-      "tags": ["A", "ALL", "TD-C-D", "COM-C", "TD-U-Db"]
+      "tags": [
+        "A",
+        "ALL",
+        "TD-C-D",
+        "COM-C",
+        "TD-U-Db"
+      ]
     },
     {
       "id": 350,
@@ -6605,7 +7039,12 @@
       "language": {
         "Python": 1524479
       },
-      "tags": ["COM-C", "A", "ALL", "TD-U-DkA"]
+      "tags": [
+        "COM-C",
+        "A",
+        "ALL",
+        "TD-U-DkA"
+      ]
     },
     {
       "id": 365,
@@ -6677,7 +7116,11 @@
         "HTML": 1953,
         "CSS": 596
       },
-      "tags": ["ALL", "L&F", "SD-SRM"]
+      "tags": [
+        "ALL",
+        "L&F",
+        "SD-SRM"
+      ]
     },
     {
       "id": 363,
@@ -6752,7 +7195,13 @@
         "Makefile": 6873,
         "Dockerfile": 2539
       },
-      "tags": ["COM-C", "ALL", "TD-C-S", "SD-IAM", "S"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "TD-C-S",
+        "SD-IAM",
+        "S"
+      ]
     },
     {
       "id": 364,
@@ -6828,7 +7277,12 @@
         "TypeScript": 2933,
         "Dockerfile": 623
       },
-      "tags": ["COM-C", "ALL", "SD-IAM", "S"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "SD-IAM",
+        "S"
+      ]
     },
     {
       "id": 345,
@@ -7074,7 +7528,12 @@
         "Mako": 412,
         "Procfile": 70
       },
-      "tags": ["COM-C", "ALL", "SD-IAM", "S"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "SD-IAM",
+        "S"
+      ]
     },
     {
       "id": 378,
@@ -7148,7 +7607,12 @@
         "Dockerfile": 2517,
         "Makefile": 1085
       },
-      "tags": ["COM-C", "IND-CyS", "SD-CS", "S"]
+      "tags": [
+        "COM-C",
+        "IND-CyS",
+        "SD-CS",
+        "S"
+      ]
     },
     {
       "id": 362,
@@ -7225,7 +7689,12 @@
         "Jsonnet": 2307,
         "Dockerfile": 299
       },
-      "tags": ["COM-C", "ALL", "SD-IAM", "S"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "SD-IAM",
+        "S"
+      ]
     },
     {
       "id": 379,
@@ -7318,7 +7787,12 @@
         "Rich Text Format": 416,
         "RouterOS Script": 45
       },
-      "tags": ["COM-C", "IND-CyS", "L&F", "SD-SOC"]
+      "tags": [
+        "COM-C",
+        "IND-CyS",
+        "L&F",
+        "SD-SOC"
+      ]
     },
     {
       "id": 380,
@@ -7391,7 +7865,12 @@
         "PowerShell": 3178,
         "Batchfile": 1223
       },
-      "tags": ["COM-F", "IND-CyS", "L&F", "SD-NS"]
+      "tags": [
+        "COM-F",
+        "IND-CyS",
+        "L&F",
+        "SD-NS"
+      ]
     },
     {
       "id": 381,
@@ -7466,7 +7945,13 @@
         "Dockerfile": 1308,
         "C": 118
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-U-AI/ML", "TD-U-DAA"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-U-AI/ML",
+        "TD-U-DAA"
+      ]
     },
     {
       "id": 383,
@@ -7632,7 +8117,13 @@
         "Objective-C++": 2640,
         "AppleScript": 1932
       },
-      "tags": ["DO", "ALL", "SD-DS", "TD-C-D", "TD-U-Db"]
+      "tags": [
+        "DO",
+        "ALL",
+        "SD-DS",
+        "TD-C-D",
+        "TD-U-Db"
+      ]
     },
     {
       "id": 261,
@@ -7865,7 +8356,13 @@
         "CSS": 1403,
         "Dockerfile": 1072
       },
-      "tags": ["COM-C", "IND-CyS", "SD-IAM", "S", "Untracked"]
+      "tags": [
+        "COM-C",
+        "IND-CyS",
+        "SD-IAM",
+        "S",
+        "Untracked"
+      ]
     },
     {
       "id": 432,
@@ -7917,7 +8414,13 @@
       "language": {
         "python": 235225
       },
-      "tags": ["S", "ALL", "COM-C", "TD-C-S", "TD-U-AI/ML"]
+      "tags": [
+        "S",
+        "ALL",
+        "COM-C",
+        "TD-C-S",
+        "TD-U-AI/ML"
+      ]
     },
     {
       "id": 433,
@@ -7972,7 +8475,12 @@
         "HCL": 1869,
         "Jupyter Notebook": 1693
       },
-      "tags": ["S", "ALL", "COM-C", "TD-U-AI/ML"]
+      "tags": [
+        "S",
+        "ALL",
+        "COM-C",
+        "TD-U-AI/ML"
+      ]
     },
     {
       "id": 434,
@@ -8025,7 +8533,12 @@
         "python": 2353579,
         "Shell": 216
       },
-      "tags": ["S", "ALL", "COM-C", "TD-U-AI/ML"]
+      "tags": [
+        "S",
+        "ALL",
+        "COM-C",
+        "TD-U-AI/ML"
+      ]
     },
     {
       "id": 435,
@@ -8261,7 +8774,13 @@
         "TypeScript": 438366,
         "HTML": 2416
       },
-      "tags": ["COM-C", "IND-AM", "A", "Tracked", "TD-U-IoT"]
+      "tags": [
+        "COM-C",
+        "IND-AM",
+        "A",
+        "Tracked",
+        "TD-U-IoT"
+      ]
     },
     {
       "id": 225,
@@ -8335,7 +8854,13 @@
         "M4": 232,
         "Shell": 62
       },
-      "tags": ["COM-C", "IND-AM", "A", "Tracked", "TD-U-IoT"]
+      "tags": [
+        "COM-C",
+        "IND-AM",
+        "A",
+        "Tracked",
+        "TD-U-IoT"
+      ]
     },
     {
       "id": 223,
@@ -8413,7 +8938,13 @@
         "Perl": 16892,
         "Dockerfile": 2765
       },
-      "tags": ["COM-F", "A", "ALL", "TD-U-W", "Tracked"]
+      "tags": [
+        "COM-F",
+        "A",
+        "ALL",
+        "TD-U-W",
+        "Tracked"
+      ]
     },
     {
       "id": 87,
@@ -8486,7 +9017,13 @@
         "SCSS": 1563,
         "HTML": 792
       },
-      "tags": ["COM-C", "A", "ALL", "TD-C-WA", "Tracked"]
+      "tags": [
+        "COM-C",
+        "A",
+        "ALL",
+        "TD-C-WA",
+        "Tracked"
+      ]
     },
     {
       "id": 437,
@@ -8641,7 +9178,14 @@
         "HTML": 3183,
         "CSS": 981
       },
-      "tags": ["COM-C", "A", "IND-CyS", "TD-C-CA", "Untracked", "TD-U-DLT/BC"]
+      "tags": [
+        "COM-C",
+        "A",
+        "IND-CyS",
+        "TD-C-CA",
+        "Untracked",
+        "TD-U-DLT/BC"
+      ]
     },
     {
       "id": 446,
@@ -8719,7 +9263,14 @@
         "MDX": 1670,
         "Dockerfile": 1571
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-C-WA", "TD-U-AI/ML", "Untracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-C-WA",
+        "TD-U-AI/ML",
+        "Untracked"
+      ]
     },
     {
       "id": 180,
@@ -8785,7 +9336,13 @@
         "Blade": 18386,
         "Shell": 899
       },
-      "tags": ["COM-F", "ALL", "L&F", "TD-U-W", "Tracked"]
+      "tags": [
+        "COM-F",
+        "ALL",
+        "L&F",
+        "TD-U-W",
+        "Tracked"
+      ]
     },
     {
       "id": 455,
@@ -9061,7 +9618,14 @@
         "Starlark": 11590,
         "Shell": 813
       },
-      "tags": ["COM-F", "IND-CyS", "SD-AS", "S", "TD-U-AI/ML", "Tracked"]
+      "tags": [
+        "COM-F",
+        "IND-CyS",
+        "SD-AS",
+        "S",
+        "TD-U-AI/ML",
+        "Tracked"
+      ]
     },
     {
       "id": 467,
@@ -9133,7 +9697,14 @@
         "Jupyter Notebook": 79309,
         "Makefile": 714
       },
-      "tags": ["COM-F", "IND-CyS", "SD-AS", "S", "TD-U-AI/ML", "Tracked"]
+      "tags": [
+        "COM-F",
+        "IND-CyS",
+        "SD-AS",
+        "S",
+        "TD-U-AI/ML",
+        "Tracked"
+      ]
     },
     {
       "id": 259,
@@ -9209,7 +9780,12 @@
         "HTML": 2184,
         "HCL": 878
       },
-      "tags": ["COM-C", "IND-CyS", "S", "SD-BS"]
+      "tags": [
+        "COM-C",
+        "IND-CyS",
+        "S",
+        "SD-BS"
+      ]
     },
     {
       "id": 103,
@@ -9292,7 +9868,11 @@
         "Makefile": 8003,
         "Dockerfile": 897
       },
-      "tags": ["COM-C", "DA", "ALL"]
+      "tags": [
+        "COM-C",
+        "DA",
+        "ALL"
+      ]
     },
     {
       "id": 257,
@@ -9368,7 +9948,12 @@
         "HTML": 9852,
         "Dockerfile": 1309
       },
-      "tags": ["COM-C", "IND-CyS", "SD-BS", "S"]
+      "tags": [
+        "COM-C",
+        "IND-CyS",
+        "SD-BS",
+        "S"
+      ]
     },
     {
       "id": 447,
@@ -9440,7 +10025,12 @@
         "JavaScript": 35857,
         "Shell": 142
       },
-      "tags": ["COM-C", "IND-CyS", "SD-SOC", "S"]
+      "tags": [
+        "COM-C",
+        "IND-CyS",
+        "SD-SOC",
+        "S"
+      ]
     },
     {
       "id": 296,
@@ -9528,7 +10118,14 @@
         "Mustache": 1406,
         "PHP": 574
       },
-      "tags": ["COM-C", "DO", "ALL", "SD-SOC", "TD-U-DAA", "Tracked"]
+      "tags": [
+        "COM-C",
+        "DO",
+        "ALL",
+        "SD-SOC",
+        "TD-U-DAA",
+        "Tracked"
+      ]
     },
     {
       "id": 299,
@@ -9608,7 +10205,12 @@
         "CSS": 3721,
         "Dockerfile": 1270
       },
-      "tags": ["COM-F", "DO", "SD-SOC", "TD-U-DAA"]
+      "tags": [
+        "COM-F",
+        "DO",
+        "SD-SOC",
+        "TD-U-DAA"
+      ]
     },
     {
       "id": 453,
@@ -9687,7 +10289,11 @@
         "Batchfile": 833,
         "HTML": 106
       },
-      "tags": ["COM-C", "DO", "ALL"]
+      "tags": [
+        "COM-C",
+        "DO",
+        "ALL"
+      ]
     },
     {
       "id": 130,
@@ -9764,7 +10370,12 @@
         "Makefile": 125,
         "Procfile": 47
       },
-      "tags": ["COM-C", "L&F", "ALL", "TD-U-W"]
+      "tags": [
+        "COM-C",
+        "L&F",
+        "ALL",
+        "TD-U-W"
+      ]
     },
     {
       "id": 135,
@@ -9847,7 +10458,12 @@
         "Assembly": 157,
         "Dockerfile": 33
       },
-      "tags": ["COM-C", "L&F", "ALL", "IND-CyS"]
+      "tags": [
+        "COM-C",
+        "L&F",
+        "ALL",
+        "IND-CyS"
+      ]
     },
     {
       "id": 215,
@@ -9923,7 +10539,13 @@
         "Lex": 10152,
         "AMPL": 801
       },
-      "tags": ["COM-C", "A", "ALL", "TD-C-D", "TD-U-Db"]
+      "tags": [
+        "COM-C",
+        "A",
+        "ALL",
+        "TD-C-D",
+        "TD-U-Db"
+      ]
     },
     {
       "id": 456,
@@ -10000,7 +10622,13 @@
         "CSS": 5322,
         "Makefile": 3354
       },
-      "tags": ["COM-C", "A", "TD-C-D", "ALL", "TD-U-Db"]
+      "tags": [
+        "COM-C",
+        "A",
+        "TD-C-D",
+        "ALL",
+        "TD-U-Db"
+      ]
     },
     {
       "id": 214,
@@ -10075,7 +10703,11 @@
         "CSS": 34523,
         "Dockerfile": 2228
       },
-      "tags": ["COM-C", "A", "ALL"]
+      "tags": [
+        "COM-C",
+        "A",
+        "ALL"
+      ]
     },
     {
       "id": 295,
@@ -10153,7 +10785,14 @@
         "XSLT": 7116,
         "HTML": 3739
       },
-      "tags": ["COM-C", "DO", "ALL", "SD-SOC", "Tracked", "TD-U-Msg"]
+      "tags": [
+        "COM-C",
+        "DO",
+        "ALL",
+        "SD-SOC",
+        "Tracked",
+        "TD-U-Msg"
+      ]
     },
     {
       "id": 133,
@@ -10249,7 +10888,13 @@
         "Makefile": 2845,
         "Vim Snippet": 58
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-U-AI/ML", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-U-AI/ML",
+        "Tracked"
+      ]
     },
     {
       "id": 174,
@@ -10346,7 +10991,14 @@
         "Smarty": 376,
         "Vim Script": 154
       },
-      "tags": ["COM-C", "ALL", "IND-BFSI", "L&F", "TD-U-AI/ML", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "IND-BFSI",
+        "L&F",
+        "TD-U-AI/ML",
+        "Tracked"
+      ]
     },
     {
       "id": 175,
@@ -10424,7 +11076,13 @@
         "Roff": 555,
         "Batchfile": 144
       },
-      "tags": ["COM-C", "DO", "ALL", "TD-C-DA", "Tracked"]
+      "tags": [
+        "COM-C",
+        "DO",
+        "ALL",
+        "TD-C-DA",
+        "Tracked"
+      ]
     },
     {
       "id": 196,
@@ -10501,7 +11159,13 @@
         "Shell": 260,
         "Batchfile": 258
       },
-      "tags": ["COM-C", "ALL", "DA", "Tracked", "TD-U-Bln"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "DA",
+        "Tracked",
+        "TD-U-Bln"
+      ]
     },
     {
       "id": 211,
@@ -10576,7 +11240,13 @@
         "Just": 3354,
         "JavaScript": 1714
       },
-      "tags": ["COM-C", "ALL", "DA", "Tracked", "TD-U-Bln"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "DA",
+        "Tracked",
+        "TD-U-Bln"
+      ]
     },
     {
       "id": 245,
@@ -10649,7 +11319,13 @@
         "Makefile": 16766,
         "Dockerfile": 8839
       },
-      "tags": ["COM-C", "ALL", "DA", "Tracked", "TD-U-Bln"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "DA",
+        "Tracked",
+        "TD-U-Bln"
+      ]
     },
     {
       "id": 248,
@@ -10738,7 +11414,15 @@
         "Brainfuck": 54,
         "Ruby": 16
       },
-      "tags": ["COM-C", "DO", "ALL", "TD-C-WA", "TD-U-ApD", "TD-U-W", "Tracked"]
+      "tags": [
+        "COM-C",
+        "DO",
+        "ALL",
+        "TD-C-WA",
+        "TD-U-ApD",
+        "TD-U-W",
+        "Tracked"
+      ]
     },
     {
       "id": 442,
@@ -10816,7 +11500,12 @@
         "Cython": 3635,
         "Jsonnet": 937
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-U-AI/ML"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-U-AI/ML"
+      ]
     },
     {
       "id": 443,
@@ -10888,7 +11577,12 @@
         "Dockerfile": 7577,
         "Makefile": 2748
       },
-      "tags": ["COM-C", "ALL", "L&F", "TD-U-AI/ML"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F",
+        "TD-U-AI/ML"
+      ]
     },
     {
       "id": 448,
@@ -10964,7 +11658,14 @@
         "Jinja": 2632,
         "Makefile": 2073
       },
-      "tags": ["COM-C", "ALL", "DA", "TD-C-DA", "Tracked", "TD-U-Bln"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "DA",
+        "TD-C-DA",
+        "Tracked",
+        "TD-U-Bln"
+      ]
     },
     {
       "id": 449,
@@ -11037,7 +11738,14 @@
         "Shell": 7232,
         "Dockerfile": 3129
       },
-      "tags": ["COM-C", "ALL", "DA", "TD-C-DA", "Tracked", "TD-U-Bln"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "DA",
+        "TD-C-DA",
+        "Tracked",
+        "TD-U-Bln"
+      ]
     },
     {
       "id": 451,
@@ -11110,7 +11818,15 @@
         "Batchfile": 8246,
         "HTML": 2422
       },
-      "tags": ["COM-F", "DO", "ALL", "TD-C-WA", "TD-U-ApD", "TD-U-W", "Tracked"]
+      "tags": [
+        "COM-F",
+        "DO",
+        "ALL",
+        "TD-C-WA",
+        "TD-U-ApD",
+        "TD-U-W",
+        "Tracked"
+      ]
     },
     {
       "id": 452,
@@ -11194,7 +11910,14 @@
         "Batchfile": 1023,
         "Dockerfile": 210
       },
-      "tags": ["DO", "ALL", "TD-C-WA", "TD-U-ApD", "TD-U-W", "Tracked"]
+      "tags": [
+        "DO",
+        "ALL",
+        "TD-C-WA",
+        "TD-U-ApD",
+        "TD-U-W",
+        "Tracked"
+      ]
     },
     {
       "id": 457,
@@ -11281,7 +12004,12 @@
         "XSLT": 6024,
         "Dockerfile": 1030
       },
-      "tags": ["COM-F", "ALL", "DA", "TD-C-DA"]
+      "tags": [
+        "COM-F",
+        "ALL",
+        "DA",
+        "TD-C-DA"
+      ]
     },
     {
       "id": 458,
@@ -11363,7 +12091,13 @@
         "HTML": 1398,
         "HCL": 842
       },
-      "tags": ["COM-F", "DO", "ALL", "TD-C-D", "TD-U-Db"]
+      "tags": [
+        "COM-F",
+        "DO",
+        "ALL",
+        "TD-C-D",
+        "TD-U-Db"
+      ]
     },
     {
       "id": 473,
@@ -11435,7 +12169,14 @@
         "Shell": 4736,
         "Dockerfile": 341
       },
-      "tags": ["COM-C", "ALL", "SD-AS", "S", "TD-U-AI/ML", "Tracked"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "SD-AS",
+        "S",
+        "TD-U-AI/ML",
+        "Tracked"
+      ]
     },
     {
       "id": 462,
@@ -11521,7 +12262,11 @@
         "TLA": 14997,
         "Dockerfile": 4613
       },
-      "tags": ["COM-C", "ALL", "L&F"]
+      "tags": [
+        "COM-C",
+        "ALL",
+        "L&F"
+      ]
     },
     {
       "id": 465,
@@ -11593,7 +12338,10 @@
         "Kotlin": 29831,
         "HTML": 773
       },
-      "tags": ["L&F", "Untracked"]
+      "tags": [
+        "L&F",
+        "Untracked"
+      ]
     },
     {
       "id": 464,
@@ -11668,7 +12416,10 @@
         "Shell": 832,
         "Lua": 509
       },
-      "tags": ["L&F", "Untracked"]
+      "tags": [
+        "L&F",
+        "Untracked"
+      ]
     },
     {
       "id": 463,
@@ -11741,7 +12492,10 @@
         "Dockerfile": 4410,
         "JavaScript": 303
       },
-      "tags": ["L&F", "Untracked"]
+      "tags": [
+        "L&F",
+        "Untracked"
+      ]
     },
     {
       "id": 460,
@@ -11816,7 +12570,10 @@
         "Ruby": 7007,
         "Shell": 213
       },
-      "tags": ["L&F", "Untracked"]
+      "tags": [
+        "L&F",
+        "Untracked"
+      ]
     },
     {
       "id": 459,
@@ -11890,7 +12647,10 @@
         "Shell": 496,
         "HTML": 172
       },
-      "tags": ["L&F", "Untracked"]
+      "tags": [
+        "L&F",
+        "Untracked"
+      ]
     },
     {
       "id": 475,
@@ -11965,7 +12725,10 @@
         "Groovy": 5230,
         "Kotlin": 2400
       },
-      "tags": ["ALL", "Untracked"]
+      "tags": [
+        "ALL",
+        "Untracked"
+      ]
     },
     {
       "id": 461,
@@ -12039,8 +12802,14 @@
         "Jupyter Notebook": 22983,
         "Dockerfile": 637
       },
-      "tags": ["COM-C", "A", "IND-CyS", "TD-C-WA", "TD-U-AI/ML", "Untracked"]
+      "tags": [
+        "COM-C",
+        "A",
+        "IND-CyS",
+        "TD-C-WA",
+        "TD-U-AI/ML",
+        "Untracked"
+      ]
     }
-    
   ]
 }
