@@ -834,7 +834,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-      "bes_technology_stack": "S",
+      "bes_technology_stack": "DO",
       "project_repos": {
         "main_github_url": "https://github.com/Broadcom/security-analytics-export-tools",
         "main_bes_url": "https://github.com/Be-Secure/security-analytics-export-tools",
@@ -4732,7 +4732,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-      "bes_technology_stack": "S",
+      "bes_technology_stack": "DO",
       "project_repos": {
         "main_github_url": "https://github.com/codeclimate/codeclimate",
         "main_bes_url": "https://github.com/Be-Secure/codeclimate",
@@ -5114,7 +5114,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-      "bes_technology_stack": "S",
+      "bes_technology_stack": "DO",
       "project_repos": {
         "main_github_url": "https://github.com/opstrace/opstrace",
         "main_bes_url": "https://github.com/Be-Secure/opstrace",
@@ -6763,7 +6763,7 @@
       "name": "terraform-provider-luminate",
       "full_name": "Be-Secure/terraform-provider-luminate",
       "description": "Secure access cloud terraform provider",
-      "bes_technology_stack": "S",
+      "bes_technology_stack": "DO",
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -8447,7 +8447,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-      "bes_technology_stack": "S",
+      "bes_technology_stack": "DO",
       "project_repos": {
         "main_github_url": "https://github.com/rdkcentral/mlem",
         "main_bes_url": "https://github.com/Be-Secure/mlem",
@@ -8507,7 +8507,7 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
         "html_url": "https://github.com/Be-Secure"
       },
-      "bes_technology_stack": "S",
+      "bes_technology_stack": "DO",
       "project_repos": {
         "main_github_url": "https://github.com/rdkcentral/dvc",
         "main_bes_url": "https://github.com/Be-Secure/dvc",
