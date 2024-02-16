@@ -12040,7 +12040,382 @@
         "Dockerfile": 637
       },
       "tags": ["COM-C", "A", "IND-CyS", "TD-C-WA", "TD-U-AI/ML", "Untracked"]
+    },
+    {
+      "id": 478,
+      "bes_tracking_id": 478,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/478",
+      "name": "argo-cd",
+      "full_name": "Be-Secure/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "bes_technology_stack": "DO",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 89513,
+      "open_issues": 0,
+      "created_at": "2024-03-14T05:21:45Z",
+      "updated_at": "2024-02-15T14:49:24Z",
+      "pushed_at": "2024-02-16T05:58:03Z",
+      "git_url": "git://github.com/Be-Secure/argo-cd.git",
+      "clone_url": "https://github.com/Be-Secure/argo-cd.git",
+      "html_url": "https://github.com/Be-Secure/argo-cd",
+      "homepage": "https://argo-cd.readthedocs.io",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/argoproj/argo-cd",
+        "main_bes_url": "https://github.com/Be-Secure/argo-cd",
+        "all_projects": [
+          {
+            "id": 120896210,
+            "name": "argoproj/argo-cd",
+            "url": "https://github.com/argoproj/argo-cd"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 757251575,
+            "name": "Be-Secure/argo-cd",
+            "url": "https://github.com/Be-Secure/argo-cd"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+        "Go": 5755713,
+        "TypeScript": 1108157,
+        "Lua": 104995,
+        "SCSS": 84810,
+        "Shell": 49417,
+        "Makefile": 24089,
+        "Dockerfile": 14969,
+        "Procfile": 9393,
+        "JavaSCript": 4582,
+        "CSS": 2209,
+        "Mustache": 1066,
+        "HTML": 895 
+      },
+      "tags": ["COM-C", "DO", "IND-ALL", "TD-C-DA", "TD-U-ApD", "Tracked"]
+    },
+    {
+      "id": 479,
+      "bes_tracking_id": 479,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/479",
+      "name": "sigstore",
+      "full_name": "Be-Secure/sigstore",
+      "description": "Common go library shared across sigstore services and clients",
+      "bes_technology_stack": "S",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 3727,
+      "open_issues": 0,
+      "created_at": "2024-02-15T07:25:30Z",
+      "updated_at": "2024-02-15T15:44:37Z",
+      "pushed_at": "2024-02-16T06:36:54Z",
+      "git_url": "git://github.com/Be-Secure/sigstore.git",
+      "clone_url": "https://github.com/Be-Secure/sigstore.git",
+      "html_url": "https://github.com/Be-Secure/sigstore",
+      "homepage": "https://sigstore.dev",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/sigstore/sigstore",
+        "main_bes_url": "https://github.com/Be-Secure/sigstore",
+        "all_projects": [
+          {
+            "id": 338633268,
+            "name": "sigstore/sigstore",
+            "url": "https://github.com/sigstore/sigstore"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 757884429,
+            "name": "Be-Secure/sigstore",
+            "url": "https://github.com/Be-Secure/sigstore"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+        "Go": 515097,
+        "Makefile": 2948,
+        "Dockerfile": 1907,
+        "Shell": 1737
+      },
+      "tags": ["COM-C", "S", "IND-ALL", "SD-AS", "SD-SRM", "Tracked"]
+    },
+    {
+      "id": 480,
+      "bes_tracking_id": 480,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/480",
+      "name": "lettuce",
+      "full_name": "Be-Secure/lettuce",
+      "description": "Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.",
+      "bes_technology_stack": "L&F",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 20370,
+      "open_issues": 0,
+      "created_at": "2023-06-07T06:56:01Z",
+      "updated_at": "2023-06-07T06:57:39Z",
+      "pushed_at": "2024-02-16T08:17:57Z",
+      "git_url": "git://github.com/Be-Secure/lettuce.git",
+      "clone_url": "https://github.com/Be-Secure/lettuce.git",
+      "html_url": "https://github.com/Be-Secure/lettuce",
+      "homepage": "https://lettuce.io",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/lettuce-io/lettuce-core",
+        "main_bes_url": "https://github.com/Be-Secure/lettuce",
+        "all_projects": [
+          {
+            "id": 19641638,
+            "name": "lettuce-io/lettuce-core",
+            "url": "https://github.com/lettuce-io/lettuce-core"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 650481055,
+            "name": "Be-Secure/lettuce",
+            "url": "https://github.com/Be-Secure/lettuce"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+        "Java": 6539869,
+        "Kotlin": 275821,
+        "CSS": 41627,
+        "Makefile": 15409,
+        "Shell": 4162,
+        "HTML": 386
+      },
+      "tags": ["COM-C", "L&F", "IND-ALL", "Tracked"]
+    },
+    {
+      "id": 128,
+      "bes_tracking_id": 128,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/128",
+      "name": "scorecard",
+      "full_name": "Be-Secure/scorecard",
+      "description": "OpenSSF Scorecard - Security health metrics for Open Source",
+      "bes_technology_stack": "S",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 199036,
+      "open_issues": 0,
+      "created_at": "2020-12-17T03:37:30Z",
+      "updated_at": "2024-02-15T10:34:23Z",
+      "pushed_at": "2024-02-16T06:49:46Z",
+      "git_url": "git://github.com/Be-Secure/scorecard.git",
+      "clone_url": "https://github.com/Be-Secure/scorecard.git",
+      "html_url": "https://github.com/Be-Secure/scorecard",
+      "homepage": "https://scorecard.dev",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/ossf/scorecard",
+        "main_bes_url": "https://github.com/Be-Secure/scorecard",
+        "all_projects": [
+          {
+            "id": 302670797,
+            "name": "ossf/scorecard",
+            "url": "https://github.com/ossf/scorecard"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 322170920,
+            "name": "Be-Secure/scorecard",
+            "url": "https://github.com/Be-Secure/scorecard"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+        "Go": 1929157,
+        "Makefile": 20816,
+        "Dockerfile": 9180,
+        "Shell": 1499,
+        "JavaScript": 735
+      },
+      "tags": ["COM-F", "COM-F-OpenSSF", "S", "IND-CyS", "SD-SRM", "Tracked"]
+    },
+    {
+      "id": 481,
+      "bes_tracking_id": 481,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/481",
+      "name": "criticality_score",
+      "full_name": "Be-Secure/criticality_score",
+      "description": "Gives criticality score for an open source project",
+      "bes_technology_stack": "S",
+      "watchers_count": 0,
+      "forks_count": 2,
+      "stargazers_count": 0,
+      "size": 1264,
+      "open_issues": 0,
+      "created_at": "2021-09-16T03:29:43Z",
+      "updated_at": "2022-09-15T08:44:05Z",
+      "pushed_at": "2024-02-16T05:24:47Z",
+      "git_url": "git://github.com/Be-Secure/criticality_score.git",
+      "clone_url": "https://github.com/Be-Secure/criticality_score.git",
+      "html_url": "https://github.com/Be-Secure/criticality_score",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/ossf/criticality_score",
+        "main_bes_url": "https://github.com/Be-Secure/criticality_score",
+        "all_projects": [
+          {
+            "id": 313674213,
+            "name": "ossf/criticality_score",
+            "url": "https://github.com/ossf/criticality_score"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 407006100,
+            "name": "Be-Secure/criticality_score",
+            "url": "https://github.com/Be-Secure/criticality_score"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+        "Go": 287800,
+        "Dockerfile": 4550,
+        "Shell": 3720,
+        "Makefile": 2467
+      },
+      "tags": ["COM-F", "COM-F-OpenSSF", "S", "IND-CyS", "SD-SRM", "Tracked"]
     }
-    
   ]
 }
