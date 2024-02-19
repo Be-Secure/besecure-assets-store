@@ -1,0 +1,9 @@
+[
+    {
+        "version": "jackson-core-2.16.1",
+        "release_date": "23-Dec-2023",
+        "criticality_score": 0.40079,
+        "scorecard": 6.7,
+        "cve_details": "Not Available"
+    }
+]
