@@ -12749,6 +12749,78 @@
         "Makefile": 2467
       },
       "tags": ["COM-F", "COM-F-OpenSSF", "S", "IND-CyS", "SD-SRM", "Tracked"]
+    },
+    {
+      "id": 487,
+      "bes_tracking_id": 487,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/487",
+      "name": "swarm-learning",
+      "full_name": "Be-Secure/swarm-learning",
+      "description": "A simplified library for decentralized, privacy preserving machine learning",
+      "bes_technology_stack": "DA",
+      "watchers_count": 0,
+      "forks_count": 2,
+      "stargazers_count": 0,
+      "size": 199805,
+      "open_issues": 0,
+      "created_at": "2024-02-19T15:53:39Z",
+      "updated_at": "2024-02-19T16:03:52Z",
+      "pushed_at": "2024-02-19T16:12:42Z",
+      "git_url": "git://github.com/Be-Secure/swarm-learning.git",
+      "clone_url": "https://github.com/Be-Secure/swarm-learning.git",
+      "html_url": "https://github.com/Be-Secure/swarm-learning",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/ossf/criticality_score",
+        "main_bes_url": "https://github.com/Be-Secure/criticality_score",
+        "all_projects": [
+          {
+            "id": 375090489,
+            "name": "HewlettPackard/swarm-learning",
+            "url": "https://github.com/HewlettPackard/swarm-learning"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 759928339,
+            "name": "Be-Secure/swarm-learning",
+            "url": "https://github.com/Be-Secure/swarm-learning"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+        "Python": 149152,
+        "Shell": 101307,
+        "Raku": 19859
+      },
+      "tags": ["COM-C", "DA", "IND-ALL", "TD-U-AI/ML", "Tracked"]
     }
   ]
 }
