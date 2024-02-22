@@ -3,9 +3,15 @@
     {
         "version": "v1.28.2",
         "release_date": "13-Sep-2023",
-        "criticality_score": 0.57069,
-        "scorecard": 4.4,
+        "criticality_score": 0.56987,
+        "scorecard": 4.3,
+        "cve_details": "Not Available"
+    },
+    {
+        "version": "v1.29.0",
+        "release_date": "13-Dec-2023",
+        "criticality_score": 0.50604,
+        "scorecard": 5.2,
         "cve_details": "Not Available"
     }
-
 ]
