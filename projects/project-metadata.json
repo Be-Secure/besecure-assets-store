@@ -13857,6 +13857,86 @@
                 "TD-U-AI/ML",
                 "Tracked"
             ]
+        },
+        {
+            "id": 496,
+            "bes_tracking_id": 496,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/496",
+            "name": "aicert",
+            "full_name": "Be-Secure/aicert",
+            "description": null,
+            "bes_technology_stack": "S",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 4359,
+            "open_issues": 0,
+            "created_at": "2024-02-26T11:03:22Z",
+            "updated_at": "2024-02-26T11:03:22Z",
+            "pushed_at": "2024-02-26T11:04:10Z",
+            "git_url": "git://github.com/Be-Secure/aicert.git",
+            "clone_url": "https://github.com/Be-Secure/aicert.git",
+            "html_url": "https://github.com/Be-Secure/aicert",
+            "homepage": null,
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/mithril-security/aicert",
+                "main_bes_url": "https://github.com/Be-Secure/aicert",
+                "all_projects": [
+                    {
+                        "id": 662018709,
+                        "name": "mithril-security/aicert",
+                        "url": "https://github.com/mithril-security/aicert"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 763470225,
+                        "name": "Be-Secure/aicert",
+                        "url": "https://github.com/Be-Secure/aicert"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "Python": 83349,
+                "HCL": 5660,
+                "Shell": 706,
+                "Dockerfile": 218
+            },
+            "tags": [
+                "COM - C",
+                "IND-CyS",
+                "SD-SRM",
+                "S",
+                "TD-U-AI/ML",
+                "Tracked"
+            ]
         }
     ]
 }
