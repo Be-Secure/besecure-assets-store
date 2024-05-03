@@ -15865,6 +15865,86 @@
             "tags": [
                 "Tracked"
             ]
+        },
+        {
+            "id": 518,
+            "bes_tracking_id": 518,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/518",
+            "name": "DiCE",
+            "full_name": "Be-Secure/DiCE",
+            "description": "Generate Diverse Counterfactual Explanations for any machine learning model. ",
+            "bes_technology_stack": "L&F",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 15898,
+            "open_issues": 0,
+            "created_at": "2024-05-03T05:25:04Z",
+            "updated_at": "2024-05-03T06:02:22Z",
+            "pushed_at": "2024-05-03T06:02:19Z",
+            "git_url": "git://github.com/Be-Secure/DiCE.git",
+            "clone_url": "https://github.com/Be-Secure/DiCE.git",
+            "html_url": "https://github.com/Be-Secure/DiCE",
+            "homepage": "https://interpretml.github.io/DiCE/",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/interpretml/DiCE",
+                "main_bes_url": "https://github.com/Be-Secure/DiCE",
+                "all_projects": [
+                    {
+                        "id": 184557077,
+                        "name": "interpretml/DiCE",
+                        "url": "https://github.com/interpretml/DiCE"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 795356680,
+                        "name": "Be-Secure/DiCE",
+                        "url": "https://github.com/Be-Secure/DiCE"
+                    }
+                ]
+            },
+            "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit",
+                "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "language": {
+                "Python": 513494
+            },
+            "tags": [
+                "COM - C",
+                "IND-CON",
+                "IND-BFSI",
+                "IND-ENU",
+                "IND-NG",
+                "L&F",
+                "IND-RT",
+                "IND-HLS",
+                "TD-U-AI/ML"
+            ]
         }
     ]
 }
