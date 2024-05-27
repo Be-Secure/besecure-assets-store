@@ -15945,6 +15945,84 @@
                 "IND-HLS",
                 "TD-U-AI/ML"
             ]
+        },
+        {
+            "id": 521,
+            "bes_tracking_id": 521,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/521",
+            "name": "chainloop",
+            "full_name": "Be-Secure/chainloop",
+            "description": "chainloop is an Open Source evidence store for your Software Supply Chain attestations, SBOMs, VEX, SARIF, CSAF files, QA reports and more.",
+            "bes_technology_stack": "DO",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 21713,
+            "open_issues": 0,
+            "created_at": "2024-05-22T05:35:30Z",
+            "updated_at": "2024-05-27T10:10:26Z",
+            "pushed_at": "2024-05-27T10:10:23Z",
+            "git_url": "git://github.com/Be-Secure/chainloop.git",
+            "clone_url": "https://github.com/Be-Secure/chainloop.git",
+            "html_url": "https://github.com/Be-Secure/chainloop",
+            "homepage": "https://docs.chainloop.dev",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/chainloop-dev/chainloop",
+                "main_bes_url": "https://github.com/Be-Secure/chainloop",
+                "all_projects": [
+                    {
+                        "id": 610316941,
+                        "name": "chainloop-dev/chainloop",
+                        "url": "https://github.com/chainloop-dev/chainloop"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 804181149,
+                        "name": "Be-Secure/chainloop",
+                        "url": "https://github.com/Be-Secure/chainloop"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "Go": 1690190,
+                "SQL": 21649,
+                "Smarty": 13243,
+                "Makefile": 8487,
+                "Dockerfile": 923
+            },
+            "tags": [
+                "COM-C",
+                "DO",
+                "IND-ALL"
+            ]
         }
     ]
 }
