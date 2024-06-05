@@ -16,7 +16,7 @@
     "modality": "image; image",
     "analysis": "",
     "size": "5.6 MB",
-    "dependencies": [None],
+    "dependencies": ["None"],
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
