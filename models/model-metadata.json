@@ -4,7 +4,7 @@
     "bes_tracking_id": 1,
     "issue_url": "",
     "type": "Classic",
-    "name": "bes-image-classification",
+    "name": "bes_image_classification",
     "organization": "Be-Secure",
     "description": "Reference implementations of an MNIST model for image classification, specifically focusing on handwritten digit data. The implementation utilizes the MNIST dataset, which is part of TensorFlow Datasets",
     "created_date": "2023-11-30",
