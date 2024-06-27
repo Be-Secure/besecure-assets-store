@@ -2351,6 +2351,12 @@
             "name": "struts",
             "full_name": "Be-Secure/struts",
             "description": "The Apache Struts web framework is a free open-source solution for creating Java web applications.",
+            "compatible_environments": [
+                {
+                    "name": "struts-RT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "watchers_count": 0,
             "forks_count": 0,
             "stargazers_count": 0,
@@ -6767,6 +6773,12 @@
             "name": "dubbo",
             "full_name": "Be-Secure/dubbo",
             "description": "Apache Dubbo is a high-performance, java based, open source RPC framework.",
+            "compatible_environments": [
+                {
+                    "name": "dubbo-RT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "watchers_count": 0,
             "forks_count": 0,
             "stargazers_count": 0,
