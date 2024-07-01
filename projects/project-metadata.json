@@ -2286,6 +2286,12 @@
             "name": "logstash",
             "full_name": "Be-Secure/logstash",
             "description": "Logstash is a server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite stash.",
+            "compatible_environments": [
+                {
+                    "name": "logstash-RT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "watchers_count": 0,
             "forks_count": 0,
             "stargazers_count": 0,
@@ -7431,6 +7437,12 @@
             "name": "privacyidea",
             "full_name": "Be-Secure/privacyidea",
             "description": ":closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)",
+            "compatible_environments": [
+                {
+                    "name": "privacyidea-RT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "bes_technology_stack": "S",
             "watchers_count": 0,
             "forks_count": 0,
@@ -10108,6 +10120,12 @@
             "name": "prometheus",
             "full_name": "Be-Secure/prometheus",
             "description": "The Prometheus monitoring system and time series database.",
+            "compatible_environments": [
+                {
+                    "name": "prometheus-RT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "bes_technology_stack": "DO",
             "watchers_count": 0,
             "forks_count": 1,
