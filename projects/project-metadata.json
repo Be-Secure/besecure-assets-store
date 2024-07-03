@@ -694,6 +694,16 @@
             "name": "fastjson",
             "full_name": "Be-Secure/fastjson",
             "description": "A fast JSON parser/generator for Java.  ",
+            "compatible_environments": [
+                {
+                    "name": "fastjson-RT-env",
+                    "version": ["0.0.1"]
+                },
+                {
+                    "name": "fastjson-BT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "watchers_count": 0,
             "forks_count": 0,
             "stargazers_count": 0,
@@ -5037,6 +5047,16 @@
             "name": "zaproxy",
             "full_name": "Be-Secure/zaproxy",
             "description": "zaproxy is an open source tool that improves identification of vulnerabilities in your project with just one command.",
+            "compatible_environments": [
+                {
+                    "name": "zaproxy-BT-env",
+                    "version": ["0.0.1"]
+                },
+                {
+                    "name": "zaproxy-RT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "watchers_count": 0,
             "forks_count": 1,
             "stargazers_count": 0,
@@ -6537,6 +6557,16 @@
             "name": "jackson-databind",
             "full_name": "Be-Secure/jackson-databind",
             "description": "General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)",
+            "compatible_environments": [
+                {
+                    "name": "jackson-databind-BT-env",
+                    "version": ["0.0.1"]
+                },
+                {
+                    "name": "jackson-databind-RT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "bes_technology_stack": "L&F",
             "watchers_count": 0,
             "forks_count": 1,
@@ -6841,6 +6871,12 @@
             "name": "druid",
             "full_name": "Be-Secure/druid",
             "description": "Apache druid is a high-performance, java based, open source RPC framework.",
+            "compatible_environments": [
+                {
+                    "name": "druid-BT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "watchers_count": 0,
             "forks_count": 1,
             "stargazers_count": 0,
@@ -13072,6 +13108,12 @@
             "name": "jackson-core",
             "full_name": "Be-Secure/jackson-core",
             "description": "Core part of Jackson that defines Streaming API as well as basic shared abstractions",
+            "compatible_environments": [
+                {
+                    "name": "jackson-core-BT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "bes_technology_stack": "A",
             "watchers_count": 0,
             "forks_count": 1,
@@ -13316,6 +13358,12 @@
             "name": "lettuce",
             "full_name": "Be-Secure/lettuce",
             "description": "Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.",
+            "compatible_environments": [
+                {
+                    "name": "lettuce-BT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "bes_technology_stack": "L&F",
             "watchers_count": 0,
             "forks_count": 0,
@@ -15806,6 +15854,12 @@
             "name": "opencti",
             "full_name": "Be-Secure/opencti",
             "description": "Open Cyber Threat Intelligence Platform",
+            "compatible_environments": [
+                {
+                    "name": "opencti-RT-env",
+                    "version": ["0.0.1"]
+                }
+            ],
             "bes_technology_stack": "S",
             "watchers_count": 0,
             "forks_count": 0,
