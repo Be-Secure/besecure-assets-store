@@ -16337,6 +16337,7 @@
             "name": "PyRIT",
             "full_name": "Be-Secure/PyRIT",
             "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+            "compatible_environments": [],
             "bes_technology_stack": "S",
             "watchers_count": 0,
             "forks_count": 0,
