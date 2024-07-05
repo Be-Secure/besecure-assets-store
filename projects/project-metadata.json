@@ -16347,6 +16347,83 @@
                 "IND-ALL",
                 "S"
             ]
+        },
+        {
+            "id": 531,
+            "bes_tracking_id": 531,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/531",
+            "name": "PyRIT",
+            "full_name": "Be-Secure/PyRIT",
+            "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+            "compatible_environments": [],
+            "bes_technology_stack": "S",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 15066,
+            "open_issues": 0,
+            "created_at": "2024-06-13T05:44:23Z",
+            "updated_at": "2024-07-03T12:04:35Z",
+            "pushed_at": "2024-07-03T12:04:32Z",
+            "git_url": "git://github.com/Be-Secure/PyRIT.git",
+            "clone_url": "https://github.com/Be-Secure/PyRIT.git",
+            "html_url": "https://github.com/Be-Secure/PyRIT",
+            "homepage": "",
+            "owner": {
+              "login": "Be-Secure",
+              "id": 44028837,
+              "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+              "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/Be-Secure",
+              "html_url": "https://github.com/Be-Secure",
+              "followers_url": "https://api.github.com/users/Be-Secure/followers",
+              "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+              "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+              "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+              "repos_url": "https://api.github.com/users/Be-Secure/repos",
+              "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+              "type": "Organization",
+              "site_admin": false
+            },
+            "project_repos": {
+              "main_github_url": "https://github.com/Azure/PyRIT",
+              "main_bes_url": "https://github.com/Be-Secure/PyRIT",
+              "all_projects": [
+                {
+                  "id": 730753909,
+                  "name": "Azure/PyRIT",
+                  "url": "https://github.com/Azure/PyRIT"
+                }
+              ],
+              "all_bes_repos": [
+                {
+                  "id": 814486848,
+                  "name": "Be-Secure/PyRIT",
+                  "url": "https://github.com/Be-Secure/PyRIT"
+                }
+              ]
+            },
+            "license": {
+              "key": "mit",
+              "name": "MIT License",
+              "spdx_id": "MIT",
+              "url": "https://api.github.com/licenses/mit",
+              "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "language": {
+              "Python": 708972,
+              "Makefile": 576
+            },
+            "tags": [
+              "COM - F",
+              "IND-CyS",
+              "S",
+              "TD-U-AI/ML"
+            ]
         }
     ]
 }
