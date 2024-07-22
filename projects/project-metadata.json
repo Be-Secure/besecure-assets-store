@@ -16840,6 +16840,496 @@
                 "A",
                 "IND-ALL"
             ]
+        },
+        {
+            "id": 528,
+            "bes_tracking_id": 528,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/528",
+            "name": "Ravel",
+            "full_name": "Be-Secure/Ravel",
+            "description": null,
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 54750,
+            "open_issues": 0,
+            "created_at": "2024-07-02T06:13:53Z",
+            "updated_at": "2024-07-02T07:40:25Z",
+            "pushed_at": "2024-07-02T07:40:22Z",
+            "git_url": "git://github.com/Be-Secure/Ravel.git",
+            "clone_url": "https://github.com/Be-Secure/Ravel.git",
+            "html_url": "https://github.com/Be-Secure/Ravel",
+            "homepage": null,
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/Comcast/Ravel",
+                "main_bes_url": "https://github.com/Be-Secure/Ravel",
+                "all_projects": [
+                    {
+                        "id": 233913039,
+                        "name": "Comcast/Ravel",
+                        "url": "https://github.com/Comcast/Ravel"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 822942327,
+                        "name": "Be-Secure/Ravel",
+                        "url": "https://github.com/Be-Secure/Ravel"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "Go": 573849,
+                "Shell": 8445,
+                "Roff": 7378,
+                "Makefile": 3318,
+                "Dockerfile": 2435,
+                "Perl": 457
+            },
+            "tags": [
+                "COM - C",
+                "A",
+                "IND-ALL"
+            ]
+        },
+        {
+            "id": 529,
+            "bes_tracking_id": 529,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/529",
+            "name": "xGitGuard",
+            "full_name": "Be-Secure/xGitGuard",
+            "description": "AI based Secrets Detection Python Framework",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 2254,
+            "open_issues": 0,
+            "created_at": "2024-07-02T06:13:26Z",
+            "updated_at": "2024-07-02T09:08:02Z",
+            "pushed_at": "2024-07-02T09:07:58Z",
+            "git_url": "git://github.com/Be-Secure/xGitGuard.git",
+            "clone_url": "https://github.com/Be-Secure/xGitGuard.git",
+            "html_url": "https://github.com/Be-Secure/xGitGuard",
+            "homepage": "",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/Comcast/xGitGuard",
+                "main_bes_url": "https://github.com/Be-Secure/xGitGuard",
+                "all_projects": [
+                    {
+                        "id": 426642178,
+                        "name": "Comcast/xGitGuard",
+                        "url": "https://github.com/Comcast/xGitGuard"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 822942145,
+                        "name": "Be-Secure/xGitGuard",
+                        "url": "https://github.com/Be-Secure/xGitGuard"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "Python": 334617
+            },
+            "tags": [
+                "COM - C",
+                "A",
+                "IND-ALL",
+                "TD-U-AI/ML"
+            ]
+        },
+        {
+            "id": 530,
+            "bes_tracking_id": 530,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/530",
+            "name": "fishymetrics",
+            "full_name": "Be-Secure/fishymetrics",
+            "description": "Redfish API Prometheus Exporter for monitoring large scale server deployments",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 7460,
+            "open_issues": 0,
+            "created_at": "2024-07-02T06:13:05Z",
+            "updated_at": "2024-07-02T09:10:20Z",
+            "pushed_at": "2024-07-02T09:10:17Z",
+            "git_url": "git://github.com/Be-Secure/fishymetrics.git",
+            "clone_url": "https://github.com/Be-Secure/fishymetrics.git",
+            "html_url": "https://github.com/Be-Secure/fishymetrics",
+            "homepage": "",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/Comcast/fishymetrics",
+                "main_bes_url": "https://github.com/Be-Secure/fishymetrics",
+                "all_projects": [
+                    {
+                        "id": 632988080,
+                        "name": "Comcast/fishymetrics",
+                        "url": "https://github.com/Comcast/fishymetrics"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 822942024,
+                        "name": "Be-Secure/fishymetrics",
+                        "url": "https://github.com/Be-Secure/fishymetrics"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "Go": 251296,
+                "Dockerfile": 1410,
+                "Makefile": 1284,
+                "Mustache": 1180
+            },
+            "tags": [
+                "COM - C",
+                "A",
+                "IND-ALL"
+            ]
+        },
+        {
+            "id": 534,
+            "bes_tracking_id": 534,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/534",
+            "name": "odxtools",
+            "full_name": "Be-Secure/odxtools",
+            "description": "odxtools is a collection of utilities to interact with the diagnostic functionality of automotive electronic control units using python",
+            "bes_technology_stack": "S",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 2560,
+            "open_issues": 0,
+            "created_at": "2024-07-09T05:52:00Z",
+            "updated_at": "2024-07-10T07:57:15Z",
+            "pushed_at": "2024-07-10T07:57:12Z",
+            "git_url": "git://github.com/Be-Secure/odxtools.git",
+            "clone_url": "https://github.com/Be-Secure/odxtools.git",
+            "html_url": "https://github.com/Be-Secure/odxtools",
+            "homepage": "",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/mercedes-benz/odxtools",
+                "main_bes_url": "https://github.com/Be-Secure/odxtools",
+                "all_projects": [
+                    {
+                        "id": 386568904,
+                        "name": "mercedes-benz/odxtools",
+                        "url": "https://github.com/mercedes-benz/odxtools"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 826108555,
+                        "name": "Be-Secure/odxtools",
+                        "url": "https://github.com/Be-Secure/odxtools"
+                    }
+                ]
+            },
+            "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit",
+                "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "language": {
+                "Python": 894272,
+                "Jinja": 62808,
+                "Shell": 625
+            },
+            "tags": [
+                "COM - C",
+                "IND-ALL",
+                "S"
+            ]
+        },
+        {
+            "id": 533,
+            "bes_tracking_id": 533,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/533",
+            "name": "sechub",
+            "full_name": "Be-Secure/sechub",
+            "description": "SecHub provides a central API to test software with different security tools.",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 56463,
+            "open_issues": 0,
+            "created_at": "2024-07-09T05:52:28Z",
+            "updated_at": "2024-07-10T10:49:20Z",
+            "pushed_at": "2024-07-10T10:49:16Z",
+            "git_url": "git://github.com/Be-Secure/sechub.git",
+            "clone_url": "https://github.com/Be-Secure/sechub.git",
+            "html_url": "https://github.com/Be-Secure/sechub",
+            "homepage": "https://mercedes-benz.github.io/sechub/",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/mercedes-benz/sechub",
+                "main_bes_url": "https://github.com/Be-Secure/sechub",
+                "all_projects": [
+                    {
+                        "id": 198238470,
+                        "name": "mercedes-benz/sechub",
+                        "url": "https://github.com/mercedes-benz/sechub"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 826108835,
+                        "name": "Be-Secure/sechub",
+                        "url": "https://github.com/Be-Secure/sechub"
+                    }
+                ]
+            },
+            "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit",
+                "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "language": {
+                "Java": 8988720,
+                "Shell": 374890,
+                "Go": 234417,
+                "TypeScript": 91792,
+                "Dockerfile": 77513,
+                "HTML": 42385,
+                "Vue": 18956,
+                "Groovy": 12349,
+                "Python": 7341,
+                "CSS": 1946,
+                "JavaScript": 1430,
+                "C": 748,
+                "Assembly": 401,
+                "Batchfile": 391,
+                "PHP": 204,
+                "Visual Basic .NET": 178,
+                "Ada": 169,
+                "Erlang": 140,
+                "OpenEdge ABL": 139,
+                "Fortran": 138,
+                "ABAP": 134,
+                "Ruby": 103,
+                "OCaml": 100,
+                "Scheme": 92,
+                "Tcl": 77
+            },
+            "tags": [
+                "COM - C",
+                "A",
+                "IND-ALL"
+            ]
+        },
+        {
+            "id": 532,
+            "bes_tracking_id": 532,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/532",
+            "name": "fleetbase",
+            "full_name": "Be-Secure/fleetbase",
+            "description": "Modular logistics and supply chain operating system (LSOS)",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 5613,
+            "open_issues": 0,
+            "created_at": "2024-07-09T05:51:06Z",
+            "updated_at": "2024-07-09T06:32:34Z",
+            "pushed_at": "2024-07-09T06:32:31Z",
+            "git_url": "git://github.com/Be-Secure/fleetbase.git",
+            "clone_url": "https://github.com/Be-Secure/fleetbase.git",
+            "html_url": "https://github.com/Be-Secure/fleetbase",
+            "homepage": "https://fleetbase.io",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/fleetbase/fleetbase",
+                "main_bes_url": "https://github.com/Be-Secure/fleetbase",
+                "all_projects": [
+                    {
+                        "id": 540371158,
+                        "name": "fleetbase/fleetbase",
+                        "url": "https://github.com/fleetbase/fleetbase"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 826108032,
+                        "name": "Be-Secure/fleetbase",
+                        "url": "https://github.com/Be-Secure/fleetbase"
+                    }
+                ]
+            },
+            "license": {
+                "key": "agpl-3.0",
+                "name": "GNU Affero General Public License v3.0",
+                "spdx_id": "AGPL-3.0",
+                "url": "https://api.github.com/licenses/agpl-3.0",
+                "node_id": "MDc6TGljZW5zZTE="
+            },
+            "language": {
+                "JavaScript": 338730,
+                "Handlebars": 102026,
+                "PHP": 86604,
+                "Mermaid": 73213,
+                "Blade": 18386,
+                "Dockerfile": 5411,
+                "Shell": 3000,
+                "HTML": 2436,
+                "Smarty": 2063,
+                "Python": 1505,
+                "CSS": 1462,
+                "HCL": 1190
+            },
+            "tags": [
+                "COM - C",
+                "A",
+                "IND-ALL"
+            ]
         }
     ]
 }
