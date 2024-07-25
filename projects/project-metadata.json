@@ -17330,6 +17330,330 @@
                 "A",
                 "IND-ALL"
             ]
+        },
+        {
+            "id": 535,
+            "bes_tracking_id": 535,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/535",
+            "name": "open-adas",
+            "full_name": "Be-Secure/open-adas",
+            "description": "An open source advanced driver assistance system (ADAS) that uses Jetson Nano as the hardware. Features: Traffic sign detection, Forward collision warning, Lane departure warning.",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 27948,
+            "open_issues": 0,
+            "created_at": "2024-07-04T10:54:06Z",
+            "updated_at": "2024-07-14T15:29:49Z",
+            "pushed_at": "2024-07-14T15:29:47Z",
+            "git_url": "git://github.com/Be-Secure/open-adas.git",
+            "clone_url": "https://github.com/Be-Secure/open-adas.git",
+            "html_url": "https://github.com/Be-Secure/open-adas",
+            "homepage": "",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/vietanhdev/open-adas",
+                "main_bes_url": "https://github.com/Be-Secure/open-adas",
+                "all_projects": [
+                    {
+                        "id": 249122777,
+                        "name": "vietanhdev/open-adas",
+                        "url": "https://github.com/vietanhdev/open-adas"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 824094065,
+                        "name": "Be-Secure/open-adas",
+                        "url": "https://github.com/Be-Secure/open-adas"
+                    }
+                ]
+            },
+            "license": null,
+            "language": {
+                "C++": 1016451,
+                "Cuda": 84207,
+                "Python": 66249,
+                "CMake": 26767,
+                "C": 21301,
+                "SWIG": 4409,
+                "Dockerfile": 2514,
+                "Shell": 732
+            },
+            "tags": [
+                "IND-AM",
+                "A",
+                "TD-U-IoT"
+            ]
+        },
+        {
+            "id": 536,
+            "bes_tracking_id": 536,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/536",
+            "name": "openpilot",
+            "full_name": "Be-Secure/openpilot",
+            "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 2634021,
+            "open_issues": 0,
+            "created_at": "2024-07-14T16:01:42Z",
+            "updated_at": "2024-07-14T17:19:49Z",
+            "pushed_at": "2024-07-14T17:19:45Z",
+            "git_url": "git://github.com/Be-Secure/openpilot.git",
+            "clone_url": "https://github.com/Be-Secure/openpilot.git",
+            "html_url": "https://github.com/Be-Secure/openpilot",
+            "homepage": "https://comma.ai/",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/commaai/openpilot",
+                "main_bes_url": "https://github.com/Be-Secure/openpilot",
+                "all_projects": [
+                    {
+                        "id": 74627617,
+                        "name": "commaai/openpilot",
+                        "url": "https://github.com/commaai/openpilot"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 828593326,
+                        "name": "Be-Secure/openpilot",
+                        "url": "https://github.com/Be-Secure/openpilot"
+                    }
+                ]
+            },
+            "license": null,
+            "language": {
+                "C": 18586079,
+                "Python": 3045219,
+                "C++": 1028881,
+                "Cap'n Proto": 93595,
+                "Assembly": 79131,
+                "Cython": 44356,
+                "Shell": 27226,
+                "HTML": 17143,
+                "Kaitai Struct": 12478,
+                "JavaScript": 9942,
+                "CSS": 2803,
+                "QML": 1132
+            },
+            "tags": [
+                "COM - C",
+                "IND-AM",
+                "A",
+                "TD-U-IoT"
+            ]
+        },
+        {
+            "id": 537,
+            "bes_tracking_id": 537,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/537",
+            "name": "carla",
+            "full_name": "Be-Secure/carla",
+            "description": "Open-source simulator for autonomous driving research.",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 1563015,
+            "open_issues": 0,
+            "created_at": "2024-07-14T16:03:32Z",
+            "updated_at": "2024-07-14T17:49:59Z",
+            "pushed_at": "2024-07-14T17:49:56Z",
+            "git_url": "git://github.com/Be-Secure/carla.git",
+            "clone_url": "https://github.com/Be-Secure/carla.git",
+            "html_url": "https://github.com/Be-Secure/carla",
+            "homepage": "http://carla.org",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/carla-simulator/carla",
+                "main_bes_url": "https://github.com/Be-Secure/carla",
+                "all_projects": [
+                    {
+                        "id": 108102826,
+                        "name": "carla-simulator/carla",
+                        "url": "https://github.com/carla-simulator/carla"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 828593831,
+                        "name": "Be-Secure/carla",
+                        "url": "https://github.com/Be-Secure/carla"
+                    }
+                ]
+            },
+            "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit",
+                "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "language": {
+                "C++": 4947288,
+                "Python": 1163773,
+                "C": 310883,
+                "Batchfile": 144533,
+                "Shell": 113747,
+                "CMake": 35160,
+                "C#": 24899,
+                "Makefile": 10150,
+                "Dockerfile": 2593
+            },
+            "tags": [
+                "COM - C",
+                "IND-AM",
+                "A",
+                "TD-U-IoT"
+            ]
+        },
+        {
+            "id": 540,
+            "bes_tracking_id": 540,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/540",
+            "name": "airflow",
+            "full_name": "Be-Secure/airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "bes_technology_stack": "DO",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 292225,
+            "open_issues": 0,
+            "created_at": "2024-06-14T11:41:45Z",
+            "updated_at": "2024-07-16T08:48:35Z",
+            "pushed_at": "2024-07-16T08:48:30Z",
+            "git_url": "git://github.com/Be-Secure/airflow.git",
+            "clone_url": "https://github.com/Be-Secure/airflow.git",
+            "html_url": "https://github.com/Be-Secure/airflow",
+            "homepage": "https://airflow.apache.org/",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/apache/airflow",
+                "main_bes_url": "https://github.com/Be-Secure/airflow",
+                "all_projects": [
+                    {
+                        "id": 33884891,
+                        "name": "apache/airflow",
+                        "url": "https://github.com/apache/airflow"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 815116527,
+                        "name": "Be-Secure/airflow",
+                        "url": "https://github.com/Be-Secure/airflow"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "Python": 33080620,
+                "TypeScript": 806657,
+                "Shell": 181275,
+                "HTML": 152670,
+                "JavaScript": 105951,
+                "Dockerfile": 92167,
+                "Jinja": 49802,
+                "CSS": 23329,
+                "Go": 9491,
+                "Jupyter Notebook": 5482,
+                "HCL": 3786,
+                "Mako": 1339,
+                "R": 313
+            },
+            "tags": [
+                "COM - C",
+                "DO",
+                "IND-CyS"
+            ]
         }
     ]
 }
