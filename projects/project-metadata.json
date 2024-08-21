@@ -17654,6 +17654,329 @@
                 "DO",
                 "IND-CyS"
             ]
+        },
+        {
+            "id": 545,
+            "bes_tracking_id": 545,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/545",
+            "name": "night-vision",
+            "full_name": "Be-Secure/night-vision",
+            "description": "Highly customizable charting library, created for professional traders",
+            "bes_technology_stack": "L&F",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 15362,
+            "open_issues": 0,
+            "created_at": "2024-07-31T10:17:35Z",
+            "updated_at": "2024-08-12T05:25:52Z",
+            "pushed_at": "2024-08-12T05:25:49Z",
+            "git_url": "git://github.com/Be-Secure/night-vision.git",
+            "clone_url": "https://github.com/Be-Secure/night-vision.git",
+            "html_url": "https://github.com/Be-Secure/night-vision",
+            "homepage": "https://nightvision.dev",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/project-nv/night-vision",
+                "main_bes_url": "https://github.com/Be-Secure/night-vision",
+                "all_projects": [
+                    {
+                        "id": 562749305,
+                        "name": "project-nv/night-vision",
+                        "url": "https://github.com/project-nv/night-vision"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 836183790,
+                        "name": "Be-Secure/night-vision",
+                        "url": "https://github.com/Be-Secure/night-vision"
+                    }
+                ]
+            },
+            "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit",
+                "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "language": {
+                "JavaScript": 58668864,
+                "Svelte": 45915,
+                "HTML": 2929,
+                "TypeScript": 2607,
+                "CSS": 103
+            },
+            "tags": [
+                "IND-CON",
+                "L&F"
+            ]
+        },
+        {
+            "id": 544,
+            "bes_tracking_id": 544,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/544",
+            "name": "oscc",
+            "full_name": "Be-Secure/oscc",
+            "description": "Open Source Car Control \ud83d\udcbb\ud83d\ude97\ud83d\ude4c",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 47125,
+            "open_issues": 0,
+            "created_at": "2024-07-31T10:18:14Z",
+            "updated_at": "2024-08-12T06:20:56Z",
+            "pushed_at": "2024-08-12T06:20:53Z",
+            "git_url": "git://github.com/Be-Secure/oscc.git",
+            "clone_url": "https://github.com/Be-Secure/oscc.git",
+            "html_url": "https://github.com/Be-Secure/oscc",
+            "homepage": "",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/PolySync/oscc",
+                "main_bes_url": "https://github.com/Be-Secure/oscc",
+                "all_projects": [
+                    {
+                        "id": 73134301,
+                        "name": "PolySync/oscc",
+                        "url": "https://github.com/PolySync/oscc"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 836184030,
+                        "name": "Be-Secure/oscc",
+                        "url": "https://github.com/Be-Secure/oscc"
+                    }
+                ]
+            },
+            "license": {
+                "key": "other",
+                "name": "Other",
+                "spdx_id": "NOASSERTION",
+                "url": null,
+                "node_id": "MDc6TGljZW5zZTA="
+            },
+            "language": {
+                "C++": 275609,
+                "C": 269920,
+                "CMake": 134798,
+                "Rust": 59178,
+                "Gherkin": 12017,
+                "Roff": 3035,
+                "Shell": 2174,
+                "Dockerfile": 1322
+            },
+            "tags": [
+                "IND-AM",
+                "A",
+                "TD-U-IoT"
+            ]
+        },
+        {
+            "id": 542,
+            "bes_tracking_id": 542,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/542",
+            "name": "apollo",
+            "full_name": "Be-Secure/apollo",
+            "description": "An open autonomous driving platform",
+            "bes_technology_stack": "DO",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 3243617,
+            "open_issues": 0,
+            "created_at": "2024-07-31T10:20:00Z",
+            "updated_at": "2024-08-13T07:19:42Z",
+            "pushed_at": "2024-08-13T07:19:30Z",
+            "git_url": "git://github.com/Be-Secure/apollo.git",
+            "clone_url": "https://github.com/Be-Secure/apollo.git",
+            "html_url": "https://github.com/Be-Secure/apollo",
+            "homepage": "",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/ApolloAuto/apollo",
+                "main_bes_url": "https://github.com/Be-Secure/apollo",
+                "all_projects": [
+                    {
+                        "id": 96246170,
+                        "name": "ApolloAuto/apollo",
+                        "url": "https://github.com/ApolloAuto/apollo"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 836184695,
+                        "name": "Be-Secure/apollo",
+                        "url": "https://github.com/Be-Secure/apollo"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "C++": 20907337,
+                "TypeScript": 1655883,
+                "Python": 1510119,
+                "Starlark": 882913,
+                "Shell": 830197,
+                "JavaScript": 676020,
+                "C": 470556,
+                "Cuda": 292994,
+                "Smarty": 62826,
+                "SCSS": 60004,
+                "MDX": 58461,
+                "Less": 25032,
+                "Dockerfile": 14359,
+                "HTML": 11040,
+                "GLSL": 7000,
+                "Makefile": 6626,
+                "CMake": 3327,
+                "Assembly": 1922,
+                "CSS": 1592,
+                "Handlebars": 991,
+                "Batchfile": 791,
+                "Vim Script": 161
+            },
+            "tags": [
+                "IND-AM",
+                "DO",
+                "TD-U-IoT"
+            ]
+        },
+        {
+            "id": 543,
+            "bes_tracking_id": 543,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/543",
+            "name": "openauto",
+            "full_name": "Be-Secure/openauto",
+            "description": "AndroidAuto headunit emulator",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 176,
+            "open_issues": 0,
+            "created_at": "2024-07-31T10:19:20Z",
+            "updated_at": "2024-08-13T10:20:07Z",
+            "pushed_at": "2024-08-13T10:20:04Z",
+            "git_url": "git://github.com/Be-Secure/openauto.git",
+            "clone_url": "https://github.com/Be-Secure/openauto.git",
+            "html_url": "https://github.com/Be-Secure/openauto",
+            "homepage": "",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/f1xpl/openauto",
+                "main_bes_url": "https://github.com/Be-Secure/openauto",
+                "all_projects": [
+                    {
+                        "id": 121159900,
+                        "name": "f1xpl/openauto",
+                        "url": "https://github.com/f1xpl/openauto"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 836184452,
+                        "name": "Be-Secure/openauto",
+                        "url": "https://github.com/Be-Secure/openauto"
+                    }
+                ]
+            },
+            "license": null,
+            "language": {
+                "C++": 254363,
+                "CMake": 9578
+            },
+            "tags": [
+                "COM - C",
+                "IND-AM",
+                "A",
+                "TD-U-IoT"
+            ]
         }
     ]
 }
