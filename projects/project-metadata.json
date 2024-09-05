@@ -17976,6 +17976,85 @@
                 "A",
                 "TD-U-IoT"
             ]
+        },
+        {
+            "id": 340,
+            "bes_tracking_id": 340,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/340",
+            "name": "gitleaks",
+            "full_name": "Be-Secure/gitleaks",
+            "description": "Protect and discover secrets using Gitleaks \ud83d\udd11",
+            "bes_technology_stack": "S",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 5527,
+            "open_issues": 0,
+            "created_at": "2023-04-11T06:17:05Z",
+            "updated_at": "2024-08-29T12:52:06Z",
+            "pushed_at": "2024-08-29T12:52:03Z",
+            "git_url": "git://github.com/Be-Secure/gitleaks.git",
+            "clone_url": "https://github.com/Be-Secure/gitleaks.git",
+            "html_url": "https://github.com/Be-Secure/gitleaks",
+            "homepage": "https://gitleaks.io",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/gitleaks/gitleaks",
+                "main_bes_url": "https://github.com/Be-Secure/gitleaks",
+                "all_projects": [
+                    {
+                        "id": 119190187,
+                        "name": "gitleaks/gitleaks",
+                        "url": "https://github.com/gitleaks/gitleaks"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 626271429,
+                        "name": "Be-Secure/gitleaks",
+                        "url": "https://github.com/Be-Secure/gitleaks"
+                    }
+                ]
+            },
+            "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit",
+                "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "language": {
+                "Go": 305006,
+                "Python": 769,
+                "Makefile": 531,
+                "Dockerfile": 459
+            },
+            "tags": [
+                "COM - C",
+                "IND-ALL",
+                "SD-AS",
+                "S",
+                "Untracked"
+            ]
         }
     ]
 }
