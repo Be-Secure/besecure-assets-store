@@ -696,8 +696,8 @@
     "feedback": "https://huggingface.co/vendorabc/modeltest/discussions"
   },
   {
-    "id": 31,
-    "bes_tracking_id": 31,
+    "id": 30,
+    "bes_tracking_id": 30,
     "issue_url": "",
     "type": "LLM",
     "name": "roberta-cwe-classifier-kelemia",
@@ -725,8 +725,8 @@
     "feedback": ""
   },
   {
-    "id": 32,
-    "bes_tracking_id": 32,
+    "id": 31,
+    "bes_tracking_id": 31,
     "issue_url": "",
     "type": "LLM",
     "name": "codet5-base",
@@ -754,8 +754,8 @@
     "feedback": ""
   },
   {
-    "id": 33,
-    "bes_tracking_id": 33,
+    "id": 32,
+    "bes_tracking_id": 32,
     "issue_url": "",
     "type": "LLM",
     "name": "gpt-neo-1.3B ",
@@ -778,6 +778,35 @@
     "access": "open",
     "license": "MIT",
     "intended_uses": "This way, the model learns an inner representation of the English language that can then be used to extract features useful for downstream tasks. The model is best at what it was pretrained for however, which is generating texts from a prompt.",
+    "prohibited_uses": "",
+    "monitoring": "",
+    "feedback": ""
+  },
+  {
+    "id": 33,
+    "bes_tracking_id": 33,
+    "issue_url": "",
+    "type": "LLM",
+    "name": "detoxify",
+    "organization": "unitaryai",
+    "description": "Toxic Comment Classification with Pytorch Lightning and Transformers",
+    "created_date": "2024-10-01",
+    "model_url": "https://github.com/unitaryai/detoxify",
+    "data_url": "",
+    "label_url": "",
+    "url": "https://github.com/unitaryai/detoxify",
+    "model_card": "https://github.com/unitaryai/detoxify",
+    "modality": "text; text",
+    "analysis": "",
+    "size": "",
+    "dependencies": ["Transformers", "Pytorch Lightning"],
+    "training_emissions": "",
+    "training_time": "",
+    "training_hardware": "",
+    "quality_control": [""],
+    "access": "open",
+    "license": "Apache 2.0",
+    "intended_uses": "The intended use of this library is for research purposes, fine-tuning on carefully constructed datasets that reflect real world demographics and/or to aid content moderators in flagging out harmful content quicker.",
     "prohibited_uses": "",
     "monitoring": "",
     "feedback": ""
