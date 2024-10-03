@@ -18998,6 +18998,498 @@
                 "S",
                 "Tracked"
             ]
+        }, {
+            "id": 550,
+            "bes_tracking_id": 550,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/550",
+            "name": "Open-Vehicle-Monitoring-System-3",
+            "full_name": "Be-Secure/Open-Vehicle-Monitoring-System-3",
+            "description": "Open Vehicle Monitoring System - Version 3",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 71776,
+            "open_issues": 0,
+            "created_at": "2022-01-04T12:20:38Z",
+            "updated_at": "2024-08-14T06:35:57Z",
+            "pushed_at": "2024-08-14T06:35:53Z",
+            "git_url": "git://github.com/Be-Secure/Open-Vehicle-Monitoring-System-3.git",
+            "clone_url": "https://github.com/Be-Secure/Open-Vehicle-Monitoring-System-3.git",
+            "html_url": "https://github.com/Be-Secure/Open-Vehicle-Monitoring-System-3",
+            "homepage": "http:///www.openvehicles.com/",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3",
+                "main_bes_url": "https://github.com/Be-Secure/Open-Vehicle-Monitoring-System-3",
+                "all_projects": [
+                    {
+                        "id": 92652571,
+                        "name": "openvehicles/Open-Vehicle-Monitoring-System-3",
+                        "url": "https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 444408461,
+                        "name": "Be-Secure/Open-Vehicle-Monitoring-System-3",
+                        "url": "https://github.com/Be-Secure/Open-Vehicle-Monitoring-System-3"
+                    }
+                ]
+            },
+            "license": {
+                "key": "other",
+                "name": "Other",
+                "spdx_id": "NOASSERTION",
+                "url": null,
+                "node_id": "MDc6TGljZW5zZTA="
+            },
+            "language": {
+                "C": 45783931,
+                "C++": 8223488,
+                "Assembly": 3533855,
+                "M4": 486196,
+                "SWIG": 483658,
+                "Python": 452931,
+                "JavaScript": 398400,
+                "Shell": 308011,
+                "HTML": 297540,
+                "Makefile": 174218,
+                "C#": 140315,
+                "CSS": 137167,
+                "CMake": 84189,
+                "Perl": 40380,
+                "TeX": 18274,
+                "Yacc": 16477,
+                "FreeMarker": 14998,
+                "Tcl": 13135,
+                "Objective-C": 7397,
+                "Lex": 4970,
+                "Batchfile": 2995,
+                "CoffeeScript": 1029,
+                "XS": 195
+            },
+            "tags": [
+                "COM - C",
+                "A",
+                "IND-ALL"
+            ]
+        },
+        {
+            "id": 549,
+            "bes_tracking_id": 549,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/549",
+            "name": "beep",
+            "full_name": "Be-Secure/beep",
+            "description": "Battery evaluation and early prediction",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 450952,
+            "open_issues": 0,
+            "created_at": "2024-08-08T10:12:37Z",
+            "updated_at": "2024-08-14T07:07:40Z",
+            "pushed_at": "2024-08-14T07:07:37Z",
+            "git_url": "git://github.com/Be-Secure/beep.git",
+            "clone_url": "https://github.com/Be-Secure/beep.git",
+            "html_url": "https://github.com/Be-Secure/beep",
+            "homepage": "",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/TRI-AMDD/beep",
+                "main_bes_url": "https://github.com/Be-Secure/beep",
+                "all_projects": [
+                    {
+                        "id": 240385878,
+                        "name": "TRI-AMDD/beep",
+                        "url": "https://github.com/TRI-AMDD/beep"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 839784039,
+                        "name": "Be-Secure/beep",
+                        "url": "https://github.com/Be-Secure/beep"
+                    }
+                ]
+            },
+            "license": {
+                "key": "apache-2.0",
+                "name": "Apache License 2.0",
+                "spdx_id": "Apache-2.0",
+                "url": "https://api.github.com/licenses/apache-2.0",
+                "node_id": "MDc6TGljZW5zZTI="
+            },
+            "language": {
+                "Python": 1050630,
+                "JetBrains MPS": 205500
+            },
+            "tags": [
+                "COM - C",
+                "A",
+                "IND-ALL"
+            ]
+        },
+        {
+            "id": 548,
+            "bes_tracking_id": 548,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/548",
+            "name": "SmartEVSE-3",
+            "full_name": "Be-Secure/SmartEVSE-3",
+            "description": "Smart Electric Vehicle Charging Station (EVSE)",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 16004,
+            "open_issues": 0,
+            "created_at": "2024-08-08T06:53:06Z",
+            "updated_at": "2024-08-14T06:56:11Z",
+            "pushed_at": "2024-08-14T06:56:08Z",
+            "git_url": "git://github.com/Be-Secure/SmartEVSE-3.git",
+            "clone_url": "https://github.com/Be-Secure/SmartEVSE-3.git",
+            "html_url": "https://github.com/Be-Secure/SmartEVSE-3",
+            "homepage": "",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/SmartEVSE/SmartEVSE-3",
+                "main_bes_url": "https://github.com/Be-Secure/SmartEVSE-3",
+                "all_projects": [
+                    {
+                        "id": 428414883,
+                        "name": "SmartEVSE/SmartEVSE-3",
+                        "url": "https://github.com/SmartEVSE/SmartEVSE-3"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 839703768,
+                        "name": "Be-Secure/SmartEVSE-3",
+                        "url": "https://github.com/Be-Secure/SmartEVSE-3"
+                    }
+                ]
+            },
+            "license": {
+                "key": "mit",
+                "name": "MIT License",
+                "spdx_id": "MIT",
+                "url": "https://api.github.com/licenses/mit",
+                "node_id": "MDc6TGljZW5zZTEz"
+            },
+            "language": {
+                "C++": 684440,
+                "C": 608583,
+                "HTML": 75127,
+                "Shell": 27847,
+                "Python": 5047,
+                "CMake": 309
+            },
+            "tags": [
+                "COM - C",
+                "A",
+                "IND-ALL"
+            ]
+        },
+        {
+            "id": 547,
+            "bes_tracking_id": 547,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/547",
+            "name": "open_evse",
+            "full_name": "Be-Secure/open_evse",
+            "description": "Firmware for Open EVSE",
+            "bes_technology_stack": "S",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 2861,
+            "open_issues": 0,
+            "created_at": "2024-08-08T06:52:12Z",
+            "updated_at": "2024-08-14T07:00:56Z",
+            "pushed_at": "2024-08-14T07:00:53Z",
+            "git_url": "git://github.com/Be-Secure/open_evse.git",
+            "clone_url": "https://github.com/Be-Secure/open_evse.git",
+            "html_url": "https://github.com/Be-Secure/open_evse",
+            "homepage": null,
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/lincomatic/open_evse",
+                "main_bes_url": "https://github.com/Be-Secure/open_evse",
+                "all_projects": [
+                    {
+                        "id": 4567175,
+                        "name": "lincomatic/open_evse",
+                        "url": "https://github.com/lincomatic/open_evse"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 839703456,
+                        "name": "Be-Secure/open_evse",
+                        "url": "https://github.com/Be-Secure/open_evse"
+                    }
+                ]
+            },
+            "license": {
+                "key": "gpl-3.0",
+                "name": "GNU General Public License v3.0",
+                "spdx_id": "GPL-3.0",
+                "url": "https://api.github.com/licenses/gpl-3.0",
+                "node_id": "MDc6TGljZW5zZTk="
+            },
+            "language": {
+                "C++": 420138,
+                "Roff": 25840,
+                "C": 23629,
+                "Objective-C": 5021,
+                "Batchfile": 230
+            },
+            "tags": [
+                "COM - C",
+                "IND-ALL",
+                "S"
+            ]
+        },
+        {
+            "id": 546,
+            "bes_tracking_id": 546,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/546",
+            "name": "busmaster",
+            "full_name": "Be-Secure/busmaster",
+            "description": "BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN. BUSMASTER was conceptualized, designed and implemented by Robert Bosch Engineering and Business Solutions (RBEI). Presently it is a joint project of RBEI and ETAS GmbH. ",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 129426,
+            "open_issues": 0,
+            "created_at": "2024-07-30T10:12:55Z",
+            "updated_at": "2024-08-14T07:11:30Z",
+            "pushed_at": "2024-08-14T07:11:26Z",
+            "git_url": "git://github.com/Be-Secure/busmaster.git",
+            "clone_url": "https://github.com/Be-Secure/busmaster.git",
+            "html_url": "https://github.com/Be-Secure/busmaster",
+            "homepage": "http://rbei-etas.github.com/busmaster/",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/rbei-etas/busmaster",
+                "main_bes_url": "https://github.com/Be-Secure/busmaster",
+                "all_projects": [
+                    {
+                        "id": 2276424,
+                        "name": "rbei-etas/busmaster",
+                        "url": "https://github.com/rbei-etas/busmaster"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 835678285,
+                        "name": "Be-Secure/busmaster",
+                        "url": "https://github.com/Be-Secure/busmaster"
+                    }
+                ]
+            },
+            "license": {
+                "key": "gpl-3.0",
+                "name": "GNU General Public License v3.0",
+                "spdx_id": "GPL-3.0",
+                "url": "https://api.github.com/licenses/gpl-3.0",
+                "node_id": "MDc6TGljZW5zZTk="
+            },
+            "language": {
+                "C++": 12324587,
+                "C": 6774164,
+                "AutoIt": 2363303,
+                "CMake": 77606,
+                "AGS Script": 52960,
+                "NSIS": 50038,
+                "Batchfile": 35293,
+                "Yacc": 18603,
+                "HTML": 14823,
+                "Lex": 10726,
+                "Perl": 9379,
+                "XSLT": 8582,
+                "Shell": 7660,
+                "Makefile": 848
+            },
+            "tags": [
+                "COM - C",
+                "A",
+                "IND-ALL"
+            ]
+        },
+        {
+            "id": 541,
+            "bes_tracking_id": 541,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/541",
+            "name": "RomRaider",
+            "full_name": "Be-Secure/RomRaider",
+            "description": "RomRaider is a free, open source tuning suite created for viewing, logging and tuning of modern Subaru Engine Control Units.",
+            "bes_technology_stack": "A",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 128598,
+            "open_issues": 0,
+            "created_at": "2024-07-30T08:57:37Z",
+            "updated_at": "2024-08-14T06:49:58Z",
+            "pushed_at": "2024-08-14T06:49:54Z",
+            "git_url": "git://github.com/Be-Secure/RomRaider.git",
+            "clone_url": "https://github.com/Be-Secure/RomRaider.git",
+            "html_url": "https://github.com/Be-Secure/RomRaider",
+            "homepage": null,
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/RomRaider/RomRaider",
+                "main_bes_url": "https://github.com/Be-Secure/RomRaider",
+                "all_projects": [
+                    {
+                        "id": 4139636,
+                        "name": "RomRaider/RomRaider",
+                        "url": "https://github.com/RomRaider/RomRaider"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 835647507,
+                        "name": "Be-Secure/RomRaider",
+                        "url": "https://github.com/Be-Secure/RomRaider"
+                    }
+                ]
+            },
+            "license": {
+                "key": "gpl-2.0",
+                "name": "GNU General Public License v2.0",
+                "spdx_id": "GPL-2.0",
+                "url": "https://api.github.com/licenses/gpl-2.0",
+                "node_id": "MDc6TGljZW5zZTg="
+            },
+            "language": {
+                "Java": 2496153,
+                "Batchfile": 2095,
+                "Shell": 1523,
+                "Dockerfile": 1438,
+                "HTML": 808
+            },
+            "tags": [
+                "COM - C",
+                "A",
+                "IND-ALL"
+            ]
         }
     ]
 }
