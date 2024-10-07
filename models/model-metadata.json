@@ -20,7 +20,10 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST", "Fuzz Test"],
+    "quality_control": [
+      "SAST",
+      "Fuzz Test"
+    ],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "This model is not ready to be used in production.",
@@ -49,7 +52,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST"],
+    "quality_control": [
+      "SAST"
+    ],
     "access": "open",
     "license": "",
     "intended_uses": "This model can be used for binary classification task to determine whether a person makes over $500K a year or not.",
@@ -78,7 +83,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST"],
+    "quality_control": [
+      "SAST"
+    ],
     "access": "open",
     "license": "mit",
     "intended_uses": "",
@@ -107,7 +114,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST"],
+    "quality_control": [
+      "SAST"
+    ],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "",
@@ -136,7 +145,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST"],
+    "quality_control": [
+      "SAST"
+    ],
     "access": "open",
     "license": "",
     "intended_uses": "This model can be used for both supervised and semi-supervised tasks on tabular data.",
@@ -165,7 +176,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST"],
+    "quality_control": [
+      "SAST"
+    ],
     "access": "open",
     "license": "",
     "intended_uses": "The trained model is used to detect of a specific transaction is fraudulent or not.",
@@ -194,7 +207,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST"],
+    "quality_control": [
+      "SAST"
+    ],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "",
@@ -223,7 +238,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST"],
+    "quality_control": [
+      "SAST"
+    ],
     "access": "open",
     "license": "",
     "intended_uses": "",
@@ -252,7 +269,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST"],
+    "quality_control": [
+      "SAST"
+    ],
     "access": "open",
     "license": "MIT",
     "intended_uses": "This model is not ready to be used in production.",
@@ -281,7 +300,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST"],
+    "quality_control": [
+      "SAST"
+    ],
     "access": "open",
     "license": "",
     "intended_uses": "This model is not ready to be used in production.",
@@ -310,7 +331,10 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST","Fuzz Test"],
+    "quality_control": [
+      "SAST",
+      "Fuzz Test"
+    ],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "This model is not ready to be used in production.",
@@ -339,7 +363,10 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST","Fuzz Test"],
+    "quality_control": [
+      "SAST",
+      "Fuzz Test"
+    ],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "This model is not ready to be used in production.",
@@ -368,7 +395,10 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST","Fuzz Test"],
+    "quality_control": [
+      "SAST",
+      "Fuzz Test"
+    ],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "This model is not ready to be used in production.",
@@ -393,7 +423,10 @@
     "modality": "",
     "analysis": "Evaluated on GSM8K and the competition-level MATH dataset.",
     "size": "70B parameters (dense)",
-    "dependencies": ["GPT-4", "LLaMA 2"],
+    "dependencies": [
+      "GPT-4",
+      "LLaMA 2"
+    ],
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "32 NVIDIA A800 80GB GPUs",
@@ -422,7 +455,9 @@
     "modality": "text; text",
     "analysis": "Falcon-180B outperforms LLaMA-2, StableLM, RedPajama, MPT on the Open LLM Leaderboard at https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard.",
     "size": "180B parameters (dense)",
-    "dependencies": ["RefinedWeb"],
+    "dependencies": [
+      "RefinedWeb"
+    ],
     "training_emissions": "",
     "training_time": "9 months",
     "training_hardware": "4096 A100 40GB GPUs",
@@ -687,7 +722,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": ["SAST"],
+    "quality_control": [
+      "SAST"
+    ],
     "access": "open",
     "license": "MIT",
     "intended_uses": "This model is not ready to be used in production.",
@@ -861,7 +898,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [""],
+    "quality_control": [
+      ""
+    ],
     "access": "open",
     "license": "MIT",
     "intended_uses": "This model is intended for classifying software vulnerabilities according to the CWE standard. It should be used as part of a broader security analysis process and not as a standalone solution for identifying vulnerabilities.",
@@ -890,7 +929,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [""],
+    "quality_control": [
+      ""
+    ],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "",
@@ -919,7 +960,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [""],
+    "quality_control": [
+      ""
+    ],
     "access": "open",
     "license": "MIT",
     "intended_uses": "This way, the model learns an inner representation of the English language that can then be used to extract features useful for downstream tasks. The model is best at what it was pretrained for however, which is generating texts from a prompt.",
@@ -944,14 +987,81 @@
     "modality": "text; text",
     "analysis": "",
     "size": "",
-    "dependencies": ["Transformers", "Pytorch Lightning"],
+    "dependencies": [
+      "Transformers",
+      "Pytorch Lightning"
+    ],
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [""],
+    "quality_control": [
+      ""
+    ],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "The intended use of this library is for research purposes, fine-tuning on carefully constructed datasets that reflect real world demographics and/or to aid content moderators in flagging out harmful content quicker.",
+    "prohibited_uses": "",
+    "monitoring": "",
+    "feedback": ""
+  },
+  {
+    "id": 34,
+    "bes_tracking_id": 34,
+    "issue_url": "",
+    "type": "LLM",
+    "name": "granite-3b-code-base-2k",
+    "organization": "ibm-granite",
+    "description": "Granite-3B-Code-Base-2K is a decoder-only code model designed for code generative tasks (e.g., code generation, code explanation, code fixing, etc.). It is trained from scratch with a two-phase training strategy. In phase 1, our model is trained on 4 trillion tokens sourced from 116 programming languages, ensuring a comprehensive understanding of programming languages and syntax. In phase 2, our model is trained on 500 billion tokens with a carefully designed mixture of high-quality data from code and natural language domains to improve the models’ ability to reason and follow instructions.",
+    "created_date": "2024-10-07",
+    "model_url": "",
+    "data_url": "",
+    "label_url": "",
+    "url": "https://huggingface.co/ibm-granite/granite-3b-code-base-2k",
+    "model_card": "https://huggingface.co/ibm-granite/granite-3b-code-base-2k",
+    "modality": "text; text",
+    "analysis": "",
+    "size": "",
+    "dependencies": [],
+    "training_emissions": "",
+    "training_time": "",
+    "training_hardware": "",
+    "quality_control": [
+      ""
+    ],
+    "access": "open",
+    "license": "Apache 2.0",
+    "intended_uses": "Prominent enterprise use cases of LLMs in software engineering productivity include code generation, code explanation, code fixing, generating unit tests, generating documentation, addressing technical debt issues, vulnerability detection, code translation, and more. All Granite Code Base models, including the 3B parameter model, are able to handle these tasks as they were trained on a large amount of code data from 116 programming languages.",
+    "prohibited_uses": "",
+    "monitoring": "",
+    "feedback": ""
+  },
+  {
+    "id": 35,
+    "bes_tracking_id": 35,
+    "issue_url": "",
+    "type": "LLM",
+    "name": "CodeLlama-7b-Instruct-hf",
+    "organization": "codellama",
+    "description": "Code Llama is a collection of pretrained and fine-tuned generative text models ranging in scale from 7 billion to 34 billion parameters. This is the repository for the 7B instruct-tuned version in the Hugging Face Transformers format. This model is designed for general code synthesis and understanding.",
+    "created_date": "2024-10-07",
+    "model_url": "",
+    "data_url": "",
+    "label_url": "",
+    "url": "https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf",
+    "model_card": "https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf",
+    "modality": "text; text",
+    "analysis": "",
+    "size": "",
+    "dependencies": [],
+    "training_emissions": "",
+    "training_time": "",
+    "training_hardware": "",
+    "quality_control": [
+      ""
+    ],
+    "access": "open",
+    "license": "llama2",
+    "intended_uses": "Intended Use Cases Code Llama and its variants is intended for commercial and research use in English and relevant programming languages. The base model Code Llama can be adapted for a variety of code synthesis and understanding tasks, Code Llama - Python is designed specifically to handle the Python programming language, and Code Llama - Instruct is intended to be safer to use for code assistant and generation applications.",
     "prohibited_uses": "",
     "monitoring": "",
     "feedback": ""
