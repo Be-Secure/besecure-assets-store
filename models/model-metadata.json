@@ -898,9 +898,7 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [
-      ""
-    ],
+    "quality_control": [],
     "access": "open",
     "license": "MIT",
     "intended_uses": "This model is intended for classifying software vulnerabilities according to the CWE standard. It should be used as part of a broader security analysis process and not as a standalone solution for identifying vulnerabilities.",
@@ -929,9 +927,7 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [
-      ""
-    ],
+    "quality_control": [],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "",
@@ -960,9 +956,7 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [
-      ""
-    ],
+    "quality_control": [],
     "access": "open",
     "license": "MIT",
     "intended_uses": "This way, the model learns an inner representation of the English language that can then be used to extract features useful for downstream tasks. The model is best at what it was pretrained for however, which is generating texts from a prompt.",
@@ -994,9 +988,7 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [
-      ""
-    ],
+    "quality_control": [],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "The intended use of this library is for research purposes, fine-tuning on carefully constructed datasets that reflect real world demographics and/or to aid content moderators in flagging out harmful content quicker.",
@@ -1025,9 +1017,7 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [
-      ""
-    ],
+    "quality_control": [],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "Prominent enterprise use cases of LLMs in software engineering productivity include code generation, code explanation, code fixing, generating unit tests, generating documentation, addressing technical debt issues, vulnerability detection, code translation, and more. All Granite Code Base models, including the 3B parameter model, are able to handle these tasks as they were trained on a large amount of code data from 116 programming languages.",
@@ -1056,9 +1046,7 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [
-      ""
-    ],
+    "quality_control": [],
     "access": "open",
     "license": "llama2",
     "intended_uses": "Intended Use Cases Code Llama and its variants is intended for commercial and research use in English and relevant programming languages. The base model Code Llama can be adapted for a variety of code synthesis and understanding tasks, Code Llama - Python is designed specifically to handle the Python programming language, and Code Llama - Instruct is intended to be safer to use for code assistant and generation applications.",
