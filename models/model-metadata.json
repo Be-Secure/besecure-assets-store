@@ -940,7 +940,7 @@
     "bes_tracking_id": 32,
     "issue_url": "",
     "type": "LLM",
-    "name": "gpt-neo-1.3B ",
+    "name": "gpt-neo-1.3B",
     "organization": "EleutherAI",
     "description": "GPT-Neo 1.3B is a transformer model developed by EleutherAI, featuring 1.3 billion parameters and based on the GPT-3 architecture. Trained on the diverse Pile dataset, it excels at text generation and predictive tasks. While capable of generating coherent and contextually relevant text, users should be mindful of potential biases and the risk of producing socially unacceptable content.",
     "created_date": "2024-10-01",
@@ -982,8 +982,6 @@
     "analysis": "",
     "size": "",
     "dependencies": [
-      "Transformers",
-      "Pytorch Lightning"
     ],
     "training_emissions": "",
     "training_time": "",
