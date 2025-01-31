@@ -1,23 +1,23 @@
 [
-    {
-      "version": "v4.8.0",
-      "release_date": "18-Oct-2022",
-      "criticality_score": 0.37838,
-      "scorecard": 5.2,
-      "cve_details": "Not Available"
-    },
-    {
-        "version": "v4.13.1",
-        "release_date": "21-Oct-2023",
-        "criticality_score": 0.41172,
-        "scorecard": 6.2,
-        "cve_details": "Not Available"
-    },
-    {
-      "version": "5.0.0",
-      "release_date": "21-Oct-2023",
-      "criticality_score": 0.35777,
-      "scorecard": 6.1,
-      "cve_details": "Not Available"
+  {
+    "version": "v4.8.0",
+    "release_date": "18-Oct-2022",
+    "criticality_score": 0.37838,
+    "scorecard": 5.2,
+    "cve_details": "Not Available"
+  },
+  {
+    "version": "v4.13.1",
+    "release_date": "21-Oct-2023",
+    "criticality_score": 0.41172,
+    "scorecard": 6.2,
+    "cve_details": "Not Available"
+  },
+  {
+    "version": "5.0.0",
+    "release_date": "21-Oct-2023",
+    "criticality_score": 0.35777,
+    "scorecard": 6.1,
+    "cve_details": "Not Available"
   }
-  ]
+]
