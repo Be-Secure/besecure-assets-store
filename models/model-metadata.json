@@ -7,7 +7,7 @@
     "name": "DeepSeek-R1",
     "organization": "deepseek-ai",
     "description": "DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated remarkable performance on reasoning. With RL, DeepSeek-R1-Zero naturally emerged with numerous powerful and interesting reasoning behaviors. However, DeepSeek-R1-Zero encounters challenges such as endless repetition, poor readability, and language mixing. To address these issues and further enhance reasoning performance, we introduce DeepSeek-R1, which incorporates cold-start data before RL. DeepSeek-R1 achieves performance comparable to OpenAI-o1 across math, code, and reasoning tasks. To support the research community, we have open-sourced DeepSeek-R1-Zero, DeepSeek-R1, and six dense models distilled from DeepSeek-R1 based on Llama and Qwen. DeepSeek-R1-Distill-Qwen-32B outperforms OpenAI-o1-mini across various benchmarks, achieving new state-of-the-art results for dense models.",
-    "created_date": "",
+    "created_date": "2025-02-18",
     "model_url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
     "data_url": "",
     "label_url": "",
@@ -20,7 +20,9 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [],
+    "quality_control": [
+      "Security Benchmark"
+    ],
     "access": "open",
     "license": "mit",
     "intended_uses": "DeepSeek-R1 is designed for various NLP tasks, including text generation, reasoning, code assistance, translation, summarization, and conversational AI. It supports education, research, content creation, and software development while requiring human oversight for critical decisions to ensure accuracy and ethical use.",
@@ -36,7 +38,7 @@
     "name": "DeepSeek-V3",
     "organization": "deepseek-ai",
     "description": "DeepSeek-V3 is a 671B-parameter Mixture-of-Experts (MoE) language model, with 37B parameters activated per token, ensuring efficient inference and cost-effective training. It leverages Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, refined from DeepSeek-V2. The model introduces an auxiliary-loss-free load balancing strategy and a multi-token prediction training objective for improved performance. Pre-trained on 14.8 trillion high-quality tokens, followed by Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL), it outperforms other open-source models and rivals top closed-source alternatives. Training required just 2.788M H800 GPU hours, maintaining remarkable stability without loss spikes or rollbacks.",
-    "created_date": "",
+    "created_date": "2025-02-18",
     "model_url": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
     "data_url": "",
     "label_url": "",
