@@ -15,7 +15,7 @@
     "model_card": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
     "modality": "text; text",
     "analysis": "",
-    "size": "685B params",
+    "size": "7B params",
     "dependencies": [],
     "training_emissions": "",
     "training_time": "",
