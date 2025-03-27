@@ -144,9 +144,7 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [
-      "Security Benchmark"
-    ],
+    "quality_control": [],
     "access": "open",
     "license": "llama2",
     "intended_uses": "Intended Use Cases Code Llama and its variants is intended for commercial and research use in English and relevant programming languages. The base model Code Llama can be adapted for a variety of code synthesis and understanding tasks, Code Llama - Python is designed specifically to handle the Python programming language, and Code Llama - Instruct is intended to be safer to use for code assistant and generation applications.",
@@ -175,9 +173,7 @@
     "training_emissions": "",
     "training_time": "",
     "training_hardware": "",
-    "quality_control": [
-      "Security Benchmark"
-    ],
+    "quality_control": [],
     "access": "open",
     "license": "Apache 2.0",
     "intended_uses": "These models are designed to handle general instruction-following tasks and can be integrated into AI assistants across various domains, including business applications",
