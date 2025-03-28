@@ -97,7 +97,7 @@
     "bes_tracking_id": 4,
     "issue_url": "",
     "type": "LLM",
-    "name": "granite-code",
+    "name": "granite-code:8b",
     "organization": "IBM",
     "description": " Granite-code 8b 128K is a decoder-only code model designed for code generative tasks (e.g., code generation, code explanation, code fixing, etc.). It is trained from scratch with a two-phase training strategy. In phase 1, our model is trained on 4 trillion tokens sourced from 116 programming languages, ensuring a comprehensive understanding of programming languages and syntax. In phase 2, our model is trained on 500 billion tokens with a carefully designed mixture of high-quality data from code and natural language domains to improve the models’ ability to reason and follow instructions.",
     "created_date": "2024-10-07",
