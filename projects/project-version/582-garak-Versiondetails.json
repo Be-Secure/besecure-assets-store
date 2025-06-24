@@ -1,9 +1,17 @@
 [
-    {
-        "version": "v0.10.3.1",
-        "release_date": "06-Mar-2025",
-        "criticality_score": "Not Available",
-        "scorecard": "Not Available",
-        "cve_details": "Not Available"
-    }
+  {
+    "version": "v0.10.3.1",
+    "release_date": "06-Mar-2025",
+    "criticality_score": "Not Available",
+    "scorecard": "Not Available",
+    "cve_details": "Not Available"
+  },
+
+  {
+    "version": "v0.11.0",
+    "release_date": "Not Available",
+    "criticality_score": "0.39506",
+    "scorecard": "3.3",
+    "cve_details": "Not Available"
+  }
 ]
