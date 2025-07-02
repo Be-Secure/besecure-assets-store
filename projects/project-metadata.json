@@ -19518,6 +19518,94 @@
         "Python": 100
       },
       "tags": ["Tracked"]
+    },
+    {
+      "id": 595,
+      "bes_tracking_id": 595,
+      "issue_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+      "name": "ai_legal_agent_team",
+      "full_name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+      "description": "A Streamlit application that simulates a full-service legal team using multiple AI agents to analyze legal documents and provide comprehensive legal insights. Each agent represents a different legal specialist role, from research and contract analysis to strategic planning, working together to provide thorough legal analysis and recommendations.",
+      "bes_technology_stack": "A",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 0,
+      "open_issues": 0,
+      "created_at": "",
+      "updated_at": "",
+      "pushed_at": "",
+      "git_url": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+      "clone_url": "https://github.com/Shubhamsaboo/awesome-llm-apps.git",
+      "html_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+        "main_bes_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+        "all_projects": [
+          {
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache-2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://www.apache.org/licenses/LICENSE-2.0",
+        "node_id": ""
+      },
+      "language": {
+        "Python": 59.7,
+        "JavaScript": 31.8,
+        "TypeScript": 7.9,
+        "CSS": 0.3,
+        "PLpgSQL": 0.1,
+        "HTML": 0.1,
+        "Other": 0.1
+      },
+      "tags": [
+        "Tracked",
+        "Specialized Legal AI Agent Team",
+        "Legal Researcher",
+        "Contract Analyst",
+        "Legal Strategist",
+        "Team Lead"
+      ],
+      "domain": "Technology",
+      "industry": "Banking & Financial Institutions",
+      "project_type": "Community led",
+      "reason_to_track": "Specialized Legal AI Agent Team: Legal Researcher (with DuckDuckGo search), Contract Analyst (contract review), Legal Strategist (strategy and recommendations), Team Lead (coordination and sourcing)."
     }
   ]
 }
