@@ -1,9 +1,9 @@
 [
     {
-        "version": "v1.14.1",
+        "version": "v1.32.0-rc.0",
         "release_date": "Not Available",
-        "criticality_score": "0.43953",
-        "scorecard": "3.3",
+        "criticality_score": "0.45983",
+        "scorecard": "3.4",
         "cve_details": "Not Available"
     }
 ]
