@@ -21838,6 +21838,420 @@
       "tags": [
         "Untracked"
       ]
+    },
+    {
+      "id": 627,
+      "bes_tracking_id": 627,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/627",
+      "name": "chroma",
+      "full_name": "Be-Secure/chroma",
+      "description": "the AI-native open-source embedding database",
+      "bes_technology_stack": "A",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 771307,
+      "open_issues": 0,
+      "created_at": "2025-07-02T09:43:39Z",
+      "updated_at": "2025-07-11T11:58:05Z",
+      "pushed_at": "2025-07-11T11:57:58Z",
+      "git_url": "git://github.com/Be-Secure/chroma.git",
+      "clone_url": "https://github.com/Be-Secure/chroma.git",
+      "html_url": "https://github.com/Be-Secure/chroma",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/chroma-core/chroma",
+        "main_bes_url": "https://github.com/Be-Secure/chroma",
+        "all_projects": [
+          {
+            "id": 546206616,
+            "name": "chroma-core/chroma",
+            "url": "https://github.com/chroma-core/chroma"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 1012412213,
+            "name": "Be-Secure/chroma",
+            "url": "https://github.com/Be-Secure/chroma"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+        "TypeScript": 212643,
+        "HTML": 177976,
+        "SCSS": 151671,
+        "JavaScript": 22878,
+        "Dockerfile": 1419
+      },
+      "issue_tags": [
+        "COM-C",
+        "A",
+        "IND-ALL",
+        "TD-C-D",
+        "TD-C-CA",
+        "TD-U-ApD",
+        "Tracked",
+        "TD-U-Db"
+      ]
+    },
+    {
+      "id": 628,
+      "bes_tracking_id": 628,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/628",
+      "name": "guardrails",
+      "full_name": "Be-Secure/guardrails",
+      "description": "Adding guardrails to large language models.",
+      "bes_technology_stack": "A",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 40412,
+      "open_issues": 0,
+      "created_at": "2024-07-16T08:48:26Z",
+      "updated_at": "2024-09-19T09:38:51Z",
+      "pushed_at": "2024-09-19T09:38:48Z",
+      "git_url": "git://github.com/Be-Secure/guardrails.git",
+      "clone_url": "https://github.com/Be-Secure/guardrails.git",
+      "html_url": "https://github.com/Be-Secure/guardrails",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/guardrails-ai/guardrails",
+        "main_bes_url": "https://github.com/Be-Secure/guardrails",
+        "all_projects": [
+          {
+            "id": 594609262,
+            "name": "guardrails-ai/guardrails",
+            "url": "https://github.com/guardrails-ai/guardrails"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 829347358,
+            "name": "Be-Secure/guardrails",
+            "url": "https://github.com/Be-Secure/guardrails"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "language": {
+        "TypeScript": 212643,
+        "HTML": 177976,
+        "SCSS": 151671,
+        "JavaScript": 22878,
+        "Dockerfile": 1419
+      },
+      "issue_tags": [
+        "COM-C",
+        "IND-ALL",
+        "L&F",
+        "SD-AS",
+        "S",
+        "TD-U-AI/ML"
+      ]
+    },
+    {
+      "id": 629,
+      "bes_tracking_id": 629,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/629",
+      "name": "milvus",
+      "full_name": "Be-Secure/milvus",
+      "description": "A pytorch adversarial library for attack and defense methods on images and graphs",
+      "bes_technology_stack": "S",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 12506,
+      "open_issues": 0,
+      "created_at": "2025-06-24T06:24:22Z",
+      "updated_at": "2025-06-24T06:24:22Z",
+      "pushed_at": "2024-07-23T13:21:18Z",
+      "git_url": "git://github.com/Be-Secure/milvus.git",
+      "clone_url": "https://github.com/Be-Secure/milvus.git",
+      "html_url": "https://github.com/Be-Secure/milvus.git",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/milvus-io/milvus",
+        "main_bes_url": "https://github.com/Be-Secure/DeepRobust",
+        "all_projects": [
+          {
+            "id": 210014892,
+            "name": "milvus-io/milvus",
+            "url": "https://github.com/milvus-io/milvus"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 1007528541,
+            "name": "Be-Secure/DeepRobust",
+            "url": "https://github.com/Be-Secure/DeepRobust"
+          }
+        ]
+      },
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "language": {
+        "TypeScript": 212643,
+        "HTML": 177976,
+        "SCSS": 151671,
+        "JavaScript": 22878,
+        "Dockerfile": 1419
+      },
+      "tags": [
+        "COM-C",
+        "IND-ALL",
+        "TD-C-D",
+        "S",
+        "TD-U-AI/ML",
+        "TD-U-Db"
+      ]
+    },
+    {
+      "id": 630,
+      "bes_tracking_id": 630,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/630",
+      "name": "qdrant",
+      "full_name": "Be-Secure/qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "bes_technology_stack": "A",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 34485,
+      "open_issues": 0,
+      "created_at": "2025-07-02T09:31:53Z",
+      "updated_at": "2025-07-11T12:21:08Z",
+      "pushed_at": "2025-07-11T12:21:01Z",
+      "git_url": "git://github.com/Be-Secure/qdrant.git",
+      "clone_url": "https://github.com/Be-Secure/qdrant.git",
+      "html_url": "https://github.com/Be-Secure/qdrant",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/qdrant/qdrant",
+        "main_bes_url": "https://github.com/Be-Secure/qdrant",
+        "all_projects": [
+          {
+            "id": 210014892,
+            "name": "qdrant/qdrant",
+            "url": "https://github.com/qdrant/qdrant"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 1007528541,
+            "name": "Be-Secure/qdrant",
+            "url": "https://github.com/Be-Secure/qdrant"
+          }
+        ]
+      },
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "language": {
+        "TypeScript": 212643,
+        "HTML": 177976,
+        "SCSS": 151671,
+        "JavaScript": 22878,
+        "Dockerfile": 1419
+      },
+      "tags": [
+        "COM-C",
+        "A",
+        "IND-ALL",
+        "TD-C-S",
+        "TD-U-ApD",
+        "TD-U-AI/ML",
+        "TD-U-Db"
+      ]
+    },
+    {
+      "id": 631,
+      "bes_tracking_id": 631,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/631",
+      "name": "DeepRobust",
+      "full_name": "Be-Secure/weaviate",
+      "description": "A pytorch adversarial library for attack and defense methods on images and graphs",
+      "bes_technology_stack": "S",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 1017133,
+      "open_issues": 0,
+      "created_at": "2025-07-02T09:39:33Z",
+      "updated_at": "2025-07-11T12:31:47Z",
+      "pushed_at": "2025-07-11T12:31:43Z",
+      "git_url": "git://github.com/Be-Secure/weaviate.git",
+      "clone_url": "https://github.com/Be-Secure/weaviate.git",
+      "html_url": "https://github.com/Be-Secure/weaviate",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/weaviate/weaviate",
+        "main_bes_url": "https://github.com/Be-Secure/weaviate",
+        "all_projects": [
+          {
+            "id": 1012410002,
+            "name": "weaviate/weaviate",
+            "url": "https://github.com/weaviate/weaviate"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 55072677,
+            "name": "Be-Secure/weaviate",
+            "url": "https://github.com/Be-Secure/weaviate"
+          }
+        ]
+      },
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "language": {
+        "TypeScript": 212643,
+        "HTML": 177976,
+        "SCSS": 151671,
+        "JavaScript": 22878,
+        "Dockerfile": 1419
+      },
+      "tags": [
+        "COM-C",
+        "A",
+        "IND-ALL",
+        "TD-C-D",
+        "TD-U-ApD",
+        "TD-U-AI/ML",
+        "TD-U-Db"
+      ]
     }
   ]
 }
