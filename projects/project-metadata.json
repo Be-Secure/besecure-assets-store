@@ -70,13 +70,7 @@
         "Go": 134116,
         "Dockerfile": 1178
       },
-      "tags": [
-        "SD-Crypto",
-        "s",
-        "SD-AS",
-        "IND-CyS",
-        "IND-ALL"
-      ]
+      "tags": ["SD-Crypto", "s", "SD-AS", "IND-CyS", "IND-ALL"]
     },
     {
       "id": 577,
@@ -150,13 +144,7 @@
         "HTML": 1462,
         "Shell": 376
       },
-      "tags": [
-        "SD-Crypto",
-        "s",
-        "SD-AS",
-        "IND-CyS",
-        "IND-ALL"
-      ]
+      "tags": ["SD-Crypto", "s", "SD-AS", "IND-CyS", "IND-ALL"]
     },
     {
       "id": 576,
@@ -233,13 +221,7 @@
         "Dockerfile": 1100,
         "Shell": 510
       },
-      "tags": [
-        "SD-Crypto",
-        "s",
-        "SD-AS",
-        "IND-CyS",
-        "IND-ALL"
-      ]
+      "tags": ["SD-Crypto", "s", "SD-AS", "IND-CyS", "IND-ALL"]
     },
     {
       "id": 573,
@@ -323,11 +305,7 @@
         "Batchfile": 2651,
         "Fluent": 217
       },
-      "tags": [
-        "IND-ALL",
-        "Tracked",
-        "SD-Crypto"
-      ]
+      "tags": ["IND-ALL", "Tracked", "SD-Crypto"]
     },
     {
       "id": 472,
@@ -404,12 +382,7 @@
         "JavaScript": 422,
         "Dockerfile": 239
       },
-      "tags": [
-        "COM-F",
-        "IND-ALL",
-        "L&F",
-        "DO"
-      ]
+      "tags": ["COM-F", "IND-ALL", "L&F", "DO"]
     },
     {
       "id": 471,
@@ -487,12 +460,7 @@
         "JavaScript": 3016,
         "Smarty": 560
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-DkA"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-DkA"]
     },
     {
       "id": 470,
@@ -571,12 +539,7 @@
         "Tex": 2242,
         "Javascript": 157
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-AI/ML"]
     },
     {
       "id": 469,
@@ -656,13 +619,7 @@
         "Emacs Lisp": 420,
         "Vim Script": 309
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "DO",
-        "TD-C-S",
-        "TD-U-DkA"
-      ]
+      "tags": ["COM-C", "IND-ALL", "DO", "TD-C-S", "TD-U-DkA"]
     },
     {
       "id": 445,
@@ -736,12 +693,7 @@
         "JavaScript": 3895,
         "HTML": 1124
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-AI/ML"]
     },
     {
       "id": 290,
@@ -818,12 +770,7 @@
         "Shell": 717,
         "Batchfile": 645
       },
-      "tags": [
-        "L&F",
-        "IND-ALL",
-        "COM-C",
-        "Tracked"
-      ]
+      "tags": ["L&F", "IND-ALL", "COM-C", "Tracked"]
     },
     {
       "id": 278,
@@ -880,12 +827,7 @@
         "HTML": 21556,
         "Shell": 7652
       },
-      "tags": [
-        "A",
-        "IND-AM",
-        "COM-C",
-        "TD-U-IoT"
-      ]
+      "tags": ["A", "IND-AM", "COM-C", "TD-U-IoT"]
     },
     {
       "id": 281,
@@ -944,12 +886,7 @@
         "Makefile": 1762,
         "Batchfile": 463
       },
-      "tags": [
-        "A",
-        "IND-AM",
-        "COM-C",
-        "TD-U-IoT"
-      ]
+      "tags": ["A", "IND-AM", "COM-C", "TD-U-IoT"]
     },
     {
       "id": 222,
@@ -1009,12 +946,7 @@
         "C++": 1765,
         "Clojure": 959
       },
-      "tags": [
-        "A",
-        "IND-AM",
-        "COM-C",
-        "TD-U-IoT"
-      ]
+      "tags": ["A", "IND-AM", "COM-C", "TD-U-IoT"]
     },
     {
       "id": 136,
@@ -1026,15 +958,11 @@
       "compatible_environments": [
         {
           "name": "fastjson-RT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         },
         {
           "name": "fastjson-BT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "watchers_count": 0,
@@ -1083,11 +1011,7 @@
         "JavaScript": 3661,
         "Shell": 414
       },
-      "tags": [
-        "IND-ALL",
-        "COM-C",
-        "TD-U-W"
-      ]
+      "tags": ["IND-ALL", "COM-C", "TD-U-W"]
     },
     {
       "id": 94,
@@ -1147,10 +1071,7 @@
         "JavaScript": 2146,
         "Makefile": 1052
       },
-      "tags": [
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["IND-ALL", "COM-C"]
     },
     {
       "id": 86,
@@ -1203,12 +1124,7 @@
         "Python": 13917,
         "Go": 11557
       },
-      "tags": [
-        "IND-TEL",
-        "SD-NS",
-        "COM-C",
-        "TD-C-CA"
-      ]
+      "tags": ["IND-TEL", "SD-NS", "COM-C", "TD-C-CA"]
     },
     {
       "id": 84,
@@ -1278,13 +1194,7 @@
         "Python": 416,
         "Makefile": 198
       },
-      "tags": [
-        "IND-ALL",
-        "COM-F",
-        "TD-C-WA",
-        "TD-C-A",
-        "TD-U-W"
-      ]
+      "tags": ["IND-ALL", "COM-F", "TD-C-WA", "TD-C-A", "TD-U-W"]
     },
     {
       "id": 85,
@@ -1348,13 +1258,7 @@
         "Mustache": 449,
         "Vim Snippet": 135
       },
-      "tags": [
-        "IND-ALL",
-        "COM-F",
-        "TD-C-Ms",
-        "TD-U-ApD",
-        "COM-C"
-      ]
+      "tags": ["IND-ALL", "COM-F", "TD-C-Ms", "TD-U-ApD", "COM-C"]
     },
     {
       "id": 247,
@@ -1422,11 +1326,7 @@
         "Pike": 583,
         "Ruby": 234
       },
-      "tags": [
-        "IND-AM",
-        "COM-C",
-        "TD-U-IoT"
-      ]
+      "tags": ["IND-AM", "COM-C", "TD-U-IoT"]
     },
     {
       "id": 218,
@@ -1474,11 +1374,7 @@
         "Python": 68622,
         "CMake": 9556
       },
-      "tags": [
-        "IND-AM",
-        "COM-C",
-        "TD-U-IoT"
-      ]
+      "tags": ["IND-AM", "COM-C", "TD-U-IoT"]
     },
     {
       "id": 252,
@@ -1531,11 +1427,7 @@
         "Python": 169319,
         "Shell": 373
       },
-      "tags": [
-        "IND-AM",
-        "COM-C",
-        "TD-U-IoT"
-      ]
+      "tags": ["IND-AM", "COM-C", "TD-U-IoT"]
     },
     {
       "id": 76,
@@ -1612,12 +1504,7 @@
         "Starlark": 25499,
         "Dockerfile": 3669
       },
-      "tags": [
-        "L&F",
-        "IND-ALL",
-        "COM-C",
-        "Tracked"
-      ]
+      "tags": ["L&F", "IND-ALL", "COM-C", "Tracked"]
     },
     {
       "id": 274,
@@ -1674,11 +1561,7 @@
         "C++": 2915,
         "Makefile": 331
       },
-      "tags": [
-        "IND-AM",
-        "COM-C",
-        "TD-U-IoT"
-      ]
+      "tags": ["IND-AM", "COM-C", "TD-U-IoT"]
     },
     {
       "id": 75,
@@ -1752,14 +1635,7 @@
         "Makefile": 11998,
         "Shell": 8352
       },
-      "tags": [
-        "L&F",
-        "IND-ALL",
-        "COM-C",
-        "TD-U-AI/ML",
-        "TD-C-DA",
-        "Tracked"
-      ]
+      "tags": ["L&F", "IND-ALL", "COM-C", "TD-U-AI/ML", "TD-C-DA", "Tracked"]
     },
     {
       "id": 233,
@@ -1819,11 +1695,7 @@
         "GDB": 603,
         "Assembly": 47
       },
-      "tags": [
-        "A",
-        "IND-AM",
-        "COM-C"
-      ]
+      "tags": ["A", "IND-AM", "COM-C"]
     },
     {
       "id": 74,
@@ -1898,13 +1770,7 @@
         "CMake": 25087,
         "Dockerfile": 319
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "COM-C",
-        "TD-U-ApD",
-        "Tracked"
-      ]
+      "tags": ["A", "IND-ALL", "COM-C", "TD-U-ApD", "Tracked"]
     },
     {
       "id": 186,
@@ -1966,12 +1832,7 @@
         "Ruby": 879,
         "Hack": 383
       },
-      "tags": [
-        "A",
-        "IND-ED",
-        "COM-C",
-        "TD-C-WA"
-      ]
+      "tags": ["A", "IND-ED", "COM-C", "TD-C-WA"]
     },
     {
       "id": 73,
@@ -2045,12 +1906,7 @@
         "HTML": 137,
         "CSS": 59
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "COM-C",
-        "TD-U-ApD"
-      ]
+      "tags": ["A", "IND-ALL", "COM-C", "TD-U-ApD"]
     },
     {
       "id": 139,
@@ -2121,12 +1977,7 @@
         "Prolog": 843,
         "Dockerfile": 309
       },
-      "tags": [
-        "L&F",
-        "COM-C",
-        "TD-U-AI/ML",
-        "TD-C-CA"
-      ]
+      "tags": ["L&F", "COM-C", "TD-U-AI/ML", "TD-C-CA"]
     },
     {
       "id": 72,
@@ -2203,12 +2054,7 @@
         "HTML": 137,
         "CSS": 59
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "COM-C",
-        "TD-U-ApD"
-      ]
+      "tags": ["A", "IND-ALL", "COM-C", "TD-U-ApD"]
     },
     {
       "id": 187,
@@ -2272,12 +2118,7 @@
         "Vim Script": 406,
         "Ruby": 220
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "COM-C",
-        "TD-U-DkA"
-      ]
+      "tags": ["A", "IND-ALL", "COM-C", "TD-U-DkA"]
     },
     {
       "id": 71,
@@ -2347,12 +2188,7 @@
       "language": {
         "Python": 56176
       },
-      "tags": [
-        "L&F",
-        "IND-ALL",
-        "COM-C",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["L&F", "IND-ALL", "COM-C", "TD-U-AI/ML"]
     },
     {
       "id": 188,
@@ -2409,13 +2245,7 @@
         "CSS": 623503,
         "VCL": 26002
       },
-      "tags": [
-        "A",
-        "IND-RT",
-        "COM-C",
-        "TD-U-DkA",
-        "TD-C-CA"
-      ]
+      "tags": ["A", "IND-RT", "COM-C", "TD-U-DkA", "TD-C-CA"]
     },
     {
       "id": 242,
@@ -2468,11 +2298,7 @@
         "JavaScript": 754789,
         "Shell": 58
       },
-      "tags": [
-        "L&F",
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["L&F", "IND-ALL", "COM-C"]
     },
     {
       "id": 198,
@@ -2536,14 +2362,7 @@
         "C": 419,
         "Batchfile": 140
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "COM-C",
-        "TD-U-W",
-        "TD-U-DkA",
-        "TD-U-MoA"
-      ]
+      "tags": ["A", "IND-ALL", "COM-C", "TD-U-W", "TD-U-DkA", "TD-U-MoA"]
     },
     {
       "id": 82,
@@ -2605,12 +2424,7 @@
         "Rust": 970,
         "Emacs Lisp": 478
       },
-      "tags": [
-        "L&F",
-        "SD-AS",
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["L&F", "SD-AS", "IND-ALL", "COM-C"]
     },
     {
       "id": 235,
@@ -2622,9 +2436,7 @@
       "compatible_environments": [
         {
           "name": "logstash-RT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "watchers_count": 0,
@@ -2705,9 +2517,7 @@
       "compatible_environments": [
         {
           "name": "struts-RT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "watchers_count": 0,
@@ -2821,11 +2631,7 @@
       "language": {
         "Python": 66777
       },
-      "tags": [
-        "L&F",
-        "SD-AS",
-        "IND-CyS"
-      ]
+      "tags": ["L&F", "SD-AS", "IND-CyS"]
     },
     {
       "id": 189,
@@ -2891,12 +2697,7 @@
         "Kotlin": 1322,
         "Makefile": 313
       },
-      "tags": [
-        "A",
-        "IND-ED",
-        "COM-C",
-        "TD-C-A"
-      ]
+      "tags": ["A", "IND-ED", "COM-C", "TD-C-A"]
     },
     {
       "id": 191,
@@ -2960,12 +2761,7 @@
         "Swift": 807,
         "Dockerfile": 112
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "COM-C",
-        "TD-C-A"
-      ]
+      "tags": ["A", "IND-ALL", "COM-C", "TD-C-A"]
     },
     {
       "id": 145,
@@ -3024,12 +2820,7 @@
         "EmberScript": 4202,
         "Awk": 639
       },
-      "tags": [
-        "A",
-        "IND-AM",
-        "COM-C",
-        "TD-C-A"
-      ]
+      "tags": ["A", "IND-AM", "COM-C", "TD-C-A"]
     },
     {
       "id": 192,
@@ -3079,12 +2870,7 @@
         "node_id": "MDc6TGljZW5zZTU="
       },
       "language": {},
-      "tags": [
-        "A",
-        "IND-AM",
-        "COM-C",
-        "TD-C-A"
-      ]
+      "tags": ["A", "IND-AM", "COM-C", "TD-C-A"]
     },
     {
       "id": 194,
@@ -3142,12 +2928,7 @@
         "HTML": 5274,
         "Shell": 4538
       },
-      "tags": [
-        "A",
-        "IND-AM",
-        "COM-C",
-        "TD-C-A"
-      ]
+      "tags": ["A", "IND-AM", "COM-C", "TD-C-A"]
     },
     {
       "id": 96,
@@ -3222,13 +3003,7 @@
         "C": 42335,
         "Makefile": 1644
       },
-      "tags": [
-        "L&F",
-        "IND-ED",
-        "COM-C",
-        "TD-U-AI/ML",
-        "TD-C-A"
-      ]
+      "tags": ["L&F", "IND-ED", "COM-C", "TD-U-AI/ML", "TD-C-A"]
     },
     {
       "id": 229,
@@ -3351,13 +3126,7 @@
         "Python": 1169,
         "Vim Snippet": 32
       },
-      "tags": [
-        "COM-C",
-        "COM-F",
-        "L&F",
-        "TD-C-S",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["COM-C", "COM-F", "L&F", "TD-C-S", "TD-U-AI/ML"]
     },
     {
       "id": 232,
@@ -3414,13 +3183,7 @@
         "JavaScript": 3483,
         "PHP": 86
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "SD-AS",
-        "TD-C-WA",
-        "TD-U-W"
-      ]
+      "tags": ["A", "IND-ALL", "SD-AS", "TD-C-WA", "TD-U-W"]
     },
     {
       "id": 202,
@@ -3491,11 +3254,7 @@
         "JavaScript": 754789,
         "Shell": 58
       },
-      "tags": [
-        "L&F",
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["L&F", "IND-ALL", "COM-C"]
     },
     {
       "id": 169,
@@ -3570,11 +3329,7 @@
         "VimSnippet": 1990,
         "Shell": 337
       },
-      "tags": [
-        "TD-U-ApD",
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["TD-U-ApD", "IND-ALL", "COM-C"]
     },
     {
       "id": 159,
@@ -3654,11 +3409,7 @@
         "HTML": 80,
         "JavaScript": 10
       },
-      "tags": [
-        "TD-C-WA",
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["TD-C-WA", "IND-ALL", "COM-C"]
     },
     {
       "id": 161,
@@ -3734,11 +3485,7 @@
         "Shell": 1668,
         "Dockerfile": 1088
       },
-      "tags": [
-        "TD-U-W",
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["TD-U-W", "IND-ALL", "COM-C"]
     },
     {
       "id": 171,
@@ -3811,11 +3558,7 @@
         "Dockerfile": 2169,
         "Shell": 439
       },
-      "tags": [
-        "TD-U-W",
-        "IND-RT",
-        "COM-C"
-      ]
+      "tags": ["TD-U-W", "IND-RT", "COM-C"]
     },
     {
       "id": 150,
@@ -3873,11 +3616,7 @@
         "Dockerfile": 2468,
         "Makefile": 1839
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["A", "IND-ALL", "COM-C"]
     },
     {
       "id": 200,
@@ -3932,11 +3671,7 @@
         "Vue": 432140,
         "Shell": 636
       },
-      "tags": [
-        "A",
-        "IND-BFSI",
-        "COM-C"
-      ]
+      "tags": ["A", "IND-BFSI", "COM-C"]
     },
     {
       "id": 154,
@@ -3992,11 +3727,7 @@
         "Logos": 831,
         "JavaScript": 234
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["A", "IND-ALL", "COM-C"]
     },
     {
       "id": 156,
@@ -4049,10 +3780,7 @@
         "PHP": 124320,
         "Shell": 2366
       },
-      "tags": [
-        "A",
-        "IND-ALL"
-      ]
+      "tags": ["A", "IND-ALL"]
     },
     {
       "id": 158,
@@ -4110,11 +3838,7 @@
         "CSS": 23374,
         "Dockerfile": 3250
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "TD-U-IoT"
-      ]
+      "tags": ["A", "IND-ALL", "TD-U-IoT"]
     },
     {
       "id": 197,
@@ -4178,10 +3902,7 @@
         "Less": 56,
         "Sass": 13
       },
-      "tags": [
-        "DO",
-        "IND-ALL"
-      ]
+      "tags": ["DO", "IND-ALL"]
     },
     {
       "id": 148,
@@ -4252,11 +3973,7 @@
         "CoffeeScript": 3009,
         "Makefile": 879
       },
-      "tags": [
-        "L&F",
-        "IND-ED",
-        "COM-C"
-      ]
+      "tags": ["L&F", "IND-ED", "COM-C"]
     },
     {
       "id": 195,
@@ -4313,11 +4030,7 @@
         "CSS": 78728,
         "HTML": 2173
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["A", "IND-ALL", "COM-C"]
     },
     {
       "id": 221,
@@ -4391,13 +4104,7 @@
         "Mustache": 9273,
         "Dockerfile": 2946
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-C-CA",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL", "TD-C-CA", "Tracked"]
     },
     {
       "id": 91,
@@ -4472,12 +4179,7 @@
         "JavaScript": 7167,
         "CSS": 1322
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL", "Tracked"]
     },
     {
       "id": 92,
@@ -4557,11 +4259,7 @@
         "AMPL": 11309,
         "Dockerfile": 2442
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "Tracked"
-      ]
+      "tags": ["A", "IND-ALL", "Tracked"]
     },
     {
       "id": 95,
@@ -4634,13 +4332,7 @@
         "Shell": 2016,
         "Java": 1685
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "SD-AS",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "SD-AS", "Tracked"]
     },
     {
       "id": 217,
@@ -4809,12 +4501,7 @@
         "JavaScript": 44193,
         "Dockerfile": 346
       },
-      "tags": [
-        "s",
-        "IND-ALL",
-        "COM-C",
-        "Tracked"
-      ]
+      "tags": ["s", "IND-ALL", "COM-C", "Tracked"]
     },
     {
       "id": 238,
@@ -4894,12 +4581,7 @@
         "AMPL": 509,
         "EmacsLisp": 73
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL", "Tracked"]
     },
     {
       "id": 240,
@@ -4986,13 +4668,7 @@
         "Batchfile": 1863,
         "C": 847
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "Tracked",
-        "SD-Crypto"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "Tracked", "SD-Crypto"]
     },
     {
       "id": 224,
@@ -5060,12 +4736,7 @@
         "Batchfile": 335,
         "Makefile": 156
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "COM-C",
-        "TD-U-DkA"
-      ]
+      "tags": ["A", "IND-ALL", "COM-C", "TD-U-DkA"]
     },
     {
       "id": 228,
@@ -5121,12 +4792,7 @@
         "Makefile": 1809,
         "Dockerfile": 914
       },
-      "tags": [
-        "S",
-        "IND-ALL",
-        "COM-C",
-        "SD-AS"
-      ]
+      "tags": ["S", "IND-ALL", "COM-C", "SD-AS"]
     },
     {
       "id": 226,
@@ -5180,12 +4846,7 @@
         "CSS": 8352,
         "JavaScript": 5720
       },
-      "tags": [
-        "DO",
-        "IND-ALL",
-        "COM-C",
-        "TD-U-W"
-      ]
+      "tags": ["DO", "IND-ALL", "COM-C", "TD-U-W"]
     },
     {
       "id": 80,
@@ -5254,13 +4915,7 @@
         "Rust": 280,
         "Emacs_Lisp": 191
       },
-      "tags": [
-        "COM-F",
-        "IND-CyS",
-        "SD-SRM",
-        "TD-C-WA",
-        "S"
-      ]
+      "tags": ["COM-F", "IND-CyS", "SD-SRM", "TD-C-WA", "S"]
     },
     {
       "id": 185,
@@ -5318,12 +4973,7 @@
         "Dockerfile": 2168,
         "Shell": 638
       },
-      "tags": [
-        "S",
-        "IND-CyS",
-        "COM-C",
-        "TD-C-WA"
-      ]
+      "tags": ["S", "IND-CyS", "COM-C", "TD-C-WA"]
     },
     {
       "id": 90,
@@ -5378,11 +5028,7 @@
         "Dockerfile": 11698,
         "Makefile": 6565
       },
-      "tags": [
-        "S",
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["S", "IND-ALL", "COM-C"]
     },
     {
       "id": 275,
@@ -5394,15 +5040,11 @@
       "compatible_environments": [
         {
           "name": "zaproxy-BT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         },
         {
           "name": "zaproxy-RT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "watchers_count": 0,
@@ -5456,12 +5098,7 @@
         "Perl": 3832,
         "XSLT": 3054
       },
-      "tags": [
-        "S",
-        "IND-CyS",
-        "COM-C",
-        "TD-C-WA"
-      ]
+      "tags": ["S", "IND-CyS", "COM-C", "TD-C-WA"]
     },
     {
       "id": 89,
@@ -5522,11 +5159,7 @@
         "PLpgSQL": 1235,
         "HTML": 626
       },
-      "tags": [
-        "S",
-        "IND-ALL",
-        "COM-C"
-      ]
+      "tags": ["S", "IND-ALL", "COM-C"]
     },
     {
       "id": 69,
@@ -5595,12 +5228,7 @@
         "Batchfile": 1388,
         "Vue": 563
       },
-      "tags": [
-        "A",
-        "COM-C",
-        "IND-HLS",
-        "TD-U-W"
-      ]
+      "tags": ["A", "COM-C", "IND-HLS", "TD-U-W"]
     },
     {
       "id": 249,
@@ -5678,13 +5306,7 @@
         "Smarty": 7825,
         "JavaScript": 1191
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-C-CA",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-C-CA", "Tracked"]
     },
     {
       "id": 318,
@@ -5753,13 +5375,7 @@
         "Makefile": 4534,
         "Shell": 914
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 317,
@@ -5834,13 +5450,7 @@
         "Assembly": 22181,
         "Shell": 1241
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 319,
@@ -5917,11 +5527,7 @@
         "Batchfile": 24179,
         "SCSS": 56
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F"]
     },
     {
       "id": 320,
@@ -5995,12 +5601,7 @@
         "Roff": 198068,
         "CMake": 125035
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "Tracked"]
     },
     {
       "id": 70,
@@ -6079,12 +5680,7 @@
         "Shell": 380,
         "Dockerfile": 193
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL", "TD-U-AI/ML"]
     },
     {
       "id": 253,
@@ -6149,12 +5745,7 @@
         "Makefile": 1915,
         "Roff": 911
       },
-      "tags": [
-        "A",
-        "COM-C",
-        "IND-HLS",
-        "TD-U-W"
-      ]
+      "tags": ["A", "COM-C", "IND-HLS", "TD-U-W"]
     },
     {
       "id": 330,
@@ -6416,13 +6007,7 @@
         "Dockerfile": 511,
         "Shell": 495
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-U-ApD",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL", "TD-U-ApD", "Tracked"]
     },
     {
       "id": 371,
@@ -6497,12 +6082,7 @@
         "C++": 753,
         "Fortran": 112
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL", "Tracked"]
     },
     {
       "id": 372,
@@ -6574,13 +6154,7 @@
         "CMake": 34496,
         "Python": 9887
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-C-DA",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-C-DA", "Tracked"]
     },
     {
       "id": 373,
@@ -6660,13 +6234,7 @@
         "Cuda": 15397,
         "Verilog": 366
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-C-CA",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-C-CA", "Tracked"]
     },
     {
       "id": 374,
@@ -6737,13 +6305,7 @@
         "C++": 330211,
         "CMake": 10490
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-C-DA",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-C-DA", "Tracked"]
     },
     {
       "id": 375,
@@ -6811,12 +6373,7 @@
         "node_id": "MDc6TGljZW5zZTA="
       },
       "language": {},
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "Tracked"]
     },
     {
       "id": 376,
@@ -6891,12 +6448,7 @@
         "Makefile": 2234,
         "Shell": 2028
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "Tracked"]
     },
     {
       "id": 418,
@@ -6908,15 +6460,11 @@
       "compatible_environments": [
         {
           "name": "jackson-databind-BT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         },
         {
           "name": "jackson-databind-RT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "bes_technology_stack": "L&F",
@@ -6982,13 +6530,7 @@
         "Logos": 112845,
         "Shell": 264
       },
-      "tags": [
-        "A",
-        "TD-C-WA",
-        "IND-ALL",
-        "L&F",
-        "Tracked"
-      ]
+      "tags": ["A", "TD-C-WA", "IND-ALL", "L&F", "Tracked"]
     },
     {
       "id": 417,
@@ -7061,14 +6603,7 @@
         "SCSS": 7510,
         "JavaScript": 2871
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-C-WA",
-        "TD-U-W",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-C-WA", "TD-U-W", "Tracked"]
     },
     {
       "id": 419,
@@ -7140,13 +6675,7 @@
         "Shell": 2281,
         "Makefile": 1084
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "SD-CS",
-        "S",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "SD-CS", "S", "Tracked"]
     },
     {
       "id": 88,
@@ -7158,9 +6687,7 @@
       "compatible_environments": [
         {
           "name": "dubbo-RT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "watchers_count": 0,
@@ -7212,12 +6739,7 @@
         "Batchfile": 1959,
         "Dockerfile": 1421
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "COM-C",
-        "SD-Crypto"
-      ]
+      "tags": ["A", "IND-ALL", "COM-C", "SD-Crypto"]
     },
     {
       "id": 119,
@@ -7229,9 +6751,7 @@
       "compatible_environments": [
         {
           "name": "druid-BT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "watchers_count": 0,
@@ -7294,13 +6814,7 @@
         "Makefile": 659,
         "PostScript": 5
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "TD-C-D",
-        "COM-C",
-        "TD-U-Db"
-      ]
+      "tags": ["A", "IND-ALL", "TD-C-D", "COM-C", "TD-U-Db"]
     },
     {
       "id": 350,
@@ -7370,12 +6884,7 @@
       "language": {
         "Python": 1524479
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-U-DkA"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL", "TD-U-DkA"]
     },
     {
       "id": 365,
@@ -7447,11 +6956,7 @@
         "HTML": 1953,
         "CSS": 596
       },
-      "tags": [
-        "IND-ALL",
-        "L&F",
-        "SD-SRM"
-      ]
+      "tags": ["IND-ALL", "L&F", "SD-SRM"]
     },
     {
       "id": 363,
@@ -7526,13 +7031,7 @@
         "Makefile": 6873,
         "Dockerfile": 2539
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "TD-C-S",
-        "SD-IAM",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-ALL", "TD-C-S", "SD-IAM", "S"]
     },
     {
       "id": 364,
@@ -7608,12 +7107,7 @@
         "TypeScript": 2933,
         "Dockerfile": 623
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "SD-IAM",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-ALL", "SD-IAM", "S"]
     },
     {
       "id": 345,
@@ -7775,11 +7269,7 @@
       "language": {
         "C": 2599098
       },
-      "tags": [
-        "IND-CyS",
-        "SD-NS",
-        "S"
-      ]
+      "tags": ["IND-CyS", "SD-NS", "S"]
     },
     {
       "id": 377,
@@ -7791,9 +7281,7 @@
       "compatible_environments": [
         {
           "name": "privacyidea-RT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "bes_technology_stack": "S",
@@ -7867,12 +7355,7 @@
         "Mako": 412,
         "Procfile": 70
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "SD-IAM",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-ALL", "SD-IAM", "S"]
     },
     {
       "id": 378,
@@ -7946,12 +7429,7 @@
         "Dockerfile": 2517,
         "Makefile": 1085
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "SD-CS",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-CyS", "SD-CS", "S"]
     },
     {
       "id": 362,
@@ -8028,12 +7506,7 @@
         "Jsonnet": 2307,
         "Dockerfile": 299
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "SD-IAM",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-ALL", "SD-IAM", "S"]
     },
     {
       "id": 379,
@@ -8126,12 +7599,7 @@
         "Rich Text Format": 416,
         "RouterOS Script": 45
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "L&F",
-        "SD-SOC"
-      ]
+      "tags": ["COM-C", "IND-CyS", "L&F", "SD-SOC"]
     },
     {
       "id": 380,
@@ -8204,12 +7672,7 @@
         "PowerShell": 3178,
         "Batchfile": 1223
       },
-      "tags": [
-        "COM-F",
-        "IND-CyS",
-        "L&F",
-        "SD-NS"
-      ]
+      "tags": ["COM-F", "IND-CyS", "L&F", "SD-NS"]
     },
     {
       "id": 381,
@@ -8284,13 +7747,7 @@
         "Dockerfile": 1308,
         "C": 118
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-AI/ML",
-        "TD-U-DAA"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-AI/ML", "TD-U-DAA"]
     },
     {
       "id": 383,
@@ -8361,12 +7818,7 @@
         "Python": 59285,
         "PowerShell": 10431
       },
-      "tags": [
-        "IND-CyS",
-        "SD-DS",
-        "SD-AS",
-        "S"
-      ]
+      "tags": ["IND-CyS", "SD-DS", "SD-AS", "S"]
     },
     {
       "id": 366,
@@ -8456,13 +7908,7 @@
         "Objective-C++": 2640,
         "AppleScript": 1932
       },
-      "tags": [
-        "DO",
-        "IND-ALL",
-        "SD-DS",
-        "TD-C-D",
-        "TD-U-Db"
-      ]
+      "tags": ["DO", "IND-ALL", "SD-DS", "TD-C-D", "TD-U-Db"]
     },
     {
       "id": 261,
@@ -8532,10 +7978,7 @@
         "Logos": 112845,
         "Shell": 264
       },
-      "tags": [
-        "IND-CyS",
-        "S"
-      ]
+      "tags": ["IND-CyS", "S"]
     },
     {
       "id": 172,
@@ -8613,13 +8056,7 @@
         "Dockerfile": 2041,
         "Makefile": 1438
       },
-      "tags": [
-        "A",
-        "IND-CON",
-        "COM-C",
-        "TD-U-W",
-        "Tracked"
-      ]
+      "tags": ["A", "IND-CON", "COM-C", "TD-U-W", "Tracked"]
     },
     {
       "id": 407,
@@ -8695,13 +8132,7 @@
         "CSS": 1403,
         "Dockerfile": 1072
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "SD-IAM",
-        "S",
-        "Untracked"
-      ]
+      "tags": ["COM-C", "IND-CyS", "SD-IAM", "S", "Untracked"]
     },
     {
       "id": 432,
@@ -8753,13 +8184,7 @@
       "language": {
         "python": 235225
       },
-      "tags": [
-        "S",
-        "IND-ALL",
-        "COM-C",
-        "TD-C-S",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["S", "IND-ALL", "COM-C", "TD-C-S", "TD-U-AI/ML"]
     },
     {
       "id": 433,
@@ -8814,12 +8239,7 @@
         "HCL": 1869,
         "Jupyter Notebook": 1693
       },
-      "tags": [
-        "S",
-        "IND-ALL",
-        "COM-C",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["S", "IND-ALL", "COM-C", "TD-U-AI/ML"]
     },
     {
       "id": 434,
@@ -8872,12 +8292,7 @@
         "python": 2353579,
         "Shell": 216
       },
-      "tags": [
-        "S",
-        "IND-ALL",
-        "COM-C",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["S", "IND-ALL", "COM-C", "TD-U-AI/ML"]
     },
     {
       "id": 435,
@@ -9113,13 +8528,7 @@
         "TypeScript": 438366,
         "HTML": 2416
       },
-      "tags": [
-        "COM-C",
-        "IND-AM",
-        "A",
-        "Tracked",
-        "TD-U-IoT"
-      ]
+      "tags": ["COM-C", "IND-AM", "A", "Tracked", "TD-U-IoT"]
     },
     {
       "id": 225,
@@ -9193,13 +8602,7 @@
         "M4": 232,
         "Shell": 62
       },
-      "tags": [
-        "COM-C",
-        "IND-AM",
-        "A",
-        "Tracked",
-        "TD-U-IoT"
-      ]
+      "tags": ["COM-C", "IND-AM", "A", "Tracked", "TD-U-IoT"]
     },
     {
       "id": 223,
@@ -9277,13 +8680,7 @@
         "Perl": 16892,
         "Dockerfile": 2765
       },
-      "tags": [
-        "COM-F",
-        "A",
-        "IND-ALL",
-        "TD-U-W",
-        "Tracked"
-      ]
+      "tags": ["COM-F", "A", "IND-ALL", "TD-U-W", "Tracked"]
     },
     {
       "id": 87,
@@ -9356,13 +8753,7 @@
         "SCSS": 1563,
         "HTML": 792
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-C-WA",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL", "TD-C-WA", "Tracked"]
     },
     {
       "id": 437,
@@ -9517,14 +8908,7 @@
         "HTML": 3183,
         "CSS": 981
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-CyS",
-        "TD-C-CA",
-        "Untracked",
-        "TD-U-DLT/BC"
-      ]
+      "tags": ["COM-C", "A", "IND-CyS", "TD-C-CA", "Untracked", "TD-U-DLT/BC"]
     },
     {
       "id": 446,
@@ -9602,14 +8986,7 @@
         "MDX": 1670,
         "Dockerfile": 1571
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-C-WA",
-        "TD-U-AI/ML",
-        "Untracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-C-WA", "TD-U-AI/ML", "Untracked"]
     },
     {
       "id": 180,
@@ -9675,13 +9052,7 @@
         "Blade": 18386,
         "Shell": 899
       },
-      "tags": [
-        "COM-F",
-        "IND-ALL",
-        "L&F",
-        "TD-U-W",
-        "Tracked"
-      ]
+      "tags": ["COM-F", "IND-ALL", "L&F", "TD-U-W", "Tracked"]
     },
     {
       "id": 455,
@@ -9957,14 +9328,7 @@
         "Starlark": 11590,
         "Shell": 813
       },
-      "tags": [
-        "COM-F",
-        "IND-CyS",
-        "SD-AS",
-        "S",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
+      "tags": ["COM-F", "IND-CyS", "SD-AS", "S", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 467,
@@ -10036,14 +9400,7 @@
         "Jupyter Notebook": 79309,
         "Makefile": 714
       },
-      "tags": [
-        "COM-F",
-        "IND-CyS",
-        "SD-AS",
-        "S",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
+      "tags": ["COM-F", "IND-CyS", "SD-AS", "S", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 259,
@@ -10119,12 +9476,7 @@
         "HTML": 2184,
         "HCL": 878
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "S",
-        "SD-BS"
-      ]
+      "tags": ["COM-C", "IND-CyS", "S", "SD-BS"]
     },
     {
       "id": 103,
@@ -10207,11 +9559,7 @@
         "Makefile": 8003,
         "Dockerfile": 897
       },
-      "tags": [
-        "COM-C",
-        "DA",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "DA", "IND-ALL"]
     },
     {
       "id": 257,
@@ -10287,12 +9635,7 @@
         "HTML": 9852,
         "Dockerfile": 1309
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "SD-BS",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-CyS", "SD-BS", "S"]
     },
     {
       "id": 447,
@@ -10364,12 +9707,7 @@
         "JavaScript": 35857,
         "Shell": 142
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "SD-SOC",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-CyS", "SD-SOC", "S"]
     },
     {
       "id": 296,
@@ -10457,14 +9795,7 @@
         "Mustache": 1406,
         "PHP": 574
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "SD-SOC",
-        "TD-U-DAA",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "SD-SOC", "TD-U-DAA", "Tracked"]
     },
     {
       "id": 299,
@@ -10476,9 +9807,7 @@
       "compatible_environments": [
         {
           "name": "prometheus-RT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "bes_technology_stack": "DO",
@@ -10552,12 +9881,7 @@
         "CSS": 3721,
         "Dockerfile": 1270
       },
-      "tags": [
-        "COM-F",
-        "DO",
-        "SD-SOC",
-        "TD-U-DAA"
-      ]
+      "tags": ["COM-F", "DO", "SD-SOC", "TD-U-DAA"]
     },
     {
       "id": 453,
@@ -10636,11 +9960,7 @@
         "Batchfile": 833,
         "HTML": 106
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL"]
     },
     {
       "id": 130,
@@ -10717,12 +10037,7 @@
         "Makefile": 125,
         "Procfile": 47
       },
-      "tags": [
-        "COM-C",
-        "L&F",
-        "IND-ALL",
-        "TD-U-W"
-      ]
+      "tags": ["COM-C", "L&F", "IND-ALL", "TD-U-W"]
     },
     {
       "id": 135,
@@ -10805,12 +10120,7 @@
         "Assembly": 157,
         "Dockerfile": 33
       },
-      "tags": [
-        "COM-C",
-        "L&F",
-        "IND-ALL",
-        "IND-CyS"
-      ]
+      "tags": ["COM-C", "L&F", "IND-ALL", "IND-CyS"]
     },
     {
       "id": 215,
@@ -10886,13 +10196,7 @@
         "Lex": 10152,
         "AMPL": 801
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-C-D",
-        "TD-U-Db"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL", "TD-C-D", "TD-U-Db"]
     },
     {
       "id": 456,
@@ -10969,13 +10273,7 @@
         "CSS": 5322,
         "Makefile": 3354
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "TD-C-D",
-        "IND-ALL",
-        "TD-U-Db"
-      ]
+      "tags": ["COM-C", "A", "TD-C-D", "IND-ALL", "TD-U-Db"]
     },
     {
       "id": 214,
@@ -11050,11 +10348,7 @@
         "CSS": 34523,
         "Dockerfile": 2228
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL"]
     },
     {
       "id": 295,
@@ -11236,13 +10530,7 @@
         "Makefile": 2845,
         "Vim Snippet": 58
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 174,
@@ -11339,14 +10627,7 @@
         "Smarty": 376,
         "Vim Script": 154
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "IND-BFSI",
-        "L&F",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "IND-BFSI", "L&F", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 175,
@@ -11424,13 +10705,7 @@
         "Roff": 555,
         "Batchfile": 144
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "TD-C-DA",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "TD-C-DA", "Tracked"]
     },
     {
       "id": 196,
@@ -11507,13 +10782,7 @@
         "Shell": 260,
         "Batchfile": 258
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "DA",
-        "Tracked",
-        "TD-U-Bln"
-      ]
+      "tags": ["COM-C", "IND-ALL", "DA", "Tracked", "TD-U-Bln"]
     },
     {
       "id": 211,
@@ -11588,13 +10857,7 @@
         "Just": 3354,
         "JavaScript": 1714
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "DA",
-        "Tracked",
-        "TD-U-Bln"
-      ]
+      "tags": ["COM-C", "IND-ALL", "DA", "Tracked", "TD-U-Bln"]
     },
     {
       "id": 245,
@@ -11667,13 +10930,7 @@
         "Makefile": 16766,
         "Dockerfile": 8839
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "DA",
-        "Tracked",
-        "TD-U-Bln"
-      ]
+      "tags": ["COM-C", "IND-ALL", "DA", "Tracked", "TD-U-Bln"]
     },
     {
       "id": 248,
@@ -11848,12 +11105,7 @@
         "Cython": 3635,
         "Jsonnet": 937
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-AI/ML"]
     },
     {
       "id": 443,
@@ -11925,12 +11177,7 @@
         "Dockerfile": 7577,
         "Makefile": 2748
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-AI/ML"]
     },
     {
       "id": 448,
@@ -12006,14 +11253,7 @@
         "Jinja": 2632,
         "Makefile": 2073
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "DA",
-        "TD-C-DA",
-        "Tracked",
-        "TD-U-Bln"
-      ]
+      "tags": ["COM-C", "IND-ALL", "DA", "TD-C-DA", "Tracked", "TD-U-Bln"]
     },
     {
       "id": 449,
@@ -12086,14 +11326,7 @@
         "Shell": 7232,
         "Dockerfile": 3129
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "DA",
-        "TD-C-DA",
-        "Tracked",
-        "TD-U-Bln"
-      ]
+      "tags": ["COM-C", "IND-ALL", "DA", "TD-C-DA", "Tracked", "TD-U-Bln"]
     },
     {
       "id": 451,
@@ -12258,14 +11491,7 @@
         "Batchfile": 1023,
         "Dockerfile": 210
       },
-      "tags": [
-        "DO",
-        "IND-ALL",
-        "TD-C-WA",
-        "TD-U-ApD",
-        "TD-U-W",
-        "Tracked"
-      ]
+      "tags": ["DO", "IND-ALL", "TD-C-WA", "TD-U-ApD", "TD-U-W", "Tracked"]
     },
     {
       "id": 457,
@@ -12352,12 +11578,7 @@
         "XSLT": 6024,
         "Dockerfile": 1030
       },
-      "tags": [
-        "COM-F",
-        "IND-ALL",
-        "DA",
-        "TD-C-DA"
-      ]
+      "tags": ["COM-F", "IND-ALL", "DA", "TD-C-DA"]
     },
     {
       "id": 458,
@@ -12439,13 +11660,7 @@
         "HTML": 1398,
         "HCL": 842
       },
-      "tags": [
-        "COM-F",
-        "DO",
-        "IND-ALL",
-        "TD-C-D",
-        "TD-U-Db"
-      ]
+      "tags": ["COM-F", "DO", "IND-ALL", "TD-C-D", "TD-U-Db"]
     },
     {
       "id": 473,
@@ -12517,14 +11732,7 @@
         "Shell": 4736,
         "Dockerfile": 341
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "SD-AS",
-        "S",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "SD-AS", "S", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 462,
@@ -12610,11 +11818,7 @@
         "TLA": 14997,
         "Dockerfile": 4613
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F"]
     },
     {
       "id": 465,
@@ -12686,10 +11890,7 @@
         "Kotlin": 29831,
         "HTML": 773
       },
-      "tags": [
-        "L&F",
-        "Untracked"
-      ]
+      "tags": ["L&F", "Untracked"]
     },
     {
       "id": 464,
@@ -12764,10 +11965,7 @@
         "Shell": 832,
         "Lua": 509
       },
-      "tags": [
-        "L&F",
-        "Untracked"
-      ]
+      "tags": ["L&F", "Untracked"]
     },
     {
       "id": 463,
@@ -12840,10 +12038,7 @@
         "Dockerfile": 4410,
         "JavaScript": 303
       },
-      "tags": [
-        "L&F",
-        "Untracked"
-      ]
+      "tags": ["L&F", "Untracked"]
     },
     {
       "id": 460,
@@ -12918,10 +12113,7 @@
         "Ruby": 7007,
         "Shell": 213
       },
-      "tags": [
-        "L&F",
-        "Untracked"
-      ]
+      "tags": ["L&F", "Untracked"]
     },
     {
       "id": 459,
@@ -12995,10 +12187,7 @@
         "Shell": 496,
         "HTML": 172
       },
-      "tags": [
-        "L&F",
-        "Untracked"
-      ]
+      "tags": ["L&F", "Untracked"]
     },
     {
       "id": 475,
@@ -13073,10 +12262,7 @@
         "Groovy": 5230,
         "Kotlin": 2400
       },
-      "tags": [
-        "IND-ALL",
-        "Untracked"
-      ]
+      "tags": ["IND-ALL", "Untracked"]
     },
     {
       "id": 461,
@@ -13150,14 +12336,7 @@
         "Jupyter Notebook": 22983,
         "Dockerfile": 637
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-CyS",
-        "TD-C-WA",
-        "TD-U-AI/ML",
-        "Untracked"
-      ]
+      "tags": ["COM-C", "A", "IND-CyS", "TD-C-WA", "TD-U-AI/ML", "Untracked"]
     },
     {
       "id": 483,
@@ -13229,11 +12408,7 @@
         "Shell": 32945,
         "Makefile": 7785
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-ALL", "S"]
     },
     {
       "id": 486,
@@ -13306,11 +12481,7 @@
         "Dockerfile": 330,
         "Shell": 265
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F"]
     },
     {
       "id": 485,
@@ -13385,11 +12556,7 @@
         "Dockerfile": 2121,
         "Makefile": 1606
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL"]
     },
     {
       "id": 484,
@@ -13469,11 +12636,7 @@
         "Java": 1080,
         "JavaScript": 13
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-ALL", "S"]
     },
     {
       "id": 482,
@@ -13485,9 +12648,7 @@
       "compatible_environments": [
         {
           "name": "jackson-core-BT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "bes_technology_stack": "A",
@@ -13553,11 +12714,7 @@
         "Logos": 50545,
         "Shell": 1527
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL"]
     },
     {
       "id": 478,
@@ -13638,14 +12795,7 @@
         "Mustache": 1066,
         "HTML": 895
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "TD-C-DA",
-        "TD-U-ApD",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "TD-C-DA", "TD-U-ApD", "Tracked"]
     },
     {
       "id": 479,
@@ -13718,14 +12868,7 @@
         "Dockerfile": 1907,
         "Shell": 1737
       },
-      "tags": [
-        "COM-C",
-        "S",
-        "IND-ALL",
-        "SD-AS",
-        "SD-SRM",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "S", "IND-ALL", "SD-AS", "SD-SRM", "Tracked"]
     },
     {
       "id": 480,
@@ -13737,9 +12880,7 @@
       "compatible_environments": [
         {
           "name": "lettuce-BT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "bes_technology_stack": "L&F",
@@ -13808,12 +12949,7 @@
         "Shell": 4162,
         "HTML": 386
       },
-      "tags": [
-        "COM-C",
-        "L&F",
-        "IND-ALL",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "L&F", "IND-ALL", "Tracked"]
     },
     {
       "id": 128,
@@ -13887,14 +13023,7 @@
         "Shell": 1499,
         "JavaScript": 735
       },
-      "tags": [
-        "COM-F",
-        "COM-F-OpenSSF",
-        "S",
-        "IND-CyS",
-        "SD-SRM",
-        "Tracked"
-      ]
+      "tags": ["COM-F", "COM-F-OpenSSF", "S", "IND-CyS", "SD-SRM", "Tracked"]
     },
     {
       "id": 481,
@@ -13967,14 +13096,7 @@
         "Shell": 3720,
         "Makefile": 2467
       },
-      "tags": [
-        "COM-F",
-        "COM-F-OpenSSF",
-        "S",
-        "IND-CyS",
-        "SD-SRM",
-        "Tracked"
-      ]
+      "tags": ["COM-F", "COM-F-OpenSSF", "S", "IND-CyS", "SD-SRM", "Tracked"]
     },
     {
       "id": 498,
@@ -14053,13 +13175,7 @@
         "JavaScript": 1509,
         "HTML": 1328
       },
-      "tags": [
-        "COM-F-CNCF",
-        "A",
-        "IND-ALL",
-        "SD-SRM",
-        "Tracked"
-      ]
+      "tags": ["COM-F-CNCF", "A", "IND-ALL", "SD-SRM", "Tracked"]
     },
     {
       "id": 497,
@@ -14134,14 +13250,7 @@
         "Dockerfile": 11126,
         "Just": 5998
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-CyS",
-        "SD-DS",
-        "TD-U-AI/ML",
-        "Untracked"
-      ]
+      "tags": ["COM-C", "A", "IND-CyS", "SD-DS", "TD-U-AI/ML", "Untracked"]
     },
     {
       "id": 495,
@@ -14293,14 +13402,7 @@
         "Shell": 706,
         "Dockerfile": 218
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "SD-SRM",
-        "S",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-CyS", "SD-SRM", "S", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 487,
@@ -14372,13 +13474,7 @@
         "Shell": 101307,
         "Raku": 19859
       },
-      "tags": [
-        "COM-C",
-        "DA",
-        "IND-ALL",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "DA", "IND-ALL", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 491,
@@ -14452,12 +13548,7 @@
         "Makefile": 2122,
         "Dockerfile": 1287
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-TEL",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "DO", "IND-TEL", "Tracked"]
     },
     {
       "id": 492,
@@ -14533,14 +13624,7 @@
         "HTML": 2478,
         "Shell": 849
       },
-      "tags": [
-        "COM-C",
-        "L&F",
-        "IND-ALL",
-        "TD-C-CA",
-        "TD-C-S",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "L&F", "IND-ALL", "TD-C-CA", "TD-C-S", "Tracked"]
     },
     {
       "id": 493,
@@ -14612,12 +13696,7 @@
         "HCL": 1883,
         "Dockerfile": 861
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "Tracked"]
     },
     {
       "id": 489,
@@ -14697,12 +13776,7 @@
         "Batchfile": 3613,
         "Dockerfile": 1823
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "S",
-        "Untracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "S", "Untracked"]
     },
     {
       "id": 490,
@@ -14773,12 +13847,7 @@
         "Python": 1183062,
         "Dockerfile": 826
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "Untracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "Untracked"]
     },
     {
       "id": 488,
@@ -14853,13 +13922,7 @@
         "Dockerfile": 2075,
         "Shell": 818
       },
-      "tags": [
-        "IND-ALL",
-        "L&F",
-        "TD-C-WA",
-        "TD-U-W",
-        "Untracked"
-      ]
+      "tags": ["IND-ALL", "L&F", "TD-C-WA", "TD-U-W", "Untracked"]
     },
     {
       "id": 494,
@@ -14932,13 +13995,7 @@
         "Shell": 4348,
         "Makefile": 1900
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-U-DkA",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL", "TD-U-DkA", "Tracked"]
     },
     {
       "id": 499,
@@ -15194,13 +14251,7 @@
       "language": {
         "Python": 533929
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 501,
@@ -15270,11 +14321,7 @@
       "language": {
         "Java": 1544240
       },
-      "tags": [
-        "L&F",
-        "IND-ALL",
-        "Tracked"
-      ]
+      "tags": ["L&F", "IND-ALL", "Tracked"]
     },
     {
       "id": 502,
@@ -15355,13 +14402,7 @@
         "Makefile": 410,
         "Batchfile": 395
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "TD-C-C",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "TD-C-C", "Tracked"]
     },
     {
       "id": 503,
@@ -15431,13 +14472,7 @@
         "Shell": 2314,
         "C++": 592
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "TD-C-S",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "TD-C-S", "Tracked"]
     },
     {
       "id": 504,
@@ -15517,12 +14552,7 @@
         "Shell": 1308,
         "Dockerfile": 737
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "Tracked"]
     },
     {
       "id": 513,
@@ -15597,13 +14627,7 @@
         "Shell": 220,
         "Jinja": 204
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "S",
-        "SD-BS",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-CyS", "S", "SD-BS", "Tracked"]
     },
     {
       "id": 512,
@@ -15677,13 +14701,7 @@
         "Dockerfile": 2086,
         "Python": 764
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "SD-BS",
-        "S",
-        "TD-U-Bln"
-      ]
+      "tags": ["COM-C", "IND-ALL", "SD-BS", "S", "TD-U-Bln"]
     },
     {
       "id": 511,
@@ -15758,14 +14776,7 @@
         "Makefile": 2108,
         "Dockerfile": 1581
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "SD-BS",
-        "SD-SRM",
-        "S",
-        "TD-U-Bln"
-      ]
+      "tags": ["COM-C", "IND-ALL", "SD-BS", "SD-SRM", "S", "TD-U-Bln"]
     },
     {
       "id": 505,
@@ -15840,11 +14851,7 @@
         "Smarty": 872,
         "Dockerfile": 202
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL"]
     },
     {
       "id": 506,
@@ -15915,11 +14922,7 @@
         "Python": 2805025,
         "Shell": 14704
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F"]
     },
     {
       "id": 507,
@@ -15992,12 +14995,7 @@
         "C": 5481,
         "CMake": 2919
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "TD-U-AI/ML"]
     },
     {
       "id": 508,
@@ -16074,12 +15072,7 @@
         "HTML": 614,
         "Makefile": 363
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "TD-C-S"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "TD-C-S"]
     },
     {
       "id": 509,
@@ -16152,12 +15145,7 @@
         "Makefile": 4343,
         "Dockerfile": 1872
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "TD-C-S"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "TD-C-S"]
     },
     {
       "id": 510,
@@ -16219,11 +15207,7 @@
       },
       "license": null,
       "language": {},
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL"]
     },
     {
       "id": 140,
@@ -16235,9 +15219,7 @@
       "compatible_environments": [
         {
           "name": "opencti-RT-env",
-          "version": [
-            "0.0.1"
-          ]
+          "version": ["0.0.1"]
         }
       ],
       "bes_technology_stack": "S",
@@ -16308,9 +15290,7 @@
         "HTML": 2261,
         "Shell": 386
       },
-      "tags": [
-        "Tracked"
-      ]
+      "tags": ["Tracked"]
     },
     {
       "id": 518,
@@ -16464,11 +15444,7 @@
         "Makefile": 8487,
         "Dockerfile": 923
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL"]
     },
     {
       "id": 520,
@@ -16545,12 +15521,7 @@
         "Batchfile": 3366,
         "HTML": 2393
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-AI/ML"]
     },
     {
       "id": 519,
@@ -16624,12 +15595,7 @@
         "TeX": 462,
         "HTML": 387
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["COM-C", "IND-ALL", "L&F", "TD-U-AI/ML"]
     },
     {
       "id": 523,
@@ -16704,11 +15670,7 @@
         "jq": 4089,
         "Dockerfile": 3995
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-ALL", "S"]
     },
     {
       "id": 531,
@@ -16780,12 +15742,7 @@
         "Python": 708972,
         "Makefile": 576
       },
-      "tags": [
-        "COM - F",
-        "IND-CyS",
-        "S",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["COM - F", "IND-CyS", "S", "TD-U-AI/ML"]
     },
     {
       "id": 526,
@@ -16856,11 +15813,7 @@
         "Go": 478329,
         "Makefile": 83
       },
-      "tags": [
-        "COM-C",
-        "IND-TEL",
-        "L&F"
-      ]
+      "tags": ["COM-C", "IND-TEL", "L&F"]
     },
     {
       "id": 527,
@@ -16935,12 +15888,7 @@
         "Shell": 13852,
         "JavaScript": 8731
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL",
-        "TD-U-W"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL", "TD-U-W"]
     },
     {
       "id": 528,
@@ -17015,11 +15963,7 @@
         "Dockerfile": 2435,
         "Perl": 457
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL"]
     },
     {
       "id": 529,
@@ -17089,12 +16033,7 @@
       "language": {
         "Python": 334617
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL", "TD-U-AI/ML"]
     },
     {
       "id": 530,
@@ -17167,11 +16106,7 @@
         "Makefile": 1284,
         "Mustache": 1180
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL"]
     },
     {
       "id": 534,
@@ -17243,11 +16178,7 @@
         "Jinja": 62808,
         "Shell": 625
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-ALL", "S"]
     },
     {
       "id": 533,
@@ -17341,11 +16272,7 @@
         "Scheme": 92,
         "Tcl": 77
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL"]
     },
     {
       "id": 532,
@@ -17426,11 +16353,7 @@
         "CSS": 1462,
         "HCL": 1190
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "A", "IND-ALL"]
     },
     {
       "id": 535,
@@ -17501,11 +16424,7 @@
         "Dockerfile": 2514,
         "Shell": 732
       },
-      "tags": [
-        "IND-AM",
-        "A",
-        "TD-U-IoT"
-      ]
+      "tags": ["IND-AM", "A", "TD-U-IoT"]
     },
     {
       "id": 536,
@@ -17580,12 +16499,7 @@
         "CSS": 2803,
         "QML": 1132
       },
-      "tags": [
-        "COM-C",
-        "IND-AM",
-        "A",
-        "TD-U-IoT"
-      ]
+      "tags": ["COM-C", "IND-AM", "A", "TD-U-IoT"]
     },
     {
       "id": 537,
@@ -17663,12 +16577,7 @@
         "Makefile": 10150,
         "Dockerfile": 2593
       },
-      "tags": [
-        "COM-C",
-        "IND-AM",
-        "A",
-        "TD-U-IoT"
-      ]
+      "tags": ["COM-C", "IND-AM", "A", "TD-U-IoT"]
     },
     {
       "id": 540,
@@ -17750,11 +16659,7 @@
         "Mako": 1339,
         "R": 313
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-CyS"
-      ]
+      "tags": ["COM-C", "DO", "IND-CyS"]
     },
     {
       "id": 544,
@@ -17831,11 +16736,7 @@
         "Shell": 2174,
         "Dockerfile": 1322
       },
-      "tags": [
-        "IND-AM",
-        "A",
-        "TD-U-IoT"
-      ]
+      "tags": ["IND-AM", "A", "TD-U-IoT"]
     },
     {
       "id": 542,
@@ -17926,11 +16827,7 @@
         "Batchfile": 791,
         "Vim Script": 161
       },
-      "tags": [
-        "IND-AM",
-        "DO",
-        "TD-U-IoT"
-      ]
+      "tags": ["IND-AM", "DO", "TD-U-IoT"]
     },
     {
       "id": 543,
@@ -17995,12 +16892,7 @@
         "C++": 254363,
         "CMake": 9578
       },
-      "tags": [
-        "COM-C",
-        "IND-AM",
-        "A",
-        "TD-U-IoT"
-      ]
+      "tags": ["COM-C", "IND-AM", "A", "TD-U-IoT"]
     },
     {
       "id": 545,
@@ -18072,11 +16964,7 @@
         "C": 6259,
         "Makefile": 948
       },
-      "tags": [
-        "IND-AM",
-        "A",
-        "TD-U-IoT"
-      ]
+      "tags": ["IND-AM", "A", "TD-U-IoT"]
     },
     {
       "id": 340,
@@ -18149,13 +17037,7 @@
         "Makefile": 531,
         "Dockerfile": 459
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "SD-AS",
-        "S",
-        "Untracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "SD-AS", "S", "Untracked"]
     },
     {
       "id": 334,
@@ -18236,13 +17118,7 @@
         "Starlark": 823,
         "Scheme": 359
       },
-      "tags": [
-        "COM - F",
-        "IND-CyS",
-        "SD-AS",
-        "TD-C-CA",
-        "Untracked"
-      ]
+      "tags": ["COM - F", "IND-CyS", "SD-AS", "TD-C-CA", "Untracked"]
     },
     {
       "id": 361,
@@ -18313,13 +17189,7 @@
         "Python": 542041,
         "Dockerfile": 329
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "SD-AS",
-        "S",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-CyS", "SD-AS", "S", "Tracked"]
     },
     {
       "id": 179,
@@ -18395,14 +17265,7 @@
         "Yacc": 1260,
         "Dockerfile": 143
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "SD-AS",
-        "TD-C-CA",
-        "S",
-        "Untracked"
-      ]
+      "tags": ["COM-C", "IND-CyS", "SD-AS", "TD-C-CA", "S", "Untracked"]
     },
     {
       "id": 337,
@@ -18480,14 +17343,7 @@
         "TSQL": 466,
         "PLSQL": 397
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "SD-AS",
-        "TD-C-CA",
-        "S",
-        "Untracked"
-      ]
+      "tags": ["COM-C", "IND-CyS", "SD-AS", "TD-C-CA", "S", "Untracked"]
     },
     {
       "id": 126,
@@ -18565,9 +17421,7 @@
         "Java": 398,
         "Roff": 276
       },
-      "tags": [
-        "Tracked"
-      ]
+      "tags": ["Tracked"]
     },
     {
       "id": 276,
@@ -18654,13 +17508,7 @@
         "Cuda": 384,
         "Batchfile": 287
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "SD-AS",
-        "S",
-        "Untracked"
-      ]
+      "tags": ["COM-C", "IND-CyS", "SD-AS", "S", "Untracked"]
     },
     {
       "id": 183,
@@ -18734,9 +17582,7 @@
         "Shell": 1266,
         "Smarty": 447
       },
-      "tags": [
-        "Tracked"
-      ]
+      "tags": ["Tracked"]
     },
     {
       "id": 554,
@@ -18821,11 +17667,7 @@
         "CMake": 1583,
         "Swift": 1363
       },
-      "tags": [
-        "COM-C",
-        "DO",
-        "IND-ALL"
-      ]
+      "tags": ["COM-C", "DO", "IND-ALL"]
     },
     {
       "id": 162,
@@ -18922,15 +17764,7 @@
         "Awk": 750,
         "BitBake": 58
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "SD-CS",
-        "SD-IS",
-        "SD-NS",
-        "S",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-CyS", "SD-CS", "SD-IS", "SD-NS", "S", "Tracked"]
     },
     {
       "id": 553,
@@ -19016,11 +17850,7 @@
         "Java": 3759,
         "PureBasic": 3579
       },
-      "tags": [
-        "COM-C",
-        "IND-CyS",
-        "S"
-      ]
+      "tags": ["COM-C", "IND-CyS", "S"]
     },
     {
       "id": 125,
@@ -19093,12 +17923,7 @@
         "Makefile": 7837,
         "PowerShell": 1530
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "S",
-        "Tracked"
-      ]
+      "tags": ["COM-C", "IND-ALL", "S", "Tracked"]
     },
     {
       "id": 556,
@@ -19170,9 +17995,7 @@
         "C#": 1384243,
         "Dockerfile": 621
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 476,
@@ -19225,10 +18048,7 @@
       "language": {
         "Shell": 237872
       },
-      "tags": [
-        "IND-ALL",
-        "Untracked"
-      ]
+      "tags": ["IND-ALL", "Untracked"]
     },
     {
       "id": 557,
@@ -19285,9 +18105,7 @@
         "Python": 23820,
         "Dockerfile": 175
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 558,
@@ -19341,9 +18159,7 @@
         "Shell": 37565,
         "Jupyter Notebook": 8732
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 559,
@@ -19412,9 +18228,7 @@
         "Swift": 1547,
         "Dockerfile": 776
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 560,
@@ -19491,9 +18305,7 @@
         "Dockerfile": 3558,
         "Java": 1962
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 561,
@@ -19567,9 +18379,7 @@
         "Shell": 16136,
         "Dockerfile": 1576
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 562,
@@ -19644,9 +18454,7 @@
         "CSS": 12427,
         "Shell": 928
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 563,
@@ -19721,9 +18529,7 @@
         "Dockerfile": 17364,
         "Makefile": 7674
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 568,
@@ -19797,9 +18603,7 @@
         "Dockerfile": 248,
         "Shell": 65
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 569,
@@ -19873,9 +18677,7 @@
         "PowerShell": 801,
         "Makefile": 577
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 570,
@@ -19949,9 +18751,7 @@
         "Java": 11155,
         "Dockerfile": 190
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 571,
@@ -20024,9 +18824,7 @@
         "Shell": 367,
         "Dockerfile": 288
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 348,
@@ -20203,14 +19001,7 @@
         "Clojure": 3993,
         "C++": 652
       },
-      "tags": [
-        "COM - F",
-        "A",
-        "IND-ALL",
-        "TD-U-DkA",
-        "Untracked",
-        "SD-Crypto"
-      ]
+      "tags": ["COM - F", "A", "IND-ALL", "TD-U-DkA", "Untracked", "SD-Crypto"]
     },
     {
       "id": 579,
@@ -20296,9 +19087,7 @@
         "Smarty": 381,
         "Clojure": 79
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 580,
@@ -20355,9 +19144,7 @@
         "Shell": 848,
         "CSS": 98
       },
-      "tags": [
-        "A"
-      ]
+      "tags": ["A"]
     },
     {
       "id": 581,
@@ -20439,9 +19226,7 @@
         "JavaScript": 248,
         "HTML": 123
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 582,
@@ -20513,9 +19298,7 @@
         "Python": 1222585,
         "Jinja": 4966
       },
-      "tags": [
-        "Tracked"
-      ]
+      "tags": ["Tracked"]
     },
     {
       "id": 589,
@@ -20586,9 +19369,7 @@
       "language": {
         "Python": 2567047
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Untracked"]
     },
     {
       "id": 590,
@@ -20665,31 +19446,29 @@
         "HTML": 0.1,
         "Other": 0.1
       },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Agent", "TD-U-AI/ML", "Tracked"]
     },
     {
-      "id": 583,
-      "bes_tracking_id": 583,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/583",
-      "name": "privacy",
-      "full_name": "Be-Secure/privacy",
-      "description": "Library for training machine learning models with privacy for training data",
-      "bes_technology_stack": "L&F",
+      "id": 593,
+      "bes_tracking_id": 593,
+      "issue_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_domain_deep_research_agent",
+      "name": "ai_domain_deep_research_agent",
+      "full_name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_domain_deep_research_agent",
+      "description": "An advanced AI research agent built using the Agno Agent framework, Together AI's Qwen model, and Composio tools. This agent helps users conduct comprehensive research on any topic by generating research questions, finding answers through multiple search engines, and compiling professional reports with Google Docs integration.",
+      "bes_technology_stack": "A",
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
-      "size": 2965,
+      "size": 0,
       "open_issues": 0,
-      "created_at": "2025-06-19T05:27:56Z",
-      "updated_at": "2025-06-23T05:52:21Z",
-      "pushed_at": "2025-06-23T05:52:17Z",
-      "git_url": "git://github.com/Be-Secure/privacy.git",
-      "clone_url": "https://github.com/Be-Secure/privacy.git",
-      "html_url": "https://github.com/Be-Secure/privacy",
+      "created_at": "",
+      "updated_at": "",
+      "pushed_at": "",
+      "git_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_domain_deep_research_agent",
+      "clone_url": "https://github.com/Be-Secure/awesome-llm-apps.git",
+      "html_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_domain_deep_research_agent",
       "homepage": "",
-      "organization": {
+      "owner": {
         "login": "Be-Secure",
         "id": 44028837,
         "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
@@ -20711,561 +19490,135 @@
         "site_admin": false
       },
       "project_repos": {
-        "main_github_url": "https://github.com/IBM/cbomkit-theia",
-        "main_bes_url": "https://github.com/Be-Secure/privacy.git",
+        "main_github_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_domain_deep_research_agent",
+        "main_bes_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_domain_deep_research_agent",
         "all_projects": [
           {
-            "id": 162747292,
-            "name": "Be-Secure/privacy",
-            "url": "https://github.com/Be-Secure/privacy.git"
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_domain_deep_research_agent",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_domain_deep_research_agent"
           }
         ],
         "all_bes_repos": [
           {
-            "id": 15658638,
-            "name": "tensorflow/privacy",
-            "url": "https://github.com/tensorflow/privacy"
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_domain_deep_research_agent",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_domain_deep_research_agent"
+          }
+        ]
+      },
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "language": {
+        "Python": 100
+      },
+      "tags": ["Agent", "TD-U-AI/ML", "Tracked"]
+    },
+    {
+      "id": 595,
+      "bes_tracking_id": 595,
+      "issue_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+      "name": "ai_legal_agent_team",
+      "full_name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+      "description": "A Streamlit application that simulates a full-service legal team using multiple AI agents to analyze legal documents and provide comprehensive legal insights. Each agent represents a different legal specialist role, from research and contract analysis to strategic planning, working together to provide thorough legal analysis and recommendations.",
+      "bes_technology_stack": "A",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 0,
+      "open_issues": 0,
+      "created_at": "",
+      "updated_at": "",
+      "pushed_at": "",
+      "git_url": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+      "clone_url": "https://github.com/Shubhamsaboo/awesome-llm-apps.git",
+      "html_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+        "main_bes_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+        "all_projects": [
+          {
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team"
           }
         ]
       },
       "license": {
         "key": "apache-2.0",
-        "name": "Apache License 2.0",
+        "name": "Apache-2.0",
         "spdx_id": "Apache-2.0",
-        "url": "https://api.github.com/licenses/apache-2.0",
-        "node_id": "MDc6TGljZW5zZTI="
+        "url": "https://www.apache.org/licenses/LICENSE-2.0",
+        "node_id": ""
       },
       "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
+        "Python": 59.7,
+        "JavaScript": 31.8,
+        "TypeScript": 7.9,
+        "CSS": 0.3,
+        "PLpgSQL": 0.1,
+        "HTML": 0.1,
+        "Other": 0.1
       },
-      "tags": [
-        "A",
-        "IND-ALL",
-        "IND-CyS",
-        "L&F",
-        "SD-DS",
-        "SD-AS",
-        "S",
-        "TD-U-AI/ML"
-      ]
+      "tags": ["Agent", "TD-U-AI/ML", "Tracked"],
+      "domain": "Technology",
+      "industry": "Banking & Financial Institutions",
+      "project_type": "Community led",
+      "reason_to_track": "Specialized Legal AI Agent Team: Legal Researcher (with DuckDuckGo search), Contract Analyst (contract review), Legal Strategist (strategy and recommendations), Team Lead (coordination and sourcing)."
     },
     {
-      "id": 584,
-      "bes_tracking_id": 584,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/584",
-      "name": "dioptra",
-      "full_name": "Be-Secure/dioptra",
-      "description": "Test Software for the Characterization of AI Technologies ",
+      "id": 599,
+      "bes_tracking_id": 599,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/599",
+      "name": "ai_recruitment_agent_team",
+      "full_name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+      "description": "An AI-powered recruitment agent team that leverages multiple AI agents to automate and enhance the recruitment process, including candidate screening, interview scheduling, and feedback analysis.",
       "bes_technology_stack": "A",
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
-      "size": 205983,
+      "size": 0,
       "open_issues": 0,
-      "created_at": "2021-06-07T14:01:28Z",
-      "updated_at": "2025-06-24T03:58:18Z",
-      "pushed_at": "2025-06-23T19:36:29Z",
-      "git_url": "git://github.com/Be-Secure/dioptra.git",
-      "clone_url": "https://github.com/Be-Secure/dioptra.git",
-      "html_url": "https://github.com/Be-Secure/dioptra.git",
-      "organization": {
-        "login": "Be-Secure",
-        "id": 44028837,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Be-Secure",
-        "html_url": "https://github.com/Be-Secure",
-        "followers_url": "https://api.github.com/users/Be-Secure/followers",
-        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
-        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
-        "repos_url": "https://api.github.com/users/Be-Secure/repos",
-        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "project_repos": {
-        "main_github_url": "https://github.com/IBM/cbomkit-theia",
-        "main_bes_url": "https://github.com/Be-Secure/dioptra.git",
-        "all_projects": [
-          {
-            "id": 44028837,
-            "name": "Be-Secure/dioptra",
-            "url": "https://github.com/Be-Secure/dioptra.git"
-          }
-        ],
-        "all_bes_repos": [
-          {
-            "id": 374686811,
-            "name": "usnistgov/dioptra",
-            "url": "https://github.com/usnistgov/dioptra"
-          }
-        ]
-      },
-      "license": {
-        "key": "other",
-        "name": "Other",
-        "spdx_id": "NOASSERTION",
-        "url": null,
-        "node_id": "MDc6TGljZW5zZTA="
-      },
-      "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
-      },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "IND-CyS",
-        "SD-AS",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
-    },
-     {
-      "id": 585,
-      "bes_tracking_id": 585,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/585",
-      "name": "crewAI",
-      "full_name": "Be-Secure/crewAI",
-      "html_url": "https://github.com/Be-Secure/crewAI",
-      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-      "bes_technology_stack": "L&F",
-      "watchers_count": 0,
-      "forks_count": 0,
-      "stargazers_count": 0,
-      "size": 132753,
-      "open_issues": 0,
-      "created_at": "2025-06-19T10:02:20Z",
-      "updated_at": "2025-06-23T07:34:11Z",
-      "pushed_at": "2025-06-23T07:34:07Z",
-      "git_url": "git://github.com/Be-Secure/crewAI.git",
-      "clone_url": "https://github.com/Be-Secure/crewAI.git",
-      "homepage": "",
-      "organization": {
-        "login": "Be-Secure",
-        "id": 44028837,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Be-Secure",
-        "html_url": "https://github.com/Be-Secure",
-        "followers_url": "https://api.github.com/users/Be-Secure/followers",
-        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
-        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
-        "repos_url": "https://api.github.com/users/Be-Secure/repos",
-        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "project_repos": {
-        "main_github_url": "https://github.com/crewAIInc/crewAI",
-        "main_bes_url": "https://github.com/Be-Secure/crewAI.git",
-        "all_projects": [
-          {
-            "id": 44028837,
-            "name": "Be-Secure/crewAI",
-            "url": "https://github.com/Be-Secure/crewAI.git"
-          }
-        ],
-        "all_bes_repos": [
-          {
-            "id": 710601088,
-            "name": "crewAIInc/crewAI",
-            "url": "https://github.com/crewAIInc/crewAI.git"
-          }
-        ]
-      },
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
-      },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "SD-AS",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
-    },
-    {
-      "id": 586,
-      "bes_tracking_id": 586,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/586",
-      "name": "AutoGPT",
-      "full_name": "Be-Secure/AutoGPT",
-      "html_url": "https://github.com/Be-Secure/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "bes_technology_stack": "A",
-      "watchers_count": 0,
-      "forks_count": 0,
-      "stargazers_count": 0,
-      "size": 1657,
-      "open_issues": 0,
-      "created_at": "2025-06-19T10:02:49Z",
-      "updated_at": "2025-06-23T11:22:18Z",
-      "pushed_at": "2025-06-23T11:22:10Z",
-      "git_url": "git://github.com/Be-Secure/AutoGPT.git",
-      "clone_url": "https://github.com/Be-Secure/AutoGPT.git",
-      "homepage": "",
-      "organization": {
-        "login": "Be-Secure",
-        "id": 44028837,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Be-Secure",
-        "html_url": "https://github.com/Be-Secure",
-        "followers_url": "https://api.github.com/users/Be-Secure/followers",
-        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
-        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
-        "repos_url": "https://api.github.com/users/Be-Secure/repos",
-        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "project_repos": {
-        "main_github_url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "main_bes_url": "https://github.com/Be-Secure/AutoGPT.git",
-        "all_projects": [
-          {
-            "id": 44028837,
-            "name": "Be-Secure/AutoGPT",
-            "url": "https://github.com/Be-Secure/AutoGPT.git"
-          }
-        ],
-        "all_bes_repos": [
-          {
-            "id": 614765452,
-            "name": "Significant-Gravitas/AutoGPT",
-            "url": "https://github.com/Significant-Gravitas/AutoGPT.git"
-          }
-        ]
-      },
-      "license": {
-        "key": "other",
-        "name": "Other",
-        "spdx_id": "NOASSERTION",
-        "url": null,
-        "node_id": "MDc6TGljZW5zZTA="
-      },
-      "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
-      },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
-    },
-    {
-      "id": 587,
-      "bes_tracking_id": 587,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/587",
-      "name": "babyagi",
-      "full_name": "Be-Secure/babyagi",
-      "description": "This newest BabyAGI is an experimental framework for a self-building autonomous agent. Earlier efforts to expand BabyAGI have made it clear that the optimal way to build a general autonomous agent is to build the simplest thing that can build itself.",
-      "bes_technology_stack": "S",
-      "watchers_count": 0,
-      "forks_count": 0,
-      "stargazers_count": 0,
-      "size": 2252,
-      "open_issues": 0,
-      "created_at": "2025-06-23T09:38:49Z",
-      "updated_at": "2025-06-23T11:14:14Z",
-      "pushed_at": "2025-06-23T11:14:07Z",
-      "git_url": "git://github.com/Be-Secure/babyagi.git",
-      "clone_url": "https://github.com/Be-Secure/babyagi.git",
-      "html_url": "https://github.com/Be-Secure/babyagi",
-      "homepage": "",
-      "organization": {
-        "login": "Be-Secure",
-        "id": 44028837,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Be-Secure",
-        "html_url": "https://github.com/Be-Secure",
-        "followers_url": "https://api.github.com/users/Be-Secure/followers",
-        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
-        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
-        "repos_url": "https://api.github.com/users/Be-Secure/repos",
-        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "project_repos": {
-        "main_github_url": "https://github.com/yoheinakajima/babyagi",
-        "main_bes_url": "https://github.com/Be-Secure/babyagi.git",
-        "all_projects": [
-          {
-            "id": 44028837,
-            "name": "Be-Secure/babyagi",
-            "url": "https://github.com/Be-Secure/babyagi.git"
-          }
-        ],
-        "all_bes_repos": [
-          {
-            "id": 622737738,
-            "name": "yoheinakajima/babyagi",
-            "url": "https://github.com/yoheinakajima/babyagi.git"
-          }
-        ]
-      },
-      "license": {
-        "key": "other",
-        "name": "Other",
-        "spdx_id": "NOASSERTION",
-        "url": null,
-        "node_id": "MDc6TGljZW5zZTA="
-      },
-      "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
-      },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "S",
-        "TD-U-AI/ML",
-        "Tracked"
-      ]
-    },
-    {
-      "id": 588,
-      "bes_tracking_id": 588,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/588",
-      "name": "semantic-kernel",
-      "full_name": "Be-Secure/semantic-kernel",
-      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
-      "bes_technology_stack": "S",
-      "watchers_count": 0,
-      "forks_count": 0,
-      "stargazers_count": 0,
-      "size": 85752,
-      "open_issues": 0,
-      "created_at": "2023-02-27T17:39:42Z",
-      "updated_at": "2025-06-24T07:39:37Z",
-      "pushed_at": "2025-06-24T08:31:21Z",
-      "git_url": "git://github.com/microsoft/semantic-kernel.git",
-      "clone_url": "https://github.com/microsoft/semantic-kernel.git",
-      "html_url": "https://github.com/Be-Secure/semantic-kernel",
-      "homepage": "",
-      "organization": {
-        "login": "Be-Secure",
-        "id": 44028837,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Be-Secure",
-        "html_url": "https://github.com/Be-Secure",
-        "followers_url": "https://api.github.com/users/Be-Secure/followers",
-        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
-        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
-        "repos_url": "https://api.github.com/users/Be-Secure/repos",
-        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "project_repos": {
-        "main_github_url": "https://github.com/microsoft/semantic-kernel",
-        "main_bes_url": "https://github.com/Be-Secure/semantic-kernel.git",
-        "all_projects": [
-          {
-            "id": 44028837,
-            "name": "Be-Secure/semantic-kernel",
-            "url": "https://github.com/Be-Secure/semantic-kernel.git"
-          }
-        ],
-        "all_bes_repos": [
-          {
-            "id": 607289185,
-            "name": "microsoft/semantic-kernel",
-            "url": "https://github.com/microsoft/semantic-kernel.git"
-          }
-        ]
-      },
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
-      },
-      "tags": [
-        "COM-F",
-        "IND-ALL",
-        "TD-C-A",
-        "TD-C-Ms",
-        "SD-AS",
-        "TD-C-WA",
-        "S",
-        "TD-U-AI/ML"
-      ]
-    },
-    {
-      "id": 588,
-      "bes_tracking_id": 588,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/588",
-      "name": "semantic-kernel",
-      "full_name": "Be-Secure/semantic-kernel",
-      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
-      "bes_technology_stack": "S",
-      "watchers_count": 0,
-      "forks_count": 0,
-      "stargazers_count": 0,
-      "size": 85752,
-      "open_issues": 0,
-      "created_at": "2023-02-27T17:39:42Z",
-      "updated_at": "2025-06-24T07:39:37Z",
-      "pushed_at": "2025-06-24T08:31:21Z",
-      "git_url": "git://github.com/microsoft/semantic-kernel.git",
-      "clone_url": "https://github.com/microsoft/semantic-kernel.git",
-      "html_url": "https://github.com/Be-Secure/semantic-kernel",
-      "homepage": "",
-      "organization": {
-        "login": "Be-Secure",
-        "id": 44028837,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Be-Secure",
-        "html_url": "https://github.com/Be-Secure",
-        "followers_url": "https://api.github.com/users/Be-Secure/followers",
-        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
-        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
-        "repos_url": "https://api.github.com/users/Be-Secure/repos",
-        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "project_repos": {
-        "main_github_url": "https://github.com/microsoft/semantic-kernel",
-        "main_bes_url": "https://github.com/Be-Secure/semantic-kernel.git",
-        "all_projects": [
-          {
-            "id": 44028837,
-            "name": "Be-Secure/semantic-kernel",
-            "url": "https://github.com/Be-Secure/semantic-kernel.git"
-          }
-        ],
-        "all_bes_repos": [
-          {
-            "id": 607289185,
-            "name": "microsoft/semantic-kernel",
-            "url": "https://github.com/microsoft/semantic-kernel.git"
-          }
-        ]
-      },
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
-      },
-      "tags": [
-        "COM-F",
-        "IND-ALL",
-        "TD-C-A",
-        "TD-C-Ms",
-        "SD-AS",
-        "TD-C-WA",
-        "S",
-        "TD-U-AI/ML"
-      ]
-    },
-    {
-      "id": 627,
-      "bes_tracking_id": 627,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/627",
-      "name": "chroma",
-      "full_name": "Be-Secure/chroma",
-      "description": "the AI-native open-source embedding database",
-      "bes_technology_stack": "A",
-      "watchers_count": 0,
-      "forks_count": 0,
-      "stargazers_count": 0,
-      "size": 771307,
-      "open_issues": 0,
-      "created_at": "2025-07-02T09:43:39Z",
-      "updated_at": "2025-07-11T11:58:05Z",
-      "pushed_at": "2025-07-11T11:57:58Z",
-      "git_url": "git://github.com/Be-Secure/chroma.git",
-      "clone_url": "https://github.com/Be-Secure/chroma.git",
-      "html_url": "https://github.com/Be-Secure/chroma",
+      "created_at": "",
+      "updated_at": "",
+      "pushed_at": "",
+      "git_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+      "clone_url": "https://github.com/Be-Secure/awesome-llm-apps.git",
+      "html_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
       "homepage": "",
       "owner": {
         "login": "Be-Secure",
@@ -21289,67 +19642,64 @@
         "site_admin": false
       },
       "project_repos": {
-        "main_github_url": "https://github.com/chroma-core/chroma",
-        "main_bes_url": "https://github.com/Be-Secure/chroma",
+        "main_github_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+        "main_bes_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
         "all_projects": [
           {
-            "id": 546206616,
-            "name": "chroma-core/chroma",
-            "url": "https://github.com/chroma-core/chroma"
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team"
           }
         ],
         "all_bes_repos": [
           {
-            "id": 1012412213,
-            "name": "Be-Secure/chroma",
-            "url": "https://github.com/Be-Secure/chroma"
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team"
           }
         ]
       },
       "license": {
         "key": "apache-2.0",
-        "name": "Apache License 2.0",
+        "name": "Apache-2.0",
         "spdx_id": "Apache-2.0",
-        "url": "https://api.github.com/licenses/apache-2.0",
-        "node_id": "MDc6TGljZW5zZTI="
+        "url": "https://www.apache.org/licenses/LICENSE-2.0",
+        "node_id": ""
       },
       "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
+        "Python": 59.7,
+        "JavaScript": 31.8,
+        "TypeScript": 7.9,
+        "CSS": 0.3,
+        "PLpgSQL": 0.1,
+        "HTML": 0.1,
+        "Other": 0.1
       },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-C-D",
-        "TD-C-CA",
-        "TD-U-ApD",
-        "Tracked",
-        "TD-U-Db"
-      ]
+      "tags": ["Agent", "TD-U-AI/ML", "Tracked"],
+      "domain": "Technology",
+      "industry": "Human Resources",
+      "project_type": "Community led",
+      "reason_to_track": "AI-powered recruitment agent team automates and enhances recruitment workflows, improving efficiency and decision-making in HR processes."
     },
     {
-      "id": 628,
-      "bes_tracking_id": 628,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/628",
-      "name": "guardrails",
-      "full_name": "Be-Secure/guardrails",
-      "description": "Adding guardrails to large language models.",
+      "id": 600,
+      "bes_tracking_id": 600,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/600",
+      "name": "ai_aqi_analysis_agent",
+      "full_name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+      "description": "The AQI Analysis Agent is a powerful air quality monitoring and health recommendation tool powered by Firecrawl and Agno's AI Agent framework. This app helps users make informed decisions about outdoor activities by analyzing real-time air quality data and providing personalized health recommendations.",
       "bes_technology_stack": "A",
       "watchers_count": 0,
       "forks_count": 0,
       "stargazers_count": 0,
-      "size": 40412,
+      "size": 0,
       "open_issues": 0,
-      "created_at": "2024-07-16T08:48:26Z",
-      "updated_at": "2024-09-19T09:38:51Z",
-      "pushed_at": "2024-09-19T09:38:48Z",
-      "git_url": "git://github.com/Be-Secure/guardrails.git",
-      "clone_url": "https://github.com/Be-Secure/guardrails.git",
-      "html_url": "https://github.com/Be-Secure/guardrails",
+      "created_at": "",
+      "updated_at": "",
+      "pushed_at": "",
+      "git_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+      "clone_url": "https://github.com/Be-Secure/awesome-llm-apps.git",
+      "html_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
       "homepage": "",
       "owner": {
         "login": "Be-Secure",
@@ -21373,370 +19723,38 @@
         "site_admin": false
       },
       "project_repos": {
-        "main_github_url": "https://github.com/guardrails-ai/guardrails",
-        "main_bes_url": "https://github.com/Be-Secure/guardrails",
+        "main_github_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+        "main_bes_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
         "all_projects": [
           {
-            "id": 594609262,
-            "name": "guardrails-ai/guardrails",
-            "url": "https://github.com/guardrails-ai/guardrails"
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent"
           }
         ],
         "all_bes_repos": [
           {
-            "id": 829347358,
-            "name": "Be-Secure/guardrails",
-            "url": "https://github.com/Be-Secure/guardrails"
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent"
           }
         ]
       },
       "license": {
         "key": "apache-2.0",
-        "name": "Apache License 2.0",
+        "name": "Apache-2.0",
         "spdx_id": "Apache-2.0",
-        "url": "https://api.github.com/licenses/apache-2.0",
-        "node_id": "MDc6TGljZW5zZTI="
+        "url": "https://www.apache.org/licenses/LICENSE-2.0",
+        "node_id": ""
       },
       "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
+        "Python": 100.0
       },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "L&F",
-        "SD-AS",
-        "S",
-        "TD-U-AI/ML"
-      ]
-    },
-    {
-      "id": 629,
-      "bes_tracking_id": 629,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/629",
-      "name": "milvus",
-      "full_name": "Be-Secure/milvus",
-      "description": "A pytorch adversarial library for attack and defense methods on images and graphs",
-      "bes_technology_stack": "S",
-      "watchers_count": 0,
-      "forks_count": 0,
-      "stargazers_count": 0,
-      "size": 12506,
-      "open_issues": 0,
-      "created_at": "2025-06-24T06:24:22Z",
-      "updated_at": "2025-06-24T06:24:22Z",
-      "pushed_at": "2024-07-23T13:21:18Z",
-      "git_url": "git://github.com/Be-Secure/milvus.git",
-      "clone_url": "https://github.com/Be-Secure/milvus.git",
-      "html_url": "https://github.com/Be-Secure/milvus.git",
-      "homepage": "",
-      "owner": {
-        "login": "Be-Secure",
-        "id": 44028837,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Be-Secure",
-        "html_url": "https://github.com/Be-Secure",
-        "followers_url": "https://api.github.com/users/Be-Secure/followers",
-        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
-        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
-        "repos_url": "https://api.github.com/users/Be-Secure/repos",
-        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "project_repos": {
-        "main_github_url": "https://github.com/milvus-io/milvus",
-        "main_bes_url": "https://github.com/Be-Secure/DeepRobust",
-        "all_projects": [
-          {
-            "id": 210014892,
-            "name": "milvus-io/milvus",
-            "url": "https://github.com/milvus-io/milvus"
-          }
-        ],
-        "all_bes_repos": [
-          {
-            "id": 1007528541,
-            "name": "Be-Secure/DeepRobust",
-            "url": "https://github.com/Be-Secure/DeepRobust"
-          }
-        ]
-      },
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
-      },
-      "tags": [
-        "COM-C",
-        "IND-ALL",
-        "TD-C-D",
-        "S",
-        "TD-U-AI/ML",
-        "TD-U-Db"
-      ]
-    },
-    {
-      "id": 630,
-      "bes_tracking_id": 630,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/630",
-      "name": "qdrant",
-      "full_name": "Be-Secure/qdrant",
-      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
-      "bes_technology_stack": "A",
-      "watchers_count": 0,
-      "forks_count": 0,
-      "stargazers_count": 0,
-      "size": 34485,
-      "open_issues": 0,
-      "created_at": "2025-07-02T09:31:53Z",
-      "updated_at": "2025-07-11T12:21:08Z",
-      "pushed_at": "2025-07-11T12:21:01Z",
-      "git_url": "git://github.com/Be-Secure/qdrant.git",
-      "clone_url": "https://github.com/Be-Secure/qdrant.git",
-      "html_url": "https://github.com/Be-Secure/qdrant",
-      "homepage": "",
-      "owner": {
-        "login": "Be-Secure",
-        "id": 44028837,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Be-Secure",
-        "html_url": "https://github.com/Be-Secure",
-        "followers_url": "https://api.github.com/users/Be-Secure/followers",
-        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
-        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
-        "repos_url": "https://api.github.com/users/Be-Secure/repos",
-        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "project_repos": {
-        "main_github_url": "https://github.com/qdrant/qdrant",
-        "main_bes_url": "https://github.com/Be-Secure/qdrant",
-        "all_projects": [
-          {
-            "id": 210014892,
-            "name": "qdrant/qdrant",
-            "url": "https://github.com/qdrant/qdrant"
-          }
-        ],
-        "all_bes_repos": [
-          {
-            "id": 1007528541,
-            "name": "Be-Secure/qdrant",
-            "url": "https://github.com/Be-Secure/qdrant"
-          }
-        ]
-      },
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
-      },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-C-S",
-        "TD-U-ApD",
-        "TD-U-AI/ML",
-        "TD-U-Db"
-      ]
-    },
-    {
-      "id": 631,
-      "bes_tracking_id": 631,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/631",
-      "name": "weaviate",
-      "full_name": "Be-Secure/weaviate",
-      "description": "A pytorch adversarial library for attack and defense methods on images and graphs",
-      "bes_technology_stack": "S",
-      "watchers_count": 0,
-      "forks_count": 0,
-      "stargazers_count": 0,
-      "size": 1017133,
-      "open_issues": 0,
-      "created_at": "2025-07-02T09:39:33Z",
-      "updated_at": "2025-07-11T12:31:47Z",
-      "pushed_at": "2025-07-11T12:31:43Z",
-      "git_url": "git://github.com/Be-Secure/weaviate.git",
-      "clone_url": "https://github.com/Be-Secure/weaviate.git",
-      "html_url": "https://github.com/Be-Secure/weaviate",
-      "homepage": "",
-      "owner": {
-        "login": "Be-Secure",
-        "id": 44028837,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Be-Secure",
-        "html_url": "https://github.com/Be-Secure",
-        "followers_url": "https://api.github.com/users/Be-Secure/followers",
-        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
-        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
-        "repos_url": "https://api.github.com/users/Be-Secure/repos",
-        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "project_repos": {
-        "main_github_url": "https://github.com/weaviate/weaviate",
-        "main_bes_url": "https://github.com/Be-Secure/weaviate",
-        "all_projects": [
-          {
-            "id": 1012410002,
-            "name": "weaviate/weaviate",
-            "url": "https://github.com/weaviate/weaviate"
-          }
-        ],
-        "all_bes_repos": [
-          {
-            "id": 55072677,
-            "name": "Be-Secure/weaviate",
-            "url": "https://github.com/Be-Secure/weaviate"
-          }
-        ]
-      },
-      "license": {
-        "key": "bsd-3-clause",
-        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
-        "spdx_id": "BSD-3-Clause",
-        "url": "https://api.github.com/licenses/bsd-3-clause",
-        "node_id": "MDc6TGljZW5zZTU="
-      },
-      "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
-      },
-      "tags": [
-        "COM-C",
-        "A",
-        "IND-ALL",
-        "TD-C-D",
-        "TD-U-ApD",
-        "TD-U-AI/ML",
-        "TD-U-Db"
-      ]
-    },
-    {
-      "id": 594,
-      "bes_tracking_id": 594,
-      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/594",
-      "name": "llama_index",
-      "full_name": "Be-Secure/llama_index",
-      "description": "LlamaIndex is the leading framework for building LLM-powered agents over your data.",
-      "bes_technology_stack": "S",
-      "watchers_count": 0,
-      "forks_count": 0,
-      "stargazers_count": 0,
-      "size": 307095,
-      "open_issues": 0,
-      "created_at": "2025-06-30T17:44:28Z",
-      "updated_at": "2025-07-01T14:37:48Z",
-      "pushed_at": "2025-07-01T14:37:44Z",
-      "git_url": "git://github.com/Be-Secure/llama_index.git",
-      "clone_url": "https://github.com/Be-Secure/llama_index.git",
-      "html_url": "https://github.com/Be-Secure/llama_index",
-      "homepage": "",
-      "owner": {
-        "login": "Be-Secure",
-        "id": 44028837,
-        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Be-Secure",
-        "html_url": "https://github.com/Be-Secure",
-        "followers_url": "https://api.github.com/users/Be-Secure/followers",
-        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
-        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
-        "repos_url": "https://api.github.com/users/Be-Secure/repos",
-        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
-        "type": "Organization",
-        "user_view_type": "public",
-        "site_admin": false
-      },
-      "project_repos": {
-        "main_github_url": "https://github.com/run-llama/llama_index",
-        "main_bes_url": "https://github.com/Be-Secure/llama_index",
-        "all_projects": [
-          {
-            "id": 560704231,
-            "name": "run-llama/llama_index",
-            "url": "https://github.com/run-llama/llama_index"
-          }
-        ],
-        "all_bes_repos": [
-          {
-            "id": 1011364171,
-            "name": "Be-Secure/llama_index",
-            "url": "https://github.com/Be-Secure/llama_index"
-          }
-        ]
-      },
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdx_id": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "node_id": "MDc6TGljZW5zZTEz"
-      },
-      "language": {
-        "TypeScript": 212643,
-        "HTML": 177976,
-        "SCSS": 151671,
-        "JavaScript": 22878,
-        "Dockerfile": 1419
-      },
-      "tags": [
-        "Untracked"
-      ]
+      "tags": ["Agent", "TD-U-AI/ML", "Tracked"],
+      "domain": "Technology",
+      "industry": "All",
+      "project_type": "Community led",
+      "reason_to_track": "The AQI Analysis Agent is a powerful air quality monitoring and health recommendation tool that leverages AI to provide real-time data analysis and personalized health advice."
     }
   ]
 }
