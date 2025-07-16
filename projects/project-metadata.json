@@ -19446,7 +19446,7 @@
         "HTML": 0.1,
         "Other": 0.1
       },
-      "tags": ["Tracked"]
+      "tags": ["Agent", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 593,
@@ -19517,7 +19517,7 @@
       "language": {
         "Python": 100
       },
-      "tags": ["Tracked"]
+      "tags": ["Agent", "TD-U-AI/ML", "Tracked"]
     },
     {
       "id": 595,
@@ -19594,18 +19594,167 @@
         "HTML": 0.1,
         "Other": 0.1
       },
-      "tags": [
-        "Tracked",
-        "Specialized Legal AI Agent Team",
-        "Legal Researcher",
-        "Contract Analyst",
-        "Legal Strategist",
-        "Team Lead"
-      ],
+      "tags": ["Agent", "TD-U-AI/ML", "Tracked"],
       "domain": "Technology",
       "industry": "Banking & Financial Institutions",
       "project_type": "Community led",
       "reason_to_track": "Specialized Legal AI Agent Team: Legal Researcher (with DuckDuckGo search), Contract Analyst (contract review), Legal Strategist (strategy and recommendations), Team Lead (coordination and sourcing)."
+    },
+    {
+      "id": 599,
+      "bes_tracking_id": 599,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/599",
+      "name": "ai_recruitment_agent_team",
+      "full_name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+      "description": "An AI-powered recruitment agent team that leverages multiple AI agents to automate and enhance the recruitment process, including candidate screening, interview scheduling, and feedback analysis.",
+      "bes_technology_stack": "A",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 0,
+      "open_issues": 0,
+      "created_at": "",
+      "updated_at": "",
+      "pushed_at": "",
+      "git_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+      "clone_url": "https://github.com/Be-Secure/awesome-llm-apps.git",
+      "html_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+        "main_bes_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+        "all_projects": [
+          {
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/agent_teams/ai_recruitment_agent_team"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache-2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://www.apache.org/licenses/LICENSE-2.0",
+        "node_id": ""
+      },
+      "language": {
+        "Python": 59.7,
+        "JavaScript": 31.8,
+        "TypeScript": 7.9,
+        "CSS": 0.3,
+        "PLpgSQL": 0.1,
+        "HTML": 0.1,
+        "Other": 0.1
+      },
+      "tags": ["Agent", "TD-U-AI/ML", "Tracked"],
+      "domain": "Technology",
+      "industry": "Human Resources",
+      "project_type": "Community led",
+      "reason_to_track": "AI-powered recruitment agent team automates and enhances recruitment workflows, improving efficiency and decision-making in HR processes."
+    },
+    {
+      "id": 600,
+      "bes_tracking_id": 600,
+      "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/600",
+      "name": "ai_aqi_analysis_agent",
+      "full_name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+      "description": "The AQI Analysis Agent is a powerful air quality monitoring and health recommendation tool powered by Firecrawl and Agno's AI Agent framework. This app helps users make informed decisions about outdoor activities by analyzing real-time air quality data and providing personalized health recommendations.",
+      "bes_technology_stack": "A",
+      "watchers_count": 0,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "size": 0,
+      "open_issues": 0,
+      "created_at": "",
+      "updated_at": "",
+      "pushed_at": "",
+      "git_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+      "clone_url": "https://github.com/Be-Secure/awesome-llm-apps.git",
+      "html_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+      "homepage": "",
+      "owner": {
+        "login": "Be-Secure",
+        "id": 44028837,
+        "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Be-Secure",
+        "html_url": "https://github.com/Be-Secure",
+        "followers_url": "https://api.github.com/users/Be-Secure/followers",
+        "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+        "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+        "repos_url": "https://api.github.com/users/Be-Secure/repos",
+        "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+        "type": "Organization",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "project_repos": {
+        "main_github_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+        "main_bes_url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+        "all_projects": [
+          {
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent"
+          }
+        ],
+        "all_bes_repos": [
+          {
+            "id": 0,
+            "name": "Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent",
+            "url": "https://github.com/Be-Secure/awesome-llm-apps/tree/main/advanced_ai_agents/multi_agent_apps/ai_aqi_analysis_agent"
+          }
+        ]
+      },
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache-2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://www.apache.org/licenses/LICENSE-2.0",
+        "node_id": ""
+      },
+      "language": {
+        "Python": 100.0
+      },
+      "tags": ["Agent", "TD-U-AI/ML", "Tracked"],
+      "domain": "Technology",
+      "industry": "All",
+      "project_type": "Community led",
+      "reason_to_track": "The AQI Analysis Agent is a powerful air quality monitoring and health recommendation tool that leverages AI to provide real-time data analysis and personalized health advice."
     }
   ]
 }
