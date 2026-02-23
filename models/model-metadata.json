@@ -4,6 +4,35 @@
     "bes_tracking_id": 1,
     "issue_url": "",
     "type": "LLM",
+    "name": "deepseek-r1:8b",
+    "organization": "deepseek-ai",
+    "description": "DeepSeek-R1:8b, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated remarkable performance on reasoning. With RL, DeepSeek-R1-Zero naturally emerged with numerous powerful and interesting reasoning behaviors. However, DeepSeek-R1-Zero encounters challenges such as endless repetition, poor readability, and language mixing. To address these issues and further enhance reasoning performance, we introduce DeepSeek-R1, which incorporates cold-start data before RL. DeepSeek-R1 achieves performance comparable to OpenAI-o1 across math, code, and reasoning tasks.",
+    "created_date": "2025-02-18",
+    "model_url": "https://ollama.com/library/deepseek-r1",
+    "data_url": "",
+    "label_url": "",
+    "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+    "model_card": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+    "modality": "text; text",
+    "analysis": "",
+    "size": "8B params",
+    "dependencies": [],
+    "training_emissions": "",
+    "training_time": "",
+    "training_hardware": "",
+    "quality_control": ["Security Benchmark"],
+    "access": "open",
+    "license": "mit",
+    "intended_uses": "DeepSeek-R1 is designed for various NLP tasks, including text generation, reasoning, code assistance, translation, summarization, and conversational AI. It supports education, research, content creation, and software development while requiring human oversight for critical decisions to ensure accuracy and ethical use.",
+    "prohibited_uses": "",
+    "monitoring": "",
+    "feedback": ""
+  },
+  {
+    "id": 2,
+    "bes_tracking_id": 2,
+    "issue_url": "",
+    "type": "LLM",
     "name": "DeepSeek-R1:7b",
     "organization": "deepseek-ai",
     "description": "DeepSeek-R1:7b, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated remarkable performance on reasoning. With RL, DeepSeek-R1-Zero naturally emerged with numerous powerful and interesting reasoning behaviors. However, DeepSeek-R1-Zero encounters challenges such as endless repetition, poor readability, and language mixing. To address these issues and further enhance reasoning performance, we introduce DeepSeek-R1, which incorporates cold-start data before RL. DeepSeek-R1 achieves performance comparable to OpenAI-o1 across math, code, and reasoning tasks. To support the research community, we have open-sourced DeepSeek-R1-Zero, DeepSeek-R1, and six dense models distilled from DeepSeek-R1 based on Llama and Qwen. DeepSeek-R1-Distill-Qwen-32B outperforms OpenAI-o1-mini across various benchmarks, achieving new state-of-the-art results for dense models.",
@@ -29,8 +58,8 @@
     "feedback": ""
   },
   {
-    "id": 2,
-    "bes_tracking_id": 2,
+    "id": 3,
+    "bes_tracking_id": 3,
     "issue_url": "",
     "type": "LLM",
     "name": "llama3:8b",
@@ -58,8 +87,8 @@
     "feedback": ""
   },
   {
-    "id": 3,
-    "bes_tracking_id": 3,
+    "id": 4,
+    "bes_tracking_id": 4,
     "issue_url": "",
     "type": "LLM",
     "name": "llama3.1:8b",
@@ -87,8 +116,8 @@
     "feedback": ""
   },
   {
-    "id": 4,
-    "bes_tracking_id": 4,
+    "id": 5,
+    "bes_tracking_id": 5,
     "issue_url": "",
     "type": "LLM",
     "name": "granite-code:8b",
@@ -116,8 +145,8 @@
     "feedback": ""
   },
   {
-    "id": 5,
-    "bes_tracking_id": 5,
+    "id": 6,
+    "bes_tracking_id": 6,
     "issue_url": "",
     "type": "LLM",
     "name": "codellama:7b",
@@ -145,8 +174,8 @@
     "feedback": ""
   },
   {
-    "id": 6,
-    "bes_tracking_id": 6,
+    "id": 7,
+    "bes_tracking_id": 7,
     "issue_url": "",
     "type": "LLM",
     "name": "granite3.2:8b",
@@ -174,8 +203,8 @@
     "feedback": ""
   },
   {
-    "id": 7,
-    "bes_tracking_id": 7,
+    "id": 8,
+    "bes_tracking_id": 8,
     "issue_url": "",
     "type": "SLM",
     "name": "phi4:14b",
@@ -203,8 +232,8 @@
     "feedback": ""
   },
   {
-    "id": 8,
-    "bes_tracking_id": 8,
+    "id": 9,
+    "bes_tracking_id": 9,
     "issue_url": "",
     "type": "LLM",
     "name": "mistral:7b",
@@ -232,8 +261,8 @@
     "feedback": ""
   },
   {
-    "id": 9,
-    "bes_tracking_id": 9,
+    "id": 10,
+    "bes_tracking_id": 10,
     "issue_url": "",
     "type": "LLM",
     "name": "roberta-base-openai-detector",
@@ -261,8 +290,8 @@
     "feedback": "https://huggingface.co/openai-community/roberta-base-openai-detector/discussions"
   },
   {
-    "id": 10,
-    "bes_tracking_id": 10,
+    "id": 11,
+    "bes_tracking_id": 11,
     "issue_url": "",
     "type": "Classic",
     "name": "bes_image_classification",
@@ -290,8 +319,8 @@
     "feedback": ""
   },
   {
-    "id": 11,
-    "bes_tracking_id": 11,
+    "id": 12,
+    "bes_tracking_id": 12,
     "issue_url": "",
     "type": "Classic",
     "name": "structured-data-classification-grn-vsn",
@@ -319,8 +348,8 @@
     "feedback": "https://huggingface.co/keras-io/structured-data-classification-grn-vsn/discussions"
   },
   {
-    "id": 12,
-    "bes_tracking_id": 12,
+    "id": 13,
+    "bes_tracking_id": 13,
     "issue_url": "",
     "type": "Classic",
     "name": "xgboost-example",
@@ -348,8 +377,8 @@
     "feedback": ""
   },
   {
-    "id": 13,
-    "bes_tracking_id": 13,
+    "id": 14,
+    "bes_tracking_id": 14,
     "issue_url": "",
     "type": "Classic",
     "name": "TF_Decision_Trees",
@@ -377,8 +406,8 @@
     "feedback": "https://huggingface.co/keras-io/TF_Decision_Trees/discussions"
   },
   {
-    "id": 14,
-    "bes_tracking_id": 14,
+    "id": 15,
+    "bes_tracking_id": 15,
     "issue_url": "",
     "type": "Classic",
     "name": "tab_transformer",
@@ -406,8 +435,8 @@
     "feedback": "https://huggingface.co/keras-io/tab_transformer/discussions"
   },
   {
-    "id": 15,
-    "bes_tracking_id": 15,
+    "id": 16,
+    "bes_tracking_id": 16,
     "issue_url": "",
     "type": "Classic",
     "name": "imbalanced_classification",
@@ -435,8 +464,8 @@
     "feedback": "https://huggingface.co/keras-io/imbalanced_classification/discussions"
   },
   {
-    "id": 16,
-    "bes_tracking_id": 16,
+    "id": 17,
+    "bes_tracking_id": 17,
     "issue_url": "",
     "type": "Classic",
     "name": "breast_cancernb8gjv4n-diagnosis-classification",
@@ -464,8 +493,8 @@
     "feedback": "https://huggingface.co/merve/breast_cancernb8gjv4n-diagnosis-classification/discussions"
   },
   {
-    "id": 17,
-    "bes_tracking_id": 17,
+    "id": 18,
+    "bes_tracking_id": 18,
     "issue_url": "",
     "type": "Classic",
     "name": "tabular-playground",
@@ -493,8 +522,8 @@
     "feedback": "https://huggingface.co/demo-org/tabular-playground/discussions"
   },
   {
-    "id": 18,
-    "bes_tracking_id": 18,
+    "id": 19,
+    "bes_tracking_id": 19,
     "issue_url": "",
     "type": "Classic",
     "name": "emb-gam-dino",
@@ -522,8 +551,8 @@
     "feedback": "https://huggingface.co/Ramos-Ramos/emb-gam-dino/discussions"
   },
   {
-    "id": 19,
-    "bes_tracking_id": 19,
+    "id": 20,
+    "bes_tracking_id": 20,
     "issue_url": "",
     "type": "Classic",
     "name": "ml-generation-failure-prediction",
@@ -551,8 +580,8 @@
     "feedback": "https://huggingface.co/moro23/ml-generation-failure-prediction/discussions"
   },
   {
-    "id": 20,
-    "bes_tracking_id": 20,
+    "id": 21,
+    "bes_tracking_id": 21,
     "issue_url": "",
     "type": "Classic",
     "name": "Image_Segmentation",
@@ -580,8 +609,8 @@
     "feedback": ""
   },
   {
-    "id": 21,
-    "bes_tracking_id": 21,
+    "id": 22,
+    "bes_tracking_id": 22,
     "issue_url": "",
     "type": "Classic",
     "name": "Timeseries_Forecasting",
@@ -609,8 +638,8 @@
     "feedback": ""
   },
   {
-    "id": 22,
-    "bes_tracking_id": 22,
+    "id": 23,
+    "bes_tracking_id": 23,
     "issue_url": "",
     "type": "Classic",
     "name": "Tabular_Classification",
@@ -638,8 +667,8 @@
     "feedback": ""
   },
   {
-    "id": 23,
-    "bes_tracking_id": 23,
+    "id": 24,
+    "bes_tracking_id": 24,
     "issue_url": "",
     "type": "LLM",
     "name": "MathCoder",
@@ -667,8 +696,8 @@
     "feedback": ""
   },
   {
-    "id": 24,
-    "bes_tracking_id": 24,
+    "id": 25,
+    "bes_tracking_id": 25,
     "issue_url": "",
     "type": "LLM",
     "name": "Falcon-180B",
@@ -696,8 +725,8 @@
     "feedback": "https://huggingface.co/tiiuae/falcon-180b/discussions"
   },
   {
-    "id": 25,
-    "bes_tracking_id": 25,
+    "id": 26,
+    "bes_tracking_id": 26,
     "issue_url": "",
     "type": "DL Model",
     "name": "resnet-18",
@@ -725,8 +754,8 @@
     "feedback": ""
   },
   {
-    "id": 26,
-    "bes_tracking_id": 26,
+    "id": 27,
+    "bes_tracking_id": 27,
     "issue_url": "",
     "type": "LLM",
     "name": "bert-base-arabic-camelbert-ca-pos-glf",
@@ -754,8 +783,8 @@
     "feedback": ""
   },
   {
-    "id": 27,
-    "bes_tracking_id": 27,
+    "id": 28,
+    "bes_tracking_id": 28,
     "issue_url": "",
     "type": "LLM",
     "name": "all-MiniLM-L6-v2",
@@ -783,8 +812,8 @@
     "feedback": ""
   },
   {
-    "id": 28,
-    "bes_tracking_id": 28,
+    "id": 29,
+    "bes_tracking_id": 29,
     "issue_url": "",
     "type": "LLM",
     "name": "paraphrase-multilingual-MiniLM-L12-v2",
@@ -812,8 +841,8 @@
     "feedback": ""
   },
   {
-    "id": 29,
-    "bes_tracking_id": 29,
+    "id": 30,
+    "bes_tracking_id": 30,
     "issue_url": "",
     "type": "LLM",
     "name": "bert-base-NER",
@@ -841,8 +870,8 @@
     "feedback": ""
   },
   {
-    "id": 30,
-    "bes_tracking_id": 30,
+    "id": 31,
+    "bes_tracking_id": 31,
     "issue_url": "",
     "type": "LLM",
     "name": "vit-base-patch16-224",
@@ -870,8 +899,8 @@
     "feedback": ""
   },
   {
-    "id": 31,
-    "bes_tracking_id": 31,
+    "id": 32,
+    "bes_tracking_id": 32,
     "issue_url": "",
     "type": "DL Model",
     "name": "resnet-50",
@@ -899,8 +928,8 @@
     "feedback": ""
   },
   {
-    "id": 32,
-    "bes_tracking_id": 32,
+    "id": 33,
+    "bes_tracking_id": 33,
     "issue_url": "",
     "type": "LLM",
     "name": "collaborative-filtering-movielens",
@@ -928,8 +957,8 @@
     "feedback": "https://huggingface.co/keras-io/collaborative-filtering-movielens/discussions"
   },
   {
-    "id": 33,
-    "bes_tracking_id": 33,
+    "id": 34,
+    "bes_tracking_id": 34,
     "issue_url": "",
     "type": "Classic",
     "name": "modeltest",
@@ -957,8 +986,8 @@
     "feedback": "https://huggingface.co/vendorabc/modeltest/discussions"
   },
   {
-    "id": 34,
-    "bes_tracking_id": 34,
+    "id": 35,
+    "bes_tracking_id": 35,
     "issue_url": "",
     "type": "LLM",
     "name": "flan-t5-xxl",
@@ -986,8 +1015,8 @@
     "feedback": "https://huggingface.co/google/flan-t5-xxl/discussions"
   },
   {
-    "id": 35,
-    "bes_tracking_id": 35,
+    "id": 36,
+    "bes_tracking_id": 36,
     "issue_url": "",
     "type": "DL Model",
     "name": "distilbert-base-uncased-finetuned-sst-2-english",
@@ -1015,8 +1044,8 @@
     "feedback": "https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english/discussions"
   },
   {
-    "id": 36,
-    "bes_tracking_id": 36,
+    "id": 37,
+    "bes_tracking_id": 37,
     "issue_url": "",
     "type": "LLM",
     "name": "bert-base-uncased",
@@ -1044,8 +1073,8 @@
     "feedback": "https://huggingface.co/google-bert/bert-base-uncased/discussions"
   },
   {
-    "id": 37,
-    "bes_tracking_id": 37,
+    "id": 38,
+    "bes_tracking_id": 38,
     "issue_url": "",
     "type": "LLM",
     "name": "codet5-base",
@@ -1073,8 +1102,8 @@
     "feedback": ""
   },
   {
-    "id": 38,
-    "bes_tracking_id": 38,
+    "id": 39,
+    "bes_tracking_id": 39,
     "issue_url": "",
     "type": "LLM",
     "name": "gpt-neo-1.3B",
@@ -1102,8 +1131,8 @@
     "feedback": ""
   },
   {
-    "id": 39,
-    "bes_tracking_id": 39,
+    "id": 40,
+    "bes_tracking_id": 40,
     "issue_url": "",
     "type": "LLM",
     "name": "detoxify",
@@ -1131,8 +1160,8 @@
     "feedback": ""
   },
   {
-    "id": 40,
-    "bes_tracking_id": 8,
+    "id": 41,
+    "bes_tracking_id": 41,
     "issue_url": "",
     "type": "LLM",
     "name": "roberta-cwe-classifier-kelemia",
@@ -1160,8 +1189,8 @@
     "feedback": ""
   },
   {
-    "id": 41,
-    "bes_tracking_id": 9,
+    "id": 42,
+    "bes_tracking_id": 42,
     "issue_url": "",
     "type": "LLM",
     "name": "deberta-v3-base-prompt-injection-v2",
@@ -1189,8 +1218,8 @@
     "feedback": "https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2/discussions"
   },
   {
-    "id": 42,
-    "bes_tracking_id": 42,
+    "id": 43,
+    "bes_tracking_id": 43,
     "issue_url": "",
     "type": "DL Model",
     "name": "mobilenet_v2",
